@@ -1,0 +1,1330 @@
+{
+  "ai_audit_complete": false,
+  "all_automatic_checks_pass": true,
+  "baseline_calibration_execution_allowed": false,
+  "builder_sha256": "b3ba73e505a1c081a1180dada8193411b7ca4309d01a6283ee07513a3f125b94",
+  "design_sha256": "c60a579729376d391582dbc03af9cfd3ba0a1e1743a9e9a884967aacc177adfc",
+  "family_counts": {
+    "object_count": 64,
+    "points_balance": 64,
+    "temperature": 64
+  },
+  "global_checks": {
+    "all_cross_version_near_duplicate_checks_pass": true,
+    "all_key_strings_globally_unique": true,
+    "all_names_new_and_unique": true,
+    "all_pair_checks_pass": true,
+    "all_template_checks_pass": true,
+    "all_v3_template_skeletons_unique": true,
+    "each_family_add_sub_32_to_32": true,
+    "each_family_has_64_pairs": true,
+    "pair_count_192": true,
+    "prompt_count_384": true,
+    "template_family_count_24": true,
+    "unique_pair_ids": true
+  },
+  "gpu_used": false,
+  "independent_human_audit_complete": false,
+  "model_forward_performed": false,
+  "model_weights_loaded": false,
+  "near_duplicate_audit": {
+    "all_cross_version_checks_pass": true,
+    "all_v3_template_skeletons_unique": true,
+    "comparison_scope": "v2_v2_1_v2_1_1_vs_v3_template_families",
+    "jaccard_fail_threshold_inclusive": 0.8,
+    "normalization": [
+      "unicode_nfkc",
+      "lowercase",
+      "replace_person_names_with_<NAME>",
+      "replace_semantic_labels_with_<LABEL>",
+      "replace_case_value_and_tag_keys_with_<KEY>",
+      "replace_numeric_mentions_with_<NUM>",
+      "normalize_punctuation",
+      "collapse_repeated_whitespace",
+      "tokenize_words"
+    ],
+    "template_reports": {
+      "v3_obj_button_compendium": {
+        "normalized_skeleton_sha256": "d1ef083f11bd7c63273066aeddf591a0140797177d45feac89679548b70efbaf",
+        "normalized_token_count": 63,
+        "pass": true,
+        "strongest_prior_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "template_family_id": "v2_dec_marbles_gave_away",
+          "version": "v2"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v3_obj_flag_workbook": {
+        "normalized_skeleton_sha256": "4091f1436043e05a2e0fbe4e57c3f7a2b2ca8d0e63014940eec804699b85d963",
+        "normalized_token_count": 57,
+        "pass": true,
+        "strongest_prior_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "template_family_id": "v2_dec_marbles_gave_away",
+          "version": "v2"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v3_obj_gear_inventory": {
+        "normalized_skeleton_sha256": "d1175e043b2ccbf3cfbd80e3f7d3d201c4364f44027f5b0d9d9c5e73eefb9873",
+        "normalized_token_count": 63,
+        "pass": true,
+        "strongest_prior_match": {
+          "exact_hash": false,
+          "jaccard": 0.04054054054054054,
+          "template_family_id": "v21_dec_token_ledger",
+          "version": "v2_1"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v3_obj_lantern_dossier": {
+        "normalized_skeleton_sha256": "4bd9056c98816c15668100443d1a5979cdbffdd8f47c3d2be8c863a7c74a5f52",
+        "normalized_token_count": 54,
+        "pass": true,
+        "strongest_prior_match": {
+          "exact_hash": false,
+          "jaccard": 0.017543859649122806,
+          "template_family_id": "v2_dec_books_donated",
+          "version": "v2"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v3_obj_magnet_portfolio": {
+        "normalized_skeleton_sha256": "8ecef7e7bf369aa56655a09a461b50470a2555e36c7c0221dbb22cb9991fc3d5",
+        "normalized_token_count": 59,
+        "pass": true,
+        "strongest_prior_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "template_family_id": "v2_dec_marbles_gave_away",
+          "version": "v2"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v3_obj_mug_directory": {
+        "normalized_skeleton_sha256": "751ec4a4bf46d587e8822a509efd5007474ca5f2aa7a5b83870fc94696cf2a4e",
+        "normalized_token_count": 61,
+        "pass": true,
+        "strongest_prior_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "template_family_id": "v2_dec_marbles_gave_away",
+          "version": "v2"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v3_obj_postcard_journal": {
+        "normalized_skeleton_sha256": "17452e73b59bac9e5dfced0cbc7805aa5d82b1427ca8f372bae70c67f3092a78",
+        "normalized_token_count": 54,
+        "pass": true,
+        "strongest_prior_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "template_family_id": "v2_dec_marbles_gave_away",
+          "version": "v2"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v3_obj_scarf_registry": {
+        "normalized_skeleton_sha256": "248b982376208d7727dae97ff3fdd55291d4fef1cef1ff40ae206276e36e1500",
+        "normalized_token_count": 54,
+        "pass": true,
+        "strongest_prior_match": {
+          "exact_hash": false,
+          "jaccard": 0.013333333333333334,
+          "template_family_id": "v21_dec_bottle_catalog",
+          "version": "v2_1"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v3_pts_arcade_tally": {
+        "normalized_skeleton_sha256": "788f3c5628bed678d39d4deb6860f433cfae4669c40e0d2c9c2023bde7fa1b59",
+        "normalized_token_count": 55,
+        "pass": true,
+        "strongest_prior_match": {
+          "exact_hash": false,
+          "jaccard": 0.03571428571428571,
+          "template_family_id": "v2_inc_points_earned",
+          "version": "v2"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v3_pts_challenge_book": {
+        "normalized_skeleton_sha256": "76e3891d288a766a3c9eee7553c3aab22a1e0ce308a1e84aaa95cd5816932715",
+        "normalized_token_count": 57,
+        "pass": true,
+        "strongest_prior_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "template_family_id": "v2_dec_marbles_gave_away",
+          "version": "v2"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v3_pts_contest_docket": {
+        "normalized_skeleton_sha256": "ea9642b708f427455b2bee1b9d0040bb15e199e452ea9db3b3ba5441196125fa",
+        "normalized_token_count": 55,
+        "pass": true,
+        "strongest_prior_match": {
+          "exact_hash": false,
+          "jaccard": 0.013333333333333334,
+          "template_family_id": "v21_dec_pencil_file",
+          "version": "v2_1"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v3_pts_league_record": {
+        "normalized_skeleton_sha256": "61134f43f013c7e0f9653bce98fa408a4a95775b4644404e79c72c19e834e425",
+        "normalized_token_count": 60,
+        "pass": true,
+        "strongest_prior_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "template_family_id": "v2_dec_marbles_gave_away",
+          "version": "v2"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v3_pts_loyalty_folio": {
+        "normalized_skeleton_sha256": "b47fedce3c54538bb852ffccf05574b675a29fe0024f9f1d1a369f0f96fa6ae6",
+        "normalized_token_count": 61,
+        "pass": true,
+        "strongest_prior_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "template_family_id": "v2_dec_marbles_gave_away",
+          "version": "v2"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v3_pts_merit_index": {
+        "normalized_skeleton_sha256": "c16b221264a6d4b8b6828b76a493bf9a1e5a86b2ce2be8017154a67623bc0b7d",
+        "normalized_token_count": 57,
+        "pass": true,
+        "strongest_prior_match": {
+          "exact_hash": false,
+          "jaccard": 0.014084507042253521,
+          "template_family_id": "v21_dec_ticket_account",
+          "version": "v2_1"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v3_pts_quiz_scorecard": {
+        "normalized_skeleton_sha256": "10a95961f6daf311902f6bcb5cca3c08cb86c18cd0c4a4e46df77d60c59b96ca",
+        "normalized_token_count": 53,
+        "pass": true,
+        "strongest_prior_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "template_family_id": "v2_dec_marbles_gave_away",
+          "version": "v2"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v3_pts_reward_sheet": {
+        "normalized_skeleton_sha256": "cc99f6a76733193f8b481b782922499bbba8f9687685e5c617eef44ad05c4b38",
+        "normalized_token_count": 63,
+        "pass": true,
+        "strongest_prior_match": {
+          "exact_hash": false,
+          "jaccard": 0.011904761904761904,
+          "template_family_id": "v21_dec_bottle_catalog",
+          "version": "v2_1"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v3_tmp_basin_console": {
+        "normalized_skeleton_sha256": "280a3b834e20efd9f0424796cb059e84aebd811e0ea27841fc78061441eab5cb",
+        "normalized_token_count": 56,
+        "pass": true,
+        "strongest_prior_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "template_family_id": "v2_dec_marbles_gave_away",
+          "version": "v2"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v3_tmp_cooler_station": {
+        "normalized_skeleton_sha256": "1fd6668a87e06c2709930994aae308e588325df91e4bc3dab6db4bd86b214546",
+        "normalized_token_count": 65,
+        "pass": true,
+        "strongest_prior_match": {
+          "exact_hash": false,
+          "jaccard": 0.05405405405405406,
+          "template_family_id": "v21_temp_capsule_account",
+          "version": "v2_1"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v3_tmp_greenhouse_sensor": {
+        "normalized_skeleton_sha256": "b4d663e69ccc46671b1ae562de06cdec578c92eb2f6bbed3ceaac385d908851c",
+        "normalized_token_count": 53,
+        "pass": true,
+        "strongest_prior_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "template_family_id": "v2_dec_marbles_gave_away",
+          "version": "v2"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v3_tmp_kiln_tracker": {
+        "normalized_skeleton_sha256": "9293a768931b2ba2b20d8f7a06726094d5ed9b0d09d8bc3b09064de240080cef",
+        "normalized_token_count": 63,
+        "pass": true,
+        "strongest_prior_match": {
+          "exact_hash": false,
+          "jaccard": 0.012048192771084338,
+          "template_family_id": "v21_temp_cabinet_ledger",
+          "version": "v2_1"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v3_tmp_module_thermometer": {
+        "normalized_skeleton_sha256": "cdd243def746ab882ec851b3937b6f7cb0fe8523e905f007d8ee0a7e326be55e",
+        "normalized_token_count": 63,
+        "pass": true,
+        "strongest_prior_match": {
+          "exact_hash": false,
+          "jaccard": 0.05405405405405406,
+          "template_family_id": "v21_temp_capsule_account",
+          "version": "v2_1"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v3_tmp_reactor_panel": {
+        "normalized_skeleton_sha256": "098954b4992586046f0cc80d9932f92f3b2a6799f4dc208c3ad66658a86f998d",
+        "normalized_token_count": 60,
+        "pass": true,
+        "strongest_prior_match": {
+          "exact_hash": false,
+          "jaccard": 0.011904761904761904,
+          "template_family_id": "v21_temp_compartment_index",
+          "version": "v2_1"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v3_tmp_terrarium_monitor": {
+        "normalized_skeleton_sha256": "43ce1e8cb2575241328332cce86062ddd2bf7418ae853cbf9dc95867d29c2170",
+        "normalized_token_count": 66,
+        "pass": true,
+        "strongest_prior_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "template_family_id": "v2_dec_marbles_gave_away",
+          "version": "v2"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v3_tmp_vault_gauge": {
+        "normalized_skeleton_sha256": "190c992d303ff3cb0bc59ee804d6657d4d740dbb82dbaf72e615517b8e5467d2",
+        "normalized_token_count": 69,
+        "pass": true,
+        "strongest_prior_match": {
+          "exact_hash": false,
+          "jaccard": 0.0379746835443038,
+          "template_family_id": "v21_temp_cabinet_ledger",
+          "version": "v2_1"
+        },
+        "threshold_inclusive": 0.8
+      }
+    },
+    "word_ngram_n": 5
+  },
+  "operation_counts": {
+    "object_count": {
+      "add": 32,
+      "subtract": 32
+    },
+    "points_balance": {
+      "add": 32,
+      "subtract": 32
+    },
+    "temperature": {
+      "add": 32,
+      "subtract": 32
+    }
+  },
+  "pair_check_pass_counts": {
+    "all_keys_alphabetic": 192,
+    "all_keys_equal_token_count": 192,
+    "answer_regex_contract": 192,
+    "arithmetic_alternative_absent": 192,
+    "arithmetic_block_has_no_numeric_literal": 192,
+    "arithmetic_case_has_two_value_keys": 192,
+    "arithmetic_correct_absent": 192,
+    "arithmetic_operands_each_once_in_ledger": 192,
+    "canonical_answers_one_token": 192,
+    "case_keys_each_appear_twice": 192,
+    "exact_prompt_token_count_match": 192,
+    "numeric_collision_absence": 192,
+    "primary_alternatives_one_token": 192,
+    "question_differs_only_at_target_label": 192,
+    "selector_active_tag_explicit": 192,
+    "selector_alternative_once_in_ledger": 192,
+    "selector_case_has_two_entries": 192,
+    "selector_correct_once_in_ledger": 192,
+    "source_block_tokens_nonempty": 192,
+    "target_label_token_count_match": 192,
+    "value_keys_each_appear_twice": 192,
+    "wrong_operation_primary_foil": 192
+  },
+  "pair_count": 192,
+  "prior_dataset_hashes": {
+    "v2": "c58390cdcb0f7282e36c918b193db69a0733851cfd07c291ab59a6fe12df1c87",
+    "v2_1": "cfc5a628d75e05c17d4c4ff3907f477d6f6179892453f1e2c3927c8aeed10640",
+    "v2_1_1": "322d80f3c2c0723f6a4e8b0a968b30baac23e28cf68b6c60c5a7a95a5bca7420"
+  },
+  "prompt_count": 384,
+  "schema_version": "3.0",
+  "stage_e_pilot_allowed": false,
+  "status": "automatic_shortcut_nonreuse_OA_counterbalance_structural_tokenizer_audit_pass",
+  "template_audits": {
+    "v3_obj_button_compendium": {
+      "checks": {
+        "candidate_pair_P_roles_balanced": true,
+        "candidate_pair_Q_roles_balanced": true,
+        "cross_version_near_duplicate_pass": true,
+        "exact_frozen_oa_rows": true,
+        "factor_A_4_to_4": true,
+        "factor_B_4_to_4": true,
+        "factor_C_4_to_4": true,
+        "factor_D_4_to_4": true,
+        "factor_E_4_to_4": true,
+        "pair_AB_strength_2": true,
+        "pair_AC_strength_2": true,
+        "pair_AD_strength_2": true,
+        "pair_AE_strength_2": true,
+        "pair_BC_strength_2": true,
+        "pair_BD_strength_2": true,
+        "pair_BE_strength_2": true,
+        "pair_CD_strength_2": true,
+        "pair_CE_strength_2": true,
+        "pair_DE_strength_2": true,
+        "pair_count_eight": true,
+        "unique_oa_rows": true
+      },
+      "numeric_role_counts": {
+        "P": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        },
+        "Q": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        }
+      }
+    },
+    "v3_obj_flag_workbook": {
+      "checks": {
+        "candidate_pair_P_roles_balanced": true,
+        "candidate_pair_Q_roles_balanced": true,
+        "cross_version_near_duplicate_pass": true,
+        "exact_frozen_oa_rows": true,
+        "factor_A_4_to_4": true,
+        "factor_B_4_to_4": true,
+        "factor_C_4_to_4": true,
+        "factor_D_4_to_4": true,
+        "factor_E_4_to_4": true,
+        "pair_AB_strength_2": true,
+        "pair_AC_strength_2": true,
+        "pair_AD_strength_2": true,
+        "pair_AE_strength_2": true,
+        "pair_BC_strength_2": true,
+        "pair_BD_strength_2": true,
+        "pair_BE_strength_2": true,
+        "pair_CD_strength_2": true,
+        "pair_CE_strength_2": true,
+        "pair_DE_strength_2": true,
+        "pair_count_eight": true,
+        "unique_oa_rows": true
+      },
+      "numeric_role_counts": {
+        "P": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        },
+        "Q": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        }
+      }
+    },
+    "v3_obj_gear_inventory": {
+      "checks": {
+        "candidate_pair_P_roles_balanced": true,
+        "candidate_pair_Q_roles_balanced": true,
+        "cross_version_near_duplicate_pass": true,
+        "exact_frozen_oa_rows": true,
+        "factor_A_4_to_4": true,
+        "factor_B_4_to_4": true,
+        "factor_C_4_to_4": true,
+        "factor_D_4_to_4": true,
+        "factor_E_4_to_4": true,
+        "pair_AB_strength_2": true,
+        "pair_AC_strength_2": true,
+        "pair_AD_strength_2": true,
+        "pair_AE_strength_2": true,
+        "pair_BC_strength_2": true,
+        "pair_BD_strength_2": true,
+        "pair_BE_strength_2": true,
+        "pair_CD_strength_2": true,
+        "pair_CE_strength_2": true,
+        "pair_DE_strength_2": true,
+        "pair_count_eight": true,
+        "unique_oa_rows": true
+      },
+      "numeric_role_counts": {
+        "P": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        },
+        "Q": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        }
+      }
+    },
+    "v3_obj_lantern_dossier": {
+      "checks": {
+        "candidate_pair_P_roles_balanced": true,
+        "candidate_pair_Q_roles_balanced": true,
+        "cross_version_near_duplicate_pass": true,
+        "exact_frozen_oa_rows": true,
+        "factor_A_4_to_4": true,
+        "factor_B_4_to_4": true,
+        "factor_C_4_to_4": true,
+        "factor_D_4_to_4": true,
+        "factor_E_4_to_4": true,
+        "pair_AB_strength_2": true,
+        "pair_AC_strength_2": true,
+        "pair_AD_strength_2": true,
+        "pair_AE_strength_2": true,
+        "pair_BC_strength_2": true,
+        "pair_BD_strength_2": true,
+        "pair_BE_strength_2": true,
+        "pair_CD_strength_2": true,
+        "pair_CE_strength_2": true,
+        "pair_DE_strength_2": true,
+        "pair_count_eight": true,
+        "unique_oa_rows": true
+      },
+      "numeric_role_counts": {
+        "P": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        },
+        "Q": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        }
+      }
+    },
+    "v3_obj_magnet_portfolio": {
+      "checks": {
+        "candidate_pair_P_roles_balanced": true,
+        "candidate_pair_Q_roles_balanced": true,
+        "cross_version_near_duplicate_pass": true,
+        "exact_frozen_oa_rows": true,
+        "factor_A_4_to_4": true,
+        "factor_B_4_to_4": true,
+        "factor_C_4_to_4": true,
+        "factor_D_4_to_4": true,
+        "factor_E_4_to_4": true,
+        "pair_AB_strength_2": true,
+        "pair_AC_strength_2": true,
+        "pair_AD_strength_2": true,
+        "pair_AE_strength_2": true,
+        "pair_BC_strength_2": true,
+        "pair_BD_strength_2": true,
+        "pair_BE_strength_2": true,
+        "pair_CD_strength_2": true,
+        "pair_CE_strength_2": true,
+        "pair_DE_strength_2": true,
+        "pair_count_eight": true,
+        "unique_oa_rows": true
+      },
+      "numeric_role_counts": {
+        "P": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        },
+        "Q": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        }
+      }
+    },
+    "v3_obj_mug_directory": {
+      "checks": {
+        "candidate_pair_P_roles_balanced": true,
+        "candidate_pair_Q_roles_balanced": true,
+        "cross_version_near_duplicate_pass": true,
+        "exact_frozen_oa_rows": true,
+        "factor_A_4_to_4": true,
+        "factor_B_4_to_4": true,
+        "factor_C_4_to_4": true,
+        "factor_D_4_to_4": true,
+        "factor_E_4_to_4": true,
+        "pair_AB_strength_2": true,
+        "pair_AC_strength_2": true,
+        "pair_AD_strength_2": true,
+        "pair_AE_strength_2": true,
+        "pair_BC_strength_2": true,
+        "pair_BD_strength_2": true,
+        "pair_BE_strength_2": true,
+        "pair_CD_strength_2": true,
+        "pair_CE_strength_2": true,
+        "pair_DE_strength_2": true,
+        "pair_count_eight": true,
+        "unique_oa_rows": true
+      },
+      "numeric_role_counts": {
+        "P": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        },
+        "Q": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        }
+      }
+    },
+    "v3_obj_postcard_journal": {
+      "checks": {
+        "candidate_pair_P_roles_balanced": true,
+        "candidate_pair_Q_roles_balanced": true,
+        "cross_version_near_duplicate_pass": true,
+        "exact_frozen_oa_rows": true,
+        "factor_A_4_to_4": true,
+        "factor_B_4_to_4": true,
+        "factor_C_4_to_4": true,
+        "factor_D_4_to_4": true,
+        "factor_E_4_to_4": true,
+        "pair_AB_strength_2": true,
+        "pair_AC_strength_2": true,
+        "pair_AD_strength_2": true,
+        "pair_AE_strength_2": true,
+        "pair_BC_strength_2": true,
+        "pair_BD_strength_2": true,
+        "pair_BE_strength_2": true,
+        "pair_CD_strength_2": true,
+        "pair_CE_strength_2": true,
+        "pair_DE_strength_2": true,
+        "pair_count_eight": true,
+        "unique_oa_rows": true
+      },
+      "numeric_role_counts": {
+        "P": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        },
+        "Q": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        }
+      }
+    },
+    "v3_obj_scarf_registry": {
+      "checks": {
+        "candidate_pair_P_roles_balanced": true,
+        "candidate_pair_Q_roles_balanced": true,
+        "cross_version_near_duplicate_pass": true,
+        "exact_frozen_oa_rows": true,
+        "factor_A_4_to_4": true,
+        "factor_B_4_to_4": true,
+        "factor_C_4_to_4": true,
+        "factor_D_4_to_4": true,
+        "factor_E_4_to_4": true,
+        "pair_AB_strength_2": true,
+        "pair_AC_strength_2": true,
+        "pair_AD_strength_2": true,
+        "pair_AE_strength_2": true,
+        "pair_BC_strength_2": true,
+        "pair_BD_strength_2": true,
+        "pair_BE_strength_2": true,
+        "pair_CD_strength_2": true,
+        "pair_CE_strength_2": true,
+        "pair_DE_strength_2": true,
+        "pair_count_eight": true,
+        "unique_oa_rows": true
+      },
+      "numeric_role_counts": {
+        "P": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        },
+        "Q": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        }
+      }
+    },
+    "v3_pts_arcade_tally": {
+      "checks": {
+        "candidate_pair_P_roles_balanced": true,
+        "candidate_pair_Q_roles_balanced": true,
+        "cross_version_near_duplicate_pass": true,
+        "exact_frozen_oa_rows": true,
+        "factor_A_4_to_4": true,
+        "factor_B_4_to_4": true,
+        "factor_C_4_to_4": true,
+        "factor_D_4_to_4": true,
+        "factor_E_4_to_4": true,
+        "pair_AB_strength_2": true,
+        "pair_AC_strength_2": true,
+        "pair_AD_strength_2": true,
+        "pair_AE_strength_2": true,
+        "pair_BC_strength_2": true,
+        "pair_BD_strength_2": true,
+        "pair_BE_strength_2": true,
+        "pair_CD_strength_2": true,
+        "pair_CE_strength_2": true,
+        "pair_DE_strength_2": true,
+        "pair_count_eight": true,
+        "unique_oa_rows": true
+      },
+      "numeric_role_counts": {
+        "P": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        },
+        "Q": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        }
+      }
+    },
+    "v3_pts_challenge_book": {
+      "checks": {
+        "candidate_pair_P_roles_balanced": true,
+        "candidate_pair_Q_roles_balanced": true,
+        "cross_version_near_duplicate_pass": true,
+        "exact_frozen_oa_rows": true,
+        "factor_A_4_to_4": true,
+        "factor_B_4_to_4": true,
+        "factor_C_4_to_4": true,
+        "factor_D_4_to_4": true,
+        "factor_E_4_to_4": true,
+        "pair_AB_strength_2": true,
+        "pair_AC_strength_2": true,
+        "pair_AD_strength_2": true,
+        "pair_AE_strength_2": true,
+        "pair_BC_strength_2": true,
+        "pair_BD_strength_2": true,
+        "pair_BE_strength_2": true,
+        "pair_CD_strength_2": true,
+        "pair_CE_strength_2": true,
+        "pair_DE_strength_2": true,
+        "pair_count_eight": true,
+        "unique_oa_rows": true
+      },
+      "numeric_role_counts": {
+        "P": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        },
+        "Q": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        }
+      }
+    },
+    "v3_pts_contest_docket": {
+      "checks": {
+        "candidate_pair_P_roles_balanced": true,
+        "candidate_pair_Q_roles_balanced": true,
+        "cross_version_near_duplicate_pass": true,
+        "exact_frozen_oa_rows": true,
+        "factor_A_4_to_4": true,
+        "factor_B_4_to_4": true,
+        "factor_C_4_to_4": true,
+        "factor_D_4_to_4": true,
+        "factor_E_4_to_4": true,
+        "pair_AB_strength_2": true,
+        "pair_AC_strength_2": true,
+        "pair_AD_strength_2": true,
+        "pair_AE_strength_2": true,
+        "pair_BC_strength_2": true,
+        "pair_BD_strength_2": true,
+        "pair_BE_strength_2": true,
+        "pair_CD_strength_2": true,
+        "pair_CE_strength_2": true,
+        "pair_DE_strength_2": true,
+        "pair_count_eight": true,
+        "unique_oa_rows": true
+      },
+      "numeric_role_counts": {
+        "P": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        },
+        "Q": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        }
+      }
+    },
+    "v3_pts_league_record": {
+      "checks": {
+        "candidate_pair_P_roles_balanced": true,
+        "candidate_pair_Q_roles_balanced": true,
+        "cross_version_near_duplicate_pass": true,
+        "exact_frozen_oa_rows": true,
+        "factor_A_4_to_4": true,
+        "factor_B_4_to_4": true,
+        "factor_C_4_to_4": true,
+        "factor_D_4_to_4": true,
+        "factor_E_4_to_4": true,
+        "pair_AB_strength_2": true,
+        "pair_AC_strength_2": true,
+        "pair_AD_strength_2": true,
+        "pair_AE_strength_2": true,
+        "pair_BC_strength_2": true,
+        "pair_BD_strength_2": true,
+        "pair_BE_strength_2": true,
+        "pair_CD_strength_2": true,
+        "pair_CE_strength_2": true,
+        "pair_DE_strength_2": true,
+        "pair_count_eight": true,
+        "unique_oa_rows": true
+      },
+      "numeric_role_counts": {
+        "P": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        },
+        "Q": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        }
+      }
+    },
+    "v3_pts_loyalty_folio": {
+      "checks": {
+        "candidate_pair_P_roles_balanced": true,
+        "candidate_pair_Q_roles_balanced": true,
+        "cross_version_near_duplicate_pass": true,
+        "exact_frozen_oa_rows": true,
+        "factor_A_4_to_4": true,
+        "factor_B_4_to_4": true,
+        "factor_C_4_to_4": true,
+        "factor_D_4_to_4": true,
+        "factor_E_4_to_4": true,
+        "pair_AB_strength_2": true,
+        "pair_AC_strength_2": true,
+        "pair_AD_strength_2": true,
+        "pair_AE_strength_2": true,
+        "pair_BC_strength_2": true,
+        "pair_BD_strength_2": true,
+        "pair_BE_strength_2": true,
+        "pair_CD_strength_2": true,
+        "pair_CE_strength_2": true,
+        "pair_DE_strength_2": true,
+        "pair_count_eight": true,
+        "unique_oa_rows": true
+      },
+      "numeric_role_counts": {
+        "P": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        },
+        "Q": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        }
+      }
+    },
+    "v3_pts_merit_index": {
+      "checks": {
+        "candidate_pair_P_roles_balanced": true,
+        "candidate_pair_Q_roles_balanced": true,
+        "cross_version_near_duplicate_pass": true,
+        "exact_frozen_oa_rows": true,
+        "factor_A_4_to_4": true,
+        "factor_B_4_to_4": true,
+        "factor_C_4_to_4": true,
+        "factor_D_4_to_4": true,
+        "factor_E_4_to_4": true,
+        "pair_AB_strength_2": true,
+        "pair_AC_strength_2": true,
+        "pair_AD_strength_2": true,
+        "pair_AE_strength_2": true,
+        "pair_BC_strength_2": true,
+        "pair_BD_strength_2": true,
+        "pair_BE_strength_2": true,
+        "pair_CD_strength_2": true,
+        "pair_CE_strength_2": true,
+        "pair_DE_strength_2": true,
+        "pair_count_eight": true,
+        "unique_oa_rows": true
+      },
+      "numeric_role_counts": {
+        "P": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        },
+        "Q": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        }
+      }
+    },
+    "v3_pts_quiz_scorecard": {
+      "checks": {
+        "candidate_pair_P_roles_balanced": true,
+        "candidate_pair_Q_roles_balanced": true,
+        "cross_version_near_duplicate_pass": true,
+        "exact_frozen_oa_rows": true,
+        "factor_A_4_to_4": true,
+        "factor_B_4_to_4": true,
+        "factor_C_4_to_4": true,
+        "factor_D_4_to_4": true,
+        "factor_E_4_to_4": true,
+        "pair_AB_strength_2": true,
+        "pair_AC_strength_2": true,
+        "pair_AD_strength_2": true,
+        "pair_AE_strength_2": true,
+        "pair_BC_strength_2": true,
+        "pair_BD_strength_2": true,
+        "pair_BE_strength_2": true,
+        "pair_CD_strength_2": true,
+        "pair_CE_strength_2": true,
+        "pair_DE_strength_2": true,
+        "pair_count_eight": true,
+        "unique_oa_rows": true
+      },
+      "numeric_role_counts": {
+        "P": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        },
+        "Q": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        }
+      }
+    },
+    "v3_pts_reward_sheet": {
+      "checks": {
+        "candidate_pair_P_roles_balanced": true,
+        "candidate_pair_Q_roles_balanced": true,
+        "cross_version_near_duplicate_pass": true,
+        "exact_frozen_oa_rows": true,
+        "factor_A_4_to_4": true,
+        "factor_B_4_to_4": true,
+        "factor_C_4_to_4": true,
+        "factor_D_4_to_4": true,
+        "factor_E_4_to_4": true,
+        "pair_AB_strength_2": true,
+        "pair_AC_strength_2": true,
+        "pair_AD_strength_2": true,
+        "pair_AE_strength_2": true,
+        "pair_BC_strength_2": true,
+        "pair_BD_strength_2": true,
+        "pair_BE_strength_2": true,
+        "pair_CD_strength_2": true,
+        "pair_CE_strength_2": true,
+        "pair_DE_strength_2": true,
+        "pair_count_eight": true,
+        "unique_oa_rows": true
+      },
+      "numeric_role_counts": {
+        "P": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        },
+        "Q": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        }
+      }
+    },
+    "v3_tmp_basin_console": {
+      "checks": {
+        "candidate_pair_P_roles_balanced": true,
+        "candidate_pair_Q_roles_balanced": true,
+        "cross_version_near_duplicate_pass": true,
+        "exact_frozen_oa_rows": true,
+        "factor_A_4_to_4": true,
+        "factor_B_4_to_4": true,
+        "factor_C_4_to_4": true,
+        "factor_D_4_to_4": true,
+        "factor_E_4_to_4": true,
+        "pair_AB_strength_2": true,
+        "pair_AC_strength_2": true,
+        "pair_AD_strength_2": true,
+        "pair_AE_strength_2": true,
+        "pair_BC_strength_2": true,
+        "pair_BD_strength_2": true,
+        "pair_BE_strength_2": true,
+        "pair_CD_strength_2": true,
+        "pair_CE_strength_2": true,
+        "pair_DE_strength_2": true,
+        "pair_count_eight": true,
+        "unique_oa_rows": true
+      },
+      "numeric_role_counts": {
+        "P": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        },
+        "Q": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        }
+      }
+    },
+    "v3_tmp_cooler_station": {
+      "checks": {
+        "candidate_pair_P_roles_balanced": true,
+        "candidate_pair_Q_roles_balanced": true,
+        "cross_version_near_duplicate_pass": true,
+        "exact_frozen_oa_rows": true,
+        "factor_A_4_to_4": true,
+        "factor_B_4_to_4": true,
+        "factor_C_4_to_4": true,
+        "factor_D_4_to_4": true,
+        "factor_E_4_to_4": true,
+        "pair_AB_strength_2": true,
+        "pair_AC_strength_2": true,
+        "pair_AD_strength_2": true,
+        "pair_AE_strength_2": true,
+        "pair_BC_strength_2": true,
+        "pair_BD_strength_2": true,
+        "pair_BE_strength_2": true,
+        "pair_CD_strength_2": true,
+        "pair_CE_strength_2": true,
+        "pair_DE_strength_2": true,
+        "pair_count_eight": true,
+        "unique_oa_rows": true
+      },
+      "numeric_role_counts": {
+        "P": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        },
+        "Q": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        }
+      }
+    },
+    "v3_tmp_greenhouse_sensor": {
+      "checks": {
+        "candidate_pair_P_roles_balanced": true,
+        "candidate_pair_Q_roles_balanced": true,
+        "cross_version_near_duplicate_pass": true,
+        "exact_frozen_oa_rows": true,
+        "factor_A_4_to_4": true,
+        "factor_B_4_to_4": true,
+        "factor_C_4_to_4": true,
+        "factor_D_4_to_4": true,
+        "factor_E_4_to_4": true,
+        "pair_AB_strength_2": true,
+        "pair_AC_strength_2": true,
+        "pair_AD_strength_2": true,
+        "pair_AE_strength_2": true,
+        "pair_BC_strength_2": true,
+        "pair_BD_strength_2": true,
+        "pair_BE_strength_2": true,
+        "pair_CD_strength_2": true,
+        "pair_CE_strength_2": true,
+        "pair_DE_strength_2": true,
+        "pair_count_eight": true,
+        "unique_oa_rows": true
+      },
+      "numeric_role_counts": {
+        "P": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        },
+        "Q": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        }
+      }
+    },
+    "v3_tmp_kiln_tracker": {
+      "checks": {
+        "candidate_pair_P_roles_balanced": true,
+        "candidate_pair_Q_roles_balanced": true,
+        "cross_version_near_duplicate_pass": true,
+        "exact_frozen_oa_rows": true,
+        "factor_A_4_to_4": true,
+        "factor_B_4_to_4": true,
+        "factor_C_4_to_4": true,
+        "factor_D_4_to_4": true,
+        "factor_E_4_to_4": true,
+        "pair_AB_strength_2": true,
+        "pair_AC_strength_2": true,
+        "pair_AD_strength_2": true,
+        "pair_AE_strength_2": true,
+        "pair_BC_strength_2": true,
+        "pair_BD_strength_2": true,
+        "pair_BE_strength_2": true,
+        "pair_CD_strength_2": true,
+        "pair_CE_strength_2": true,
+        "pair_DE_strength_2": true,
+        "pair_count_eight": true,
+        "unique_oa_rows": true
+      },
+      "numeric_role_counts": {
+        "P": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        },
+        "Q": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        }
+      }
+    },
+    "v3_tmp_module_thermometer": {
+      "checks": {
+        "candidate_pair_P_roles_balanced": true,
+        "candidate_pair_Q_roles_balanced": true,
+        "cross_version_near_duplicate_pass": true,
+        "exact_frozen_oa_rows": true,
+        "factor_A_4_to_4": true,
+        "factor_B_4_to_4": true,
+        "factor_C_4_to_4": true,
+        "factor_D_4_to_4": true,
+        "factor_E_4_to_4": true,
+        "pair_AB_strength_2": true,
+        "pair_AC_strength_2": true,
+        "pair_AD_strength_2": true,
+        "pair_AE_strength_2": true,
+        "pair_BC_strength_2": true,
+        "pair_BD_strength_2": true,
+        "pair_BE_strength_2": true,
+        "pair_CD_strength_2": true,
+        "pair_CE_strength_2": true,
+        "pair_DE_strength_2": true,
+        "pair_count_eight": true,
+        "unique_oa_rows": true
+      },
+      "numeric_role_counts": {
+        "P": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        },
+        "Q": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        }
+      }
+    },
+    "v3_tmp_reactor_panel": {
+      "checks": {
+        "candidate_pair_P_roles_balanced": true,
+        "candidate_pair_Q_roles_balanced": true,
+        "cross_version_near_duplicate_pass": true,
+        "exact_frozen_oa_rows": true,
+        "factor_A_4_to_4": true,
+        "factor_B_4_to_4": true,
+        "factor_C_4_to_4": true,
+        "factor_D_4_to_4": true,
+        "factor_E_4_to_4": true,
+        "pair_AB_strength_2": true,
+        "pair_AC_strength_2": true,
+        "pair_AD_strength_2": true,
+        "pair_AE_strength_2": true,
+        "pair_BC_strength_2": true,
+        "pair_BD_strength_2": true,
+        "pair_BE_strength_2": true,
+        "pair_CD_strength_2": true,
+        "pair_CE_strength_2": true,
+        "pair_DE_strength_2": true,
+        "pair_count_eight": true,
+        "unique_oa_rows": true
+      },
+      "numeric_role_counts": {
+        "P": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        },
+        "Q": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        }
+      }
+    },
+    "v3_tmp_terrarium_monitor": {
+      "checks": {
+        "candidate_pair_P_roles_balanced": true,
+        "candidate_pair_Q_roles_balanced": true,
+        "cross_version_near_duplicate_pass": true,
+        "exact_frozen_oa_rows": true,
+        "factor_A_4_to_4": true,
+        "factor_B_4_to_4": true,
+        "factor_C_4_to_4": true,
+        "factor_D_4_to_4": true,
+        "factor_E_4_to_4": true,
+        "pair_AB_strength_2": true,
+        "pair_AC_strength_2": true,
+        "pair_AD_strength_2": true,
+        "pair_AE_strength_2": true,
+        "pair_BC_strength_2": true,
+        "pair_BD_strength_2": true,
+        "pair_BE_strength_2": true,
+        "pair_CD_strength_2": true,
+        "pair_CE_strength_2": true,
+        "pair_DE_strength_2": true,
+        "pair_count_eight": true,
+        "unique_oa_rows": true
+      },
+      "numeric_role_counts": {
+        "P": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        },
+        "Q": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        }
+      }
+    },
+    "v3_tmp_vault_gauge": {
+      "checks": {
+        "candidate_pair_P_roles_balanced": true,
+        "candidate_pair_Q_roles_balanced": true,
+        "cross_version_near_duplicate_pass": true,
+        "exact_frozen_oa_rows": true,
+        "factor_A_4_to_4": true,
+        "factor_B_4_to_4": true,
+        "factor_C_4_to_4": true,
+        "factor_D_4_to_4": true,
+        "factor_E_4_to_4": true,
+        "pair_AB_strength_2": true,
+        "pair_AC_strength_2": true,
+        "pair_AD_strength_2": true,
+        "pair_AE_strength_2": true,
+        "pair_BC_strength_2": true,
+        "pair_BD_strength_2": true,
+        "pair_BE_strength_2": true,
+        "pair_CD_strength_2": true,
+        "pair_CE_strength_2": true,
+        "pair_DE_strength_2": true,
+        "pair_count_eight": true,
+        "unique_oa_rows": true
+      },
+      "numeric_role_counts": {
+        "P": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        },
+        "Q": {
+          "arithmetic_correct_high": 2,
+          "arithmetic_correct_low": 2,
+          "selector_correct_high": 2,
+          "selector_correct_low": 2
+        }
+      }
+    }
+  },
+  "template_family_count": 24,
+  "tokenizer_hashes": {
+    "special_tokens_map.json": "462d91939dbc37178aa5a3eae7068d1990ccc92e09f288cc71f42cdf139d69cc",
+    "tokenizer.json": "e134af98b985517b4f068e3755ae90d4e9cd2d45d328325dc503f1c6b2d06cc7",
+    "tokenizer_config.json": "690727b4fed286383df1c7ca5e805124cb70c6eb4529f807c7b2e60ff741da7e"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ai_audit_complete": false,
+  "automatic_audit_pass": true,
+  "automatic_audit_sha256": "e904fcec13b97bf9d09afc707aedd2b37c100c911b560f2b88f0ed270e654e26",
+  "baseline_calibration_execution_allowed": false,
+  "builder_sha256": "b3ba73e505a1c081a1180dada8193411b7ca4309d01a6283ee07513a3f125b94",
+  "confirmatory_reuse_allowed": false,
+  "dataset_sha256": "d2187c0623ba9752776cf0251dee3dabf9d80ac04e339cf3eb4bd1d1b42761a1",
+  "design_sha256": "c60a579729376d391582dbc03af9cfd3ba0a1e1743a9e9a884967aacc177adfc",
+  "frames_per_template_family": 8,
+  "gpu_used": false,
+  "human_reviewer_1_id": null,
+  "human_reviewer_2_id": null,
+  "independent_human_audit_complete": false,
+  "model_forward_performed": false,
+  "model_weights_loaded": false,
+  "pair_count": 192,
+  "pilot_reuse_allowed": false,
+  "prior_dataset_hashes": {
+    "v2": "c58390cdcb0f7282e36c918b193db69a0733851cfd07c291ab59a6fe12df1c87",
+    "v2_1": "cfc5a628d75e05c17d4c4ff3907f477d6f6179892453f1e2c3927c8aeed10640",
+    "v2_1_1": "322d80f3c2c0723f6a4e8b0a968b30baac23e28cf68b6c60c5a7a95a5bca7420"
+  },
+  "prompt_count": 384,
+  "random_seed": 20260831,
+  "schema_version": "3.0",
+  "stage_e_pilot_allowed": false,
+  "static_schema_check_sha256": "c697b9c3e37b297fb8a9d900d9fc88d22b5453e91551e9439c0b84bddfb33d55",
+  "status": "dataset_created_automatic_audit_pass_ai_and_human_audits_pending",
+  "template_family_count": 24,
+  "tokenizer_hashes": {
+    "special_tokens_map.json": "462d91939dbc37178aa5a3eae7068d1990ccc92e09f288cc71f42cdf139d69cc",
+    "tokenizer.json": "e134af98b985517b4f068e3755ae90d4e9cd2d45d328325dc503f1c6b2d06cc7",
+    "tokenizer_config.json": "690727b4fed286383df1c7ca5e805124cb70c6eb4529f807c7b2e60ff741da7e"
+  },
+  "tokenizer_local_files_only": true,
+  "tokenizer_trust_remote_code": false
+}

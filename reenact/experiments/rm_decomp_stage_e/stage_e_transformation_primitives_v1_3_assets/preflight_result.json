@@ -1,0 +1,77 @@
+{
+  "external_api_used": false,
+  "format_gates": {
+    "joint_valid_coverage": true,
+    "parse_a": true,
+    "parse_b": true
+  },
+  "full_annotation_allowed": false,
+  "internal_outcomes_merged": false,
+  "joint_parse_coverage": 1.0,
+  "minimum_usable_primitives": 2,
+  "parse_rates": {
+    "annotator_a": 1.0,
+    "annotator_b": 1.0
+  },
+  "primitive_metrics": {
+    "CAUS": {
+      "a_positive": 43,
+      "b_positive": 73,
+      "cohen_kappa": 0.17002881844380402,
+      "joint_valid_coverage": 1.0,
+      "pooled_positive_prevalence": 0.6041666666666666,
+      "raw_agreement": 0.5625
+    },
+    "COND": {
+      "a_positive": 93,
+      "b_positive": 96,
+      "cohen_kappa": 0.0,
+      "joint_valid_coverage": 1.0,
+      "pooled_positive_prevalence": 0.984375,
+      "raw_agreement": 0.96875
+    },
+    "INTER": {
+      "a_positive": 96,
+      "b_positive": 96,
+      "cohen_kappa": 1.0,
+      "joint_valid_coverage": 1.0,
+      "pooled_positive_prevalence": 1.0,
+      "raw_agreement": 1.0
+    },
+    "NUM": {
+      "a_positive": 94,
+      "b_positive": 95,
+      "cohen_kappa": -0.014084507042250274,
+      "joint_valid_coverage": 1.0,
+      "pooled_positive_prevalence": 0.984375,
+      "raw_agreement": 0.96875
+    },
+    "REL": {
+      "a_positive": 96,
+      "b_positive": 96,
+      "cohen_kappa": 1.0,
+      "joint_valid_coverage": 1.0,
+      "pooled_positive_prevalence": 1.0,
+      "raw_agreement": 1.0
+    },
+    "RULE": {
+      "a_positive": 96,
+      "b_positive": 96,
+      "cohen_kappa": 1.0,
+      "joint_valid_coverage": 1.0,
+      "pooled_positive_prevalence": 1.0,
+      "raw_agreement": 1.0
+    }
+  },
+  "primitive_status": {
+    "CAUS": "UNRELIABLE",
+    "COND": "INSUFFICIENT_PREVALENCE",
+    "INTER": "INSUFFICIENT_PREVALENCE",
+    "NUM": "INSUFFICIENT_PREVALENCE",
+    "REL": "INSUFFICIENT_PREVALENCE",
+    "RULE": "INSUFFICIENT_PREVALENCE"
+  },
+  "rows": 96,
+  "status": "FAIL",
+  "usable_primitives": []
+}

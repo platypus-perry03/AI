@@ -1,0 +1,26 @@
+{
+  "status": "FROZEN_BEFORE_V2_RESULTS",
+  "model": "gemma-2-9b",
+  "candidates": [
+    {
+      "component_id": "L38H00014",
+      "source": "M_directed",
+      "matched_control": "L38H00002",
+      "random_control": "L38H00013",
+      "neuron_means": {},
+      "target_poles": [
+        "M"
+      ]
+    },
+    {
+      "component_id": "L40H00013",
+      "source": "M_directed",
+      "matched_control": "L40H00000",
+      "random_control": "L40H00014",
+      "neuron_means": {},
+      "target_poles": [
+        "M"
+      ]
+    }
+  ]
+}

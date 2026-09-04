@@ -1,0 +1,212 @@
+{
+  "status": "FROZEN_BEFORE_V2_RESULTS",
+  "model": "OLMo-2-1124-7B",
+  "candidates": [
+    {
+      "component_id": "L26H00015",
+      "source": "M_directed",
+      "matched_control": "L26H00013",
+      "random_control": "L26H00027",
+      "neuron_means": {},
+      "target_poles": [
+        "M"
+      ]
+    },
+    {
+      "component_id": "L28N00091",
+      "source": "M_directed",
+      "matched_control": "L28N02835",
+      "random_control": "L28N03556",
+      "neuron_means": {
+        "L28N00091": 1.4227601739573492,
+        "L28N02835": -0.2884989432470501,
+        "L28N03556": 0.033796509351708
+      },
+      "target_poles": [
+        "M"
+      ]
+    },
+    {
+      "component_id": "L29H00009",
+      "source": "R_directed",
+      "matched_control": "L29H00007",
+      "random_control": "L29H00008",
+      "neuron_means": {},
+      "target_poles": [
+        "R"
+      ]
+    },
+    {
+      "component_id": "L29N02564",
+      "source": "R_directed",
+      "matched_control": "L29N02467",
+      "random_control": "L29N06602",
+      "neuron_means": {
+        "L29N02564": 8.709846918928465,
+        "L29N02467": 0.0105995053430514,
+        "L29N06602": 0.0132866537421402
+      },
+      "target_poles": [
+        "R"
+      ]
+    },
+    {
+      "component_id": "L29N03303",
+      "source": "M_directed",
+      "matched_control": "L29N02467",
+      "random_control": "L29N04517",
+      "neuron_means": {
+        "L29N03303": 1.8424155316936652,
+        "L29N02467": 0.0105995053430514,
+        "L29N04517": 0.0104575202856681
+      },
+      "target_poles": [
+        "M"
+      ]
+    },
+    {
+      "component_id": "L30H00000",
+      "source": "R_directed",
+      "matched_control": "L30H00021",
+      "random_control": "L30H00011",
+      "neuron_means": {},
+      "target_poles": [
+        "R"
+      ]
+    },
+    {
+      "component_id": "L30H00010",
+      "source": "M_directed",
+      "matched_control": "L30H00014",
+      "random_control": "L30H00011",
+      "neuron_means": {},
+      "target_poles": [
+        "M"
+      ]
+    },
+    {
+      "component_id": "L30H00030",
+      "source": "R_directed",
+      "matched_control": "L30H00021",
+      "random_control": "L30H00003",
+      "neuron_means": {},
+      "target_poles": [
+        "R"
+      ]
+    },
+    {
+      "component_id": "L30N01652",
+      "source": "R_directed",
+      "matched_control": "L30N04763",
+      "random_control": "L30N09357",
+      "neuron_means": {
+        "L30N01652": 18.07212724193517,
+        "L30N04763": 0.2352128824011136,
+        "L30N09357": -0.0239249562309552
+      },
+      "target_poles": [
+        "R"
+      ]
+    },
+    {
+      "component_id": "L30N04602",
+      "source": "M_directed",
+      "matched_control": "L30N04763",
+      "random_control": "L30N07435",
+      "neuron_means": {
+        "L30N04602": 1.2765025404269303,
+        "L30N04763": 0.2352128824011136,
+        "L30N07435": -0.0250953734981759
+      },
+      "target_poles": [
+        "M"
+      ]
+    },
+    {
+      "component_id": "L30N09739",
+      "source": "R_directed",
+      "matched_control": "L30N04763",
+      "random_control": "L30N08063",
+      "neuron_means": {
+        "L30N09739": -10.517695951404043,
+        "L30N04763": 0.2352128824011136,
+        "L30N08063": -0.0160062126188786
+      },
+      "target_poles": [
+        "R"
+      ]
+    },
+    {
+      "component_id": "L30N10993",
+      "source": "M_directed",
+      "matched_control": "L30N04763",
+      "random_control": "L30N09150",
+      "neuron_means": {
+        "L30N10993": -1.0318287760540132,
+        "L30N04763": 0.2352128824011136,
+        "L30N09150": 0.0303773497428199
+      },
+      "target_poles": [
+        "M"
+      ]
+    },
+    {
+      "component_id": "L31H00000",
+      "source": "R_directed",
+      "matched_control": "L31H00006",
+      "random_control": "L31H00011",
+      "neuron_means": {},
+      "target_poles": [
+        "R"
+      ]
+    },
+    {
+      "component_id": "L31H00013",
+      "source": "M_directed",
+      "matched_control": "L31H00006",
+      "random_control": "L31H00004",
+      "neuron_means": {},
+      "target_poles": [
+        "M"
+      ]
+    },
+    {
+      "component_id": "L31H00025",
+      "source": "R_directed",
+      "matched_control": "L31H00006",
+      "random_control": "L31H00031",
+      "neuron_means": {},
+      "target_poles": [
+        "R"
+      ]
+    },
+    {
+      "component_id": "L31N04479",
+      "source": "R_directed",
+      "matched_control": "L31N08871",
+      "random_control": "L31N07360",
+      "neuron_means": {
+        "L31N04479": -20.559350575303544,
+        "L31N08871": 0.2146126036978347,
+        "L31N07360": -0.1532995973516992
+      },
+      "target_poles": [
+        "R"
+      ]
+    },
+    {
+      "component_id": "L31N05664",
+      "source": "R_directed",
+      "matched_control": "L31N08871",
+      "random_control": "L31N01122",
+      "neuron_means": {
+        "L31N05664": 7.736608651993265,
+        "L31N08871": 0.2146126036978347,
+        "L31N01122": 0.000736666936682
+      },
+      "target_poles": [
+        "R"
+      ]
+    }
+  ]
+}

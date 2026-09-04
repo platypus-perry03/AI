@@ -1,0 +1,396 @@
+{
+  "ai_preaudit_csv_sha256": "0c6de07362252dc3bce44379c81c8ca74558c455e34bd5e95fe9fd56f059ef88",
+  "ai_preaudit_fail_count": 0,
+  "ai_preaudit_needs_revision_count": 0,
+  "ai_preaudit_pass_count": 192,
+  "automatic_audit_sha256": "93cd89e6901772c87435eb9f208bd4fc310e032b660c7678c34acf044f348e3b",
+  "baseline_calibration_execution_allowed": false,
+  "claim_scope_note": "This audits arithmetic transformation versus matched one-hop keyed retrieval, not a validated Reasoning-versus-Memorization contrast.",
+  "counterbalance_failures": [],
+  "dataset_manifest_sha256": "d78264b2a9742c73ad82b6ee8ec28e6d1da7ad98c7261d46dfc1fb80bc2386db",
+  "dataset_pass": true,
+  "dataset_sha256": "322d80f3c2c0723f6a4e8b0a968b30baac23e28cf68b6c60c5a7a95a5bca7420",
+  "dataset_version": "2.1.1",
+  "design_sha256": "d0d6d19432eb48234a9729cc5f297c09963eb485bf5ec02178d504a93dc8307f",
+  "gpu_used": false,
+  "human_audit_waiver_allowed": false,
+  "independent_human_audit_complete": false,
+  "independent_human_audit_required": true,
+  "independent_human_audit_started": false,
+  "model_forward_performed": false,
+  "model_or_tokenizer_loaded": false,
+  "needs_revision_template_families": [],
+  "official_dataset_modified": false,
+  "pair_count": 192,
+  "pair_failures": [],
+  "pair_revisions": [],
+  "reviewed_pair_count": 192,
+  "reviewer_id": "codex_ai_preaudit_nonhuman_v2_1_1",
+  "revision_record_sha256": "a899df454b12f1d84719a2a8d1974c023672c5c3598a4e64b070a5353e7fa087",
+  "schema_version": "2.1",
+  "stage_e_pilot_allowed": false,
+  "status": "ai_preaudit_pass_independent_human_audit_required",
+  "template_family_count": 24,
+  "template_reports": {
+    "v21_dec_badge_index": {
+      "ai_linguistic_review_note": "The revised wording explicitly states that N badges were given away, so subtraction is unambiguous.",
+      "ai_linguistic_review_status": "PASS",
+      "all_counterbalance_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "key_role_balanced": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "record_order_balanced": true
+      }
+    },
+    "v21_dec_bead_archive": {
+      "ai_linguistic_review_note": "Clear keyed binding, explicit removal, and natural current-count question.",
+      "ai_linguistic_review_status": "PASS",
+      "all_counterbalance_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "key_role_balanced": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "record_order_balanced": true
+      }
+    },
+    "v21_dec_bottle_catalog": {
+      "ai_linguistic_review_note": "Recycled bottles clearly reduce prior stock.",
+      "ai_linguistic_review_status": "PASS",
+      "all_counterbalance_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "key_role_balanced": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "record_order_balanced": true
+      }
+    },
+    "v21_dec_cube_folder": {
+      "ai_linguistic_review_note": "Taken cubes clearly reduce the initial total.",
+      "ai_linguistic_review_status": "PASS",
+      "all_counterbalance_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "key_role_balanced": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "record_order_balanced": true
+      }
+    },
+    "v21_dec_pencil_file": {
+      "ai_linguistic_review_note": "Handed-out pencils unambiguously reduce the recorded starting amount.",
+      "ai_linguistic_review_status": "PASS",
+      "all_counterbalance_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "key_role_balanced": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "record_order_balanced": true
+      }
+    },
+    "v21_dec_shell_register": {
+      "ai_linguistic_review_note": "Missing shells unambiguously encode a decrease.",
+      "ai_linguistic_review_status": "PASS",
+      "all_counterbalance_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "key_role_balanced": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "record_order_balanced": true
+      }
+    },
+    "v21_dec_ticket_account": {
+      "ai_linguistic_review_note": "Redeemed tickets clearly reduce the prior account balance.",
+      "ai_linguistic_review_status": "PASS",
+      "all_counterbalance_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "key_role_balanced": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "record_order_balanced": true
+      }
+    },
+    "v21_dec_token_ledger": {
+      "ai_linguistic_review_note": "Clear keyed binding and explicit token-use decrease.",
+      "ai_linguistic_review_status": "PASS",
+      "all_counterbalance_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "key_role_balanced": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "record_order_balanced": true
+      }
+    },
+    "v21_inc_candle_catalog": {
+      "ai_linguistic_review_note": "Additional stocked candles clearly increase prior stock.",
+      "ai_linguistic_review_status": "PASS",
+      "all_counterbalance_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "key_role_balanced": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "record_order_balanced": true
+      }
+    },
+    "v21_inc_clip_archive": {
+      "ai_linguistic_review_note": "Received clips clearly increase the recorded starting amount.",
+      "ai_linguistic_review_status": "PASS",
+      "all_counterbalance_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "key_role_balanced": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "record_order_balanced": true
+      }
+    },
+    "v21_inc_coupon_index": {
+      "ai_linguistic_review_note": "An issue of additional coupons is slightly formal but explicitly indicates an increase.",
+      "ai_linguistic_review_status": "PASS",
+      "all_counterbalance_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "key_role_balanced": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "record_order_balanced": true
+      }
+    },
+    "v21_inc_marker_account": {
+      "ai_linguistic_review_note": "Delivered markers clearly increase the prior balance.",
+      "ai_linguistic_review_status": "PASS",
+      "all_counterbalance_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "key_role_balanced": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "record_order_balanced": true
+      }
+    },
+    "v21_inc_notebook_file": {
+      "ai_linguistic_review_note": "Purchased notebooks clearly increase the starting total.",
+      "ai_linguistic_review_status": "PASS",
+      "all_counterbalance_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "key_role_balanced": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "record_order_balanced": true
+      }
+    },
+    "v21_inc_packet_folder": {
+      "ai_linguistic_review_note": "Additional packets placed there clearly increase the initial total.",
+      "ai_linguistic_review_status": "PASS",
+      "all_counterbalance_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "key_role_balanced": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "record_order_balanced": true
+      }
+    },
+    "v21_inc_pebble_register": {
+      "ai_linguistic_review_note": "Collected pebbles clearly increase the earlier quantity.",
+      "ai_linguistic_review_status": "PASS",
+      "all_counterbalance_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "key_role_balanced": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "record_order_balanced": true
+      }
+    },
+    "v21_inc_ribbon_ledger": {
+      "ai_linguistic_review_note": "Added ribbons unambiguously encode an increase.",
+      "ai_linguistic_review_status": "PASS",
+      "all_counterbalance_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "key_role_balanced": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "record_order_balanced": true
+      }
+    },
+    "v21_temp_cabinet_ledger": {
+      "ai_linguistic_review_note": "The reading explicitly increased by N degrees.",
+      "ai_linguistic_review_status": "PASS",
+      "all_counterbalance_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "key_role_balanced": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "record_order_balanced": true
+      }
+    },
+    "v21_temp_capsule_account": {
+      "ai_linguistic_review_note": "The revised wording makes the recorded temperature the explicit subject of the increase.",
+      "ai_linguistic_review_status": "PASS",
+      "all_counterbalance_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "key_role_balanced": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "record_order_balanced": true
+      }
+    },
+    "v21_temp_compartment_index": {
+      "ai_linguistic_review_note": "Earlier reading plus an explicit increase is clear and symmetric with direct retrieval.",
+      "ai_linguistic_review_status": "PASS",
+      "all_counterbalance_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "key_role_balanced": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "record_order_balanced": true
+      }
+    },
+    "v21_temp_flask_archive": {
+      "ai_linguistic_review_note": "A rise of N degrees clearly applies to the recorded starting temperature.",
+      "ai_linguistic_review_status": "PASS",
+      "all_counterbalance_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "key_role_balanced": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "record_order_balanced": true
+      }
+    },
+    "v21_temp_incubator_file": {
+      "ai_linguistic_review_note": "The file wording is record-like and warming direction is unambiguous.",
+      "ai_linguistic_review_status": "PASS",
+      "all_counterbalance_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "key_role_balanced": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "record_order_balanced": true
+      }
+    },
+    "v21_temp_probe_folder": {
+      "ai_linguistic_review_note": "Initial measurement and noted gain have an unambiguous addition interpretation.",
+      "ai_linguistic_review_status": "PASS",
+      "all_counterbalance_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "key_role_balanced": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "record_order_balanced": true
+      }
+    },
+    "v21_temp_reservoir_register": {
+      "ai_linguistic_review_note": "The revised wording makes the recorded temperature the explicit subject of the rise.",
+      "ai_linguistic_review_status": "PASS",
+      "all_counterbalance_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "key_role_balanced": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "record_order_balanced": true
+      }
+    },
+    "v21_temp_vessel_catalog": {
+      "ai_linguistic_review_note": "Prior measurement and explicit rise are clear and natural.",
+      "ai_linguistic_review_status": "PASS",
+      "all_counterbalance_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "key_role_balanced": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "record_order_balanced": true
+      }
+    }
+  }
+}

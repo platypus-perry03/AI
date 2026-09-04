@@ -1,0 +1,240 @@
+{
+  "audit_type": "adversarial_ai_only_shortcut_counterbalance_audit",
+  "fail_count": 0,
+  "gpu_used": false,
+  "human_audit": "not_performed",
+  "human_audited_evidence": false,
+  "model_loaded": false,
+  "pair_coverage": 128,
+  "pass_count": 16,
+  "pool": "calibration",
+  "schema_version": "4.0",
+  "status": "PASS",
+  "template_count": 16,
+  "templates": [
+    {
+      "checks": {
+        "active_entry_does_not_predict_selector_letter": true,
+        "all_six_nuisance_columns_balanced": true,
+        "arithmetic_answer_letter_4_4": true,
+        "no_candidate_numeric_collision": true,
+        "no_result_dependent_content": true,
+        "operation_does_not_predict_arithmetic_letter": true,
+        "selector_answer_letter_4_4": true
+      },
+      "pair_count": 8,
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_01"
+    },
+    {
+      "checks": {
+        "active_entry_does_not_predict_selector_letter": true,
+        "all_six_nuisance_columns_balanced": true,
+        "arithmetic_answer_letter_4_4": true,
+        "no_candidate_numeric_collision": true,
+        "no_result_dependent_content": true,
+        "operation_does_not_predict_arithmetic_letter": true,
+        "selector_answer_letter_4_4": true
+      },
+      "pair_count": 8,
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_02"
+    },
+    {
+      "checks": {
+        "active_entry_does_not_predict_selector_letter": true,
+        "all_six_nuisance_columns_balanced": true,
+        "arithmetic_answer_letter_4_4": true,
+        "no_candidate_numeric_collision": true,
+        "no_result_dependent_content": true,
+        "operation_does_not_predict_arithmetic_letter": true,
+        "selector_answer_letter_4_4": true
+      },
+      "pair_count": 8,
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_03"
+    },
+    {
+      "checks": {
+        "active_entry_does_not_predict_selector_letter": true,
+        "all_six_nuisance_columns_balanced": true,
+        "arithmetic_answer_letter_4_4": true,
+        "no_candidate_numeric_collision": true,
+        "no_result_dependent_content": true,
+        "operation_does_not_predict_arithmetic_letter": true,
+        "selector_answer_letter_4_4": true
+      },
+      "pair_count": 8,
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_04"
+    },
+    {
+      "checks": {
+        "active_entry_does_not_predict_selector_letter": true,
+        "all_six_nuisance_columns_balanced": true,
+        "arithmetic_answer_letter_4_4": true,
+        "no_candidate_numeric_collision": true,
+        "no_result_dependent_content": true,
+        "operation_does_not_predict_arithmetic_letter": true,
+        "selector_answer_letter_4_4": true
+      },
+      "pair_count": 8,
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_05"
+    },
+    {
+      "checks": {
+        "active_entry_does_not_predict_selector_letter": true,
+        "all_six_nuisance_columns_balanced": true,
+        "arithmetic_answer_letter_4_4": true,
+        "no_candidate_numeric_collision": true,
+        "no_result_dependent_content": true,
+        "operation_does_not_predict_arithmetic_letter": true,
+        "selector_answer_letter_4_4": true
+      },
+      "pair_count": 8,
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_06"
+    },
+    {
+      "checks": {
+        "active_entry_does_not_predict_selector_letter": true,
+        "all_six_nuisance_columns_balanced": true,
+        "arithmetic_answer_letter_4_4": true,
+        "no_candidate_numeric_collision": true,
+        "no_result_dependent_content": true,
+        "operation_does_not_predict_arithmetic_letter": true,
+        "selector_answer_letter_4_4": true
+      },
+      "pair_count": 8,
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_07"
+    },
+    {
+      "checks": {
+        "active_entry_does_not_predict_selector_letter": true,
+        "all_six_nuisance_columns_balanced": true,
+        "arithmetic_answer_letter_4_4": true,
+        "no_candidate_numeric_collision": true,
+        "no_result_dependent_content": true,
+        "operation_does_not_predict_arithmetic_letter": true,
+        "selector_answer_letter_4_4": true
+      },
+      "pair_count": 8,
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_08"
+    },
+    {
+      "checks": {
+        "active_entry_does_not_predict_selector_letter": true,
+        "all_six_nuisance_columns_balanced": true,
+        "arithmetic_answer_letter_4_4": true,
+        "no_candidate_numeric_collision": true,
+        "no_result_dependent_content": true,
+        "operation_does_not_predict_arithmetic_letter": true,
+        "selector_answer_letter_4_4": true
+      },
+      "pair_count": 8,
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_01"
+    },
+    {
+      "checks": {
+        "active_entry_does_not_predict_selector_letter": true,
+        "all_six_nuisance_columns_balanced": true,
+        "arithmetic_answer_letter_4_4": true,
+        "no_candidate_numeric_collision": true,
+        "no_result_dependent_content": true,
+        "operation_does_not_predict_arithmetic_letter": true,
+        "selector_answer_letter_4_4": true
+      },
+      "pair_count": 8,
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_02"
+    },
+    {
+      "checks": {
+        "active_entry_does_not_predict_selector_letter": true,
+        "all_six_nuisance_columns_balanced": true,
+        "arithmetic_answer_letter_4_4": true,
+        "no_candidate_numeric_collision": true,
+        "no_result_dependent_content": true,
+        "operation_does_not_predict_arithmetic_letter": true,
+        "selector_answer_letter_4_4": true
+      },
+      "pair_count": 8,
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_03"
+    },
+    {
+      "checks": {
+        "active_entry_does_not_predict_selector_letter": true,
+        "all_six_nuisance_columns_balanced": true,
+        "arithmetic_answer_letter_4_4": true,
+        "no_candidate_numeric_collision": true,
+        "no_result_dependent_content": true,
+        "operation_does_not_predict_arithmetic_letter": true,
+        "selector_answer_letter_4_4": true
+      },
+      "pair_count": 8,
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_04"
+    },
+    {
+      "checks": {
+        "active_entry_does_not_predict_selector_letter": true,
+        "all_six_nuisance_columns_balanced": true,
+        "arithmetic_answer_letter_4_4": true,
+        "no_candidate_numeric_collision": true,
+        "no_result_dependent_content": true,
+        "operation_does_not_predict_arithmetic_letter": true,
+        "selector_answer_letter_4_4": true
+      },
+      "pair_count": 8,
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_05"
+    },
+    {
+      "checks": {
+        "active_entry_does_not_predict_selector_letter": true,
+        "all_six_nuisance_columns_balanced": true,
+        "arithmetic_answer_letter_4_4": true,
+        "no_candidate_numeric_collision": true,
+        "no_result_dependent_content": true,
+        "operation_does_not_predict_arithmetic_letter": true,
+        "selector_answer_letter_4_4": true
+      },
+      "pair_count": 8,
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_06"
+    },
+    {
+      "checks": {
+        "active_entry_does_not_predict_selector_letter": true,
+        "all_six_nuisance_columns_balanced": true,
+        "arithmetic_answer_letter_4_4": true,
+        "no_candidate_numeric_collision": true,
+        "no_result_dependent_content": true,
+        "operation_does_not_predict_arithmetic_letter": true,
+        "selector_answer_letter_4_4": true
+      },
+      "pair_count": 8,
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_07"
+    },
+    {
+      "checks": {
+        "active_entry_does_not_predict_selector_letter": true,
+        "all_six_nuisance_columns_balanced": true,
+        "arithmetic_answer_letter_4_4": true,
+        "no_candidate_numeric_collision": true,
+        "no_result_dependent_content": true,
+        "operation_does_not_predict_arithmetic_letter": true,
+        "selector_answer_letter_4_4": true
+      },
+      "pair_count": 8,
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_08"
+    }
+  ]
+}

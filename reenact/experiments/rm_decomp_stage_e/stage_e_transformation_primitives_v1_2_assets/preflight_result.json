@@ -1,0 +1,77 @@
+{
+  "external_api_used": false,
+  "format_gates": {
+    "joint_valid_coverage": false,
+    "parse_a": false,
+    "parse_b": false
+  },
+  "full_annotation_allowed": false,
+  "internal_outcomes_merged": false,
+  "joint_parse_coverage": 0.020833333333333332,
+  "minimum_usable_primitives": 2,
+  "parse_rates": {
+    "annotator_a": 0.9583333333333334,
+    "annotator_b": 0.020833333333333332
+  },
+  "primitive_metrics": {
+    "CAUS": {
+      "a_positive": 0,
+      "b_positive": 0,
+      "cohen_kappa": 1.0,
+      "joint_valid_coverage": 0.020833333333333332,
+      "pooled_positive_prevalence": 0.0,
+      "raw_agreement": 1.0
+    },
+    "COND": {
+      "a_positive": 0,
+      "b_positive": 1,
+      "cohen_kappa": 0.0,
+      "joint_valid_coverage": 0.020833333333333332,
+      "pooled_positive_prevalence": 0.25,
+      "raw_agreement": 0.5
+    },
+    "INTER": {
+      "a_positive": 0,
+      "b_positive": 0,
+      "cohen_kappa": 1.0,
+      "joint_valid_coverage": 0.020833333333333332,
+      "pooled_positive_prevalence": 0.0,
+      "raw_agreement": 1.0
+    },
+    "NUM": {
+      "a_positive": 2,
+      "b_positive": 2,
+      "cohen_kappa": 1.0,
+      "joint_valid_coverage": 0.020833333333333332,
+      "pooled_positive_prevalence": 1.0,
+      "raw_agreement": 1.0
+    },
+    "REL": {
+      "a_positive": 2,
+      "b_positive": 2,
+      "cohen_kappa": 1.0,
+      "joint_valid_coverage": 0.020833333333333332,
+      "pooled_positive_prevalence": 1.0,
+      "raw_agreement": 1.0
+    },
+    "RULE": {
+      "a_positive": 2,
+      "b_positive": 2,
+      "cohen_kappa": 1.0,
+      "joint_valid_coverage": 0.020833333333333332,
+      "pooled_positive_prevalence": 1.0,
+      "raw_agreement": 1.0
+    }
+  },
+  "primitive_status": {
+    "CAUS": "INSUFFICIENT_PREVALENCE",
+    "COND": "UNRELIABLE",
+    "INTER": "INSUFFICIENT_PREVALENCE",
+    "NUM": "INSUFFICIENT_PREVALENCE",
+    "REL": "INSUFFICIENT_PREVALENCE",
+    "RULE": "INSUFFICIENT_PREVALENCE"
+  },
+  "rows": 96,
+  "status": "FAIL",
+  "usable_primitives": []
+}

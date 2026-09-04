@@ -1,0 +1,51 @@
+{
+  "feature_concentration": {
+    "answer_directness": {
+      "counts": {
+        "DIR": 16,
+        "IND": 32
+      },
+      "maximum_fraction": 0.6666666666666666
+    },
+    "answer_mode": {
+      "counts": {
+        "DER": 5,
+        "MIX": 27,
+        "RET": 16
+      },
+      "maximum_fraction": 0.5625
+    },
+    "composition_required": {
+      "counts": {
+        "N": 22,
+        "Y": 26
+      },
+      "maximum_fraction": 0.5416666666666666
+    },
+    "external_knowledge_required": {
+      "counts": {
+        "N": 5,
+        "Y": 43
+      },
+      "maximum_fraction": 0.8958333333333334
+    },
+    "multi_step_required": {
+      "counts": {
+        "N": 43,
+        "Y": 5
+      },
+      "maximum_fraction": 0.8958333333333334
+    },
+    "transformation_required": {
+      "counts": {
+        "N": 32,
+        "Y": 16
+      },
+      "maximum_fraction": 0.6666666666666666
+    }
+  },
+  "output_sha256": "f4b84fdd5a0493dac8861b97144ce59b25ed5acc4bd2d205454d060c5e7a2152",
+  "parse_validity": 1.0,
+  "rows": 48,
+  "status": "PASS"
+}

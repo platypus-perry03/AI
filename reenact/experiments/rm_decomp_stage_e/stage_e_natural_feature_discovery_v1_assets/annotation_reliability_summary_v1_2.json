@@ -1,0 +1,96 @@
+{
+  "consensus_rule": "exact_two_annotator_agreement_else_UNC",
+  "consensus_sha256": "868ff52a77cb8e31ff994ed9425ad97ad91cd61da84cf82fad8c01f82340410d",
+  "feature_selection_kappa_minimum": 0.6,
+  "features": {
+    "answer_directness": {
+      "annotator_a_counts": {
+        "DIR": 928,
+        "IND": 2072
+      },
+      "annotator_b_counts": {
+        "DIR": 1508,
+        "IND": 1342,
+        "UNC": 150
+      },
+      "cohen_kappa": 0.41617675860672465,
+      "eligible_for_feature_selection": false,
+      "raw_agreement": 0.6873333333333334
+    },
+    "answer_mode": {
+      "annotator_a_counts": {
+        "DER": 463,
+        "MIX": 1604,
+        "RET": 933
+      },
+      "annotator_b_counts": {
+        "DER": 309,
+        "MIX": 926,
+        "RET": 1629,
+        "UNC": 136
+      },
+      "cohen_kappa": 0.3499404966563975,
+      "eligible_for_feature_selection": false,
+      "raw_agreement": 0.5773333333333334
+    },
+    "composition_required": {
+      "annotator_a_counts": {
+        "N": 1455,
+        "Y": 1545
+      },
+      "annotator_b_counts": {
+        "N": 1927,
+        "UNC": 20,
+        "Y": 1053
+      },
+      "cohen_kappa": 0.22986520999796475,
+      "eligible_for_feature_selection": false,
+      "raw_agreement": 0.609
+    },
+    "external_knowledge_required": {
+      "annotator_a_counts": {
+        "N": 276,
+        "Y": 2724
+      },
+      "annotator_b_counts": {
+        "N": 1560,
+        "UNC": 19,
+        "Y": 1421
+      },
+      "cohen_kappa": 0.09463086734107508,
+      "eligible_for_feature_selection": false,
+      "raw_agreement": 0.5273333333333333
+    },
+    "multi_step_required": {
+      "annotator_a_counts": {
+        "N": 2642,
+        "Y": 358
+      },
+      "annotator_b_counts": {
+        "N": 2027,
+        "UNC": 20,
+        "Y": 953
+      },
+      "cohen_kappa": 0.04192291066544118,
+      "eligible_for_feature_selection": false,
+      "raw_agreement": 0.6483333333333333
+    },
+    "transformation_required": {
+      "annotator_a_counts": {
+        "N": 1933,
+        "Y": 1067
+      },
+      "annotator_b_counts": {
+        "N": 1908,
+        "UNC": 20,
+        "Y": 1072
+      },
+      "cohen_kappa": 0.7365650578741136,
+      "eligible_for_feature_selection": true,
+      "raw_agreement": 0.878
+    }
+  },
+  "human_annotation": false,
+  "rows": 3000,
+  "status": "COMPLETE_AI_ONLY"
+}

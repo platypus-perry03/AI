@@ -1,0 +1,12 @@
+{
+  "allowed_fields": [
+    "annotation_id",
+    "question",
+    "options"
+  ],
+  "annotation_key_sha256": "9fd4bac3b4d7325d9cab8c9882118a578fa2b722f2dfc0efedb1f14f627e6c0f",
+  "blind_items_sha256": "6072b1c5dc61e80a17b1813d69d1a3b2f67d5d4f915fb1f51323776ce73230d6",
+  "forbidden_fields_absent": true,
+  "rows": 3000,
+  "status": "PASS"
+}

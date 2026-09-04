@@ -1,0 +1,22 @@
+{
+  "ai_preaudit_content_in_reviewer_worksheets": false,
+  "ai_preaudit_summary_sha256": "3cf6d5645134f66692395d17297eb445194565e66504ed3d14ef382fded4d339",
+  "baseline_calibration_execution_allowed": false,
+  "dataset_sha256": "322d80f3c2c0723f6a4e8b0a968b30baac23e28cf68b6c60c5a7a95a5bca7420",
+  "dataset_version": "2.1.1",
+  "guide_sha256": "d6f37c8f48381624f79b271e18b93feb6d1b4edf040413d997e9df826adf82ae",
+  "human_audit_complete": false,
+  "model_results_in_reviewer_worksheets": false,
+  "preparation_implementation_sha256": "9e21a9d7299a02963bb81a2cdfdec514def7653b985b5c23d1511db95fedc70b",
+  "reviewer_1_completed_pair_count": 0,
+  "reviewer_1_csv_sha256": "90cb15cd4294513986c51c06928611fc3d9273b64ee5586f65528f4bc2082ed7",
+  "reviewer_1_id": null,
+  "reviewer_2_completed_pair_count": 0,
+  "reviewer_2_csv_sha256": "90cb15cd4294513986c51c06928611fc3d9273b64ee5586f65528f4bc2082ed7",
+  "reviewer_2_id": null,
+  "reviewer_files_are_byte_identical_at_handoff": true,
+  "reviewers_must_be_independent_and_blind": true,
+  "schema_version": "1.0",
+  "stage_e_pilot_allowed": false,
+  "status": "independent_human_audit_pending"
+}

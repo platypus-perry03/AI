@@ -1,0 +1,2191 @@
+{
+  "audit_type": "primary_ai_only_linguistic_semantic_full_pair_audit",
+  "fail_count": 0,
+  "gpu_used": false,
+  "human_audit": "not_performed",
+  "human_audited_evidence": false,
+  "model_loaded": false,
+  "pair_count": 128,
+  "pass_count": 128,
+  "pool": "calibration",
+  "rows": [
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_01_f01",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_01"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_01_f02",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_01"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_01_f03",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_01"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_01_f04",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_01"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_01_f05",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_01"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_01_f06",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_01"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_01_f07",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_01"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_01_f08",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_01"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_02_f01",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_02"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_02_f02",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_02"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_02_f03",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_02"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_02_f04",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_02"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_02_f05",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_02"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_02_f06",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_02"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_02_f07",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_02"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_02_f08",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_02"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_03_f01",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_03"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_03_f02",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_03"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_03_f03",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_03"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_03_f04",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_03"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_03_f05",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_03"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_03_f06",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_03"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_03_f07",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_03"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_03_f08",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_03"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_04_f01",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_04"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_04_f02",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_04"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_04_f03",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_04"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_04_f04",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_04"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_04_f05",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_04"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_04_f06",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_04"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_04_f07",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_04"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_04_f08",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_04"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_05_f01",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_05"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_05_f02",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_05"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_05_f03",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_05"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_05_f04",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_05"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_05_f05",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_05"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_05_f06",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_05"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_05_f07",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_05"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_05_f08",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_05"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_06_f01",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_06"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_06_f02",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_06"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_06_f03",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_06"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_06_f04",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_06"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_06_f05",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_06"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_06_f06",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_06"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_06_f07",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_06"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_06_f08",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_06"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_07_f01",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_07"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_07_f02",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_07"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_07_f03",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_07"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_07_f04",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_07"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_07_f05",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_07"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_07_f06",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_07"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_07_f07",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_07"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_07_f08",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_07"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_08_f01",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_08"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_08_f02",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_08"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_08_f03",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_08"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_08_f04",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_08"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_08_f05",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_08"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_08_f06",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_08"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_08_f07",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_08"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_points_balance_08_f08",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_points_balance_cal_style_08"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_01_f01",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_01"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_01_f02",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_01"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_01_f03",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_01"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_01_f04",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_01"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_01_f05",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_01"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_01_f06",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_01"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_01_f07",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_01"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_01_f08",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_01"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_02_f01",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_02"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_02_f02",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_02"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_02_f03",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_02"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_02_f04",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_02"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_02_f05",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_02"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_02_f06",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_02"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_02_f07",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_02"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_02_f08",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_02"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_03_f01",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_03"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_03_f02",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_03"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_03_f03",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_03"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_03_f04",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_03"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_03_f05",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_03"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_03_f06",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_03"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_03_f07",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_03"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_03_f08",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_03"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_04_f01",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_04"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_04_f02",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_04"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_04_f03",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_04"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_04_f04",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_04"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_04_f05",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_04"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_04_f06",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_04"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_04_f07",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_04"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_04_f08",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_04"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_05_f01",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_05"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_05_f02",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_05"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_05_f03",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_05"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_05_f04",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_05"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_05_f05",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_05"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_05_f06",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_05"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_05_f07",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_05"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_05_f08",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_05"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_06_f01",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_06"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_06_f02",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_06"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_06_f03",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_06"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_06_f04",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_06"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_06_f05",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_06"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_06_f06",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_06"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_06_f07",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_06"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_06_f08",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_06"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_07_f01",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_07"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_07_f02",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_07"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_07_f03",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_07"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_07_f04",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_07"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_07_f05",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_07"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_07_f06",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_07"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_07_f07",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_07"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_07_f08",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_07"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_08_f01",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_08"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_08_f02",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_08"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_08_f03",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_08"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_08_f04",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_08"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_08_f05",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_08"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_08_f06",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_08"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_08_f07",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_08"
+    },
+    {
+      "checks": {
+        "arithmetic_requires_operation_to_select_candidate": true,
+        "canonical_results_correct": true,
+        "condition_questions_semantically_parallel": true,
+        "correct_and_foil_both_available_each_condition": true,
+        "counterbalance_counterpart_defined": true,
+        "grammar_preserved_by_frame_substitutions": true,
+        "human_audit_not_misrepresented": true,
+        "no_unresolved_template_placeholder": true,
+        "output_instruction_unambiguous": true,
+        "selector_binding_chain_explicit": true
+      },
+      "pair_id": "v4_calibration_temperature_08_f08",
+      "status": "PASS",
+      "template_family_id": "v4_calibration_temperature_cal_style_08"
+    }
+  ],
+  "schema_version": "4.0",
+  "status": "PASS"
+}

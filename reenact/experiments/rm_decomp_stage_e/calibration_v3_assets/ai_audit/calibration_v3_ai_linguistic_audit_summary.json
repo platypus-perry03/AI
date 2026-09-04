@@ -1,0 +1,440 @@
+{
+  "ai_audit_csv_sha256": "2695b1a8d1020fe9ba58de81fed14501826508e547c4260130275ca09776f3cc",
+  "ai_audit_fail_count": 0,
+  "ai_audit_pass_count": 192,
+  "automatic_audit_sha256": "e904fcec13b97bf9d09afc707aedd2b37c100c911b560f2b88f0ed270e654e26",
+  "baseline_calibration_execution_allowed": false,
+  "claim_scope_note": "This validates the controlled arithmetic-transformation versus selector-guided matched-retrieval dataset. It does not establish a Reasoning-versus-Memorization contrast or satisfy the independent human-audit gate.",
+  "dataset_manifest_sha256": "a157ec7bd463c739ee046f9e3f85a08d2e3ebb7dc6a794a63757653c93fad822",
+  "dataset_pass": true,
+  "dataset_sha256": "d2187c0623ba9752776cf0251dee3dabf9d80ac04e339cf3eb4bd1d1b42761a1",
+  "design_sha256": "c60a579729376d391582dbc03af9cfd3ba0a1e1743a9e9a884967aacc177adfc",
+  "gpu_used": false,
+  "human_audit_waiver_allowed": false,
+  "independent_human_audit_complete": false,
+  "independent_human_audit_started": false,
+  "liref_or_candidate_state_accessed": false,
+  "model_forward_performed": false,
+  "model_or_tokenizer_loaded": false,
+  "official_dataset_modified": false,
+  "pair_count": 192,
+  "pair_failures": [],
+  "reviewed_pair_count": 192,
+  "reviewer_id": "codex_ai_audit_nonhuman_v3_20260830",
+  "reviewer_type": "nonhuman_ai",
+  "schema_version": "3.0",
+  "stage_e_pilot_allowed": false,
+  "status": "ai_audit_pass_independent_human_audit_required",
+  "template_failures": [],
+  "template_family_count": 24,
+  "template_reports": {
+    "v3_obj_button_compendium": {
+      "all_checks_pass": true,
+      "checks": {
+        "add_sub_4_to_4": true,
+        "arithmetic_label_role_4_to_4": true,
+        "candidate_pair_assignment_4_to_4": true,
+        "channel_order_4_to_4": true,
+        "each_factor_4_to_4": true,
+        "eight_pairs": true,
+        "every_factor_pair_has_each_cell_twice": true,
+        "exact_frozen_oa_rows": true,
+        "selector_entry_4_to_4": true,
+        "selector_label_role_4_to_4": true
+      },
+      "linguistic_review_note": "START/CHANGE and tagged line selection are explicit; the singular 'number ... belongs' question is grammatical.",
+      "linguistic_review_status": "PASS"
+    },
+    "v3_obj_flag_workbook": {
+      "all_checks_pass": true,
+      "checks": {
+        "add_sub_4_to_4": true,
+        "arithmetic_label_role_4_to_4": true,
+        "candidate_pair_assignment_4_to_4": true,
+        "channel_order_4_to_4": true,
+        "each_factor_4_to_4": true,
+        "eight_pairs": true,
+        "every_factor_pair_has_each_cell_twice": true,
+        "exact_frozen_oa_rows": true,
+        "selector_entry_4_to_4": true,
+        "selector_label_role_4_to_4": true
+      },
+      "linguistic_review_note": "Source/shift action and symbol-addressed retrieval have an unambiguous case-to-ledger path.",
+      "linguistic_review_status": "PASS"
+    },
+    "v3_obj_gear_inventory": {
+      "all_checks_pass": true,
+      "checks": {
+        "add_sub_4_to_4": true,
+        "arithmetic_label_role_4_to_4": true,
+        "candidate_pair_assignment_4_to_4": true,
+        "channel_order_4_to_4": true,
+        "each_factor_4_to_4": true,
+        "eight_pairs": true,
+        "every_factor_pair_has_each_cell_twice": true,
+        "exact_frozen_oa_rows": true,
+        "selector_entry_4_to_4": true,
+        "selector_label_role_4_to_4": true
+      },
+      "linguistic_review_note": "First/second operand order and code-selected key lookup are stated directly and naturally.",
+      "linguistic_review_status": "PASS"
+    },
+    "v3_obj_lantern_dossier": {
+      "all_checks_pass": true,
+      "checks": {
+        "add_sub_4_to_4": true,
+        "arithmetic_label_role_4_to_4": true,
+        "candidate_pair_assignment_4_to_4": true,
+        "channel_order_4_to_4": true,
+        "each_factor_4_to_4": true,
+        "eight_pairs": true,
+        "every_factor_pair_has_each_cell_twice": true,
+        "exact_frozen_oa_rows": true,
+        "selector_entry_4_to_4": true,
+        "selector_label_role_4_to_4": true
+      },
+      "linguistic_review_note": "Case routing, ADD/SUB operands, selector entries, ledger, and current-count question are explicit and natural.",
+      "linguistic_review_status": "PASS"
+    },
+    "v3_obj_magnet_portfolio": {
+      "all_checks_pass": true,
+      "checks": {
+        "add_sub_4_to_4": true,
+        "arithmetic_label_role_4_to_4": true,
+        "candidate_pair_assignment_4_to_4": true,
+        "channel_order_4_to_4": true,
+        "each_factor_4_to_4": true,
+        "eight_pairs": true,
+        "every_factor_pair_has_each_cell_twice": true,
+        "exact_frozen_oa_rows": true,
+        "selector_entry_4_to_4": true,
+        "selector_label_role_4_to_4": true
+      },
+      "linguistic_review_note": "Baseline/change computation and seal-row selection are explicit and semantically parallel.",
+      "linguistic_review_status": "PASS"
+    },
+    "v3_obj_mug_directory": {
+      "all_checks_pass": true,
+      "checks": {
+        "add_sub_4_to_4": true,
+        "arithmetic_label_role_4_to_4": true,
+        "candidate_pair_assignment_4_to_4": true,
+        "channel_order_4_to_4": true,
+        "each_factor_4_to_4": true,
+        "eight_pairs": true,
+        "every_factor_pair_has_each_cell_twice": true,
+        "exact_frozen_oa_rows": true,
+        "selector_entry_4_to_4": true,
+        "selector_label_role_4_to_4": true
+      },
+      "linguistic_review_note": "Initial/update computation and badge-linked key retrieval are clear and target-matched.",
+      "linguistic_review_status": "PASS"
+    },
+    "v3_obj_postcard_journal": {
+      "all_checks_pass": true,
+      "checks": {
+        "add_sub_4_to_4": true,
+        "arithmetic_label_role_4_to_4": true,
+        "candidate_pair_assignment_4_to_4": true,
+        "channel_order_4_to_4": true,
+        "each_factor_4_to_4": true,
+        "eight_pairs": true,
+        "every_factor_pair_has_each_cell_twice": true,
+        "exact_frozen_oa_rows": true,
+        "selector_entry_4_to_4": true,
+        "selector_label_role_4_to_4": true
+      },
+      "linguistic_review_note": "Start/change pointers and marker-selected pointer retrieval are clear in both operation directions.",
+      "linguistic_review_status": "PASS"
+    },
+    "v3_obj_scarf_registry": {
+      "all_checks_pass": true,
+      "checks": {
+        "add_sub_4_to_4": true,
+        "arithmetic_label_role_4_to_4": true,
+        "candidate_pair_assignment_4_to_4": true,
+        "channel_order_4_to_4": true,
+        "each_factor_4_to_4": true,
+        "eight_pairs": true,
+        "every_factor_pair_has_each_cell_twice": true,
+        "exact_frozen_oa_rows": true,
+        "selector_entry_4_to_4": true,
+        "selector_label_role_4_to_4": true
+      },
+      "linguistic_review_note": "Registry routing and the original-total/adjustment distinction are clear; selector choice is unambiguous.",
+      "linguistic_review_status": "PASS"
+    },
+    "v3_pts_arcade_tally": {
+      "all_checks_pass": true,
+      "checks": {
+        "add_sub_4_to_4": true,
+        "arithmetic_label_role_4_to_4": true,
+        "candidate_pair_assignment_4_to_4": true,
+        "channel_order_4_to_4": true,
+        "each_factor_4_to_4": true,
+        "eight_pairs": true,
+        "every_factor_pair_has_each_cell_twice": true,
+        "exact_frozen_oa_rows": true,
+        "selector_entry_4_to_4": true,
+        "selector_label_role_4_to_4": true
+      },
+      "linguistic_review_note": "Base/adjustment arithmetic and active-token selection are clear and symmetric enough for the contrast.",
+      "linguistic_review_status": "PASS"
+    },
+    "v3_pts_challenge_book": {
+      "all_checks_pass": true,
+      "checks": {
+        "add_sub_4_to_4": true,
+        "arithmetic_label_role_4_to_4": true,
+        "candidate_pair_assignment_4_to_4": true,
+        "channel_order_4_to_4": true,
+        "each_factor_4_to_4": true,
+        "eight_pairs": true,
+        "every_factor_pair_has_each_cell_twice": true,
+        "exact_frozen_oa_rows": true,
+        "selector_entry_4_to_4": true,
+        "selector_label_role_4_to_4": true
+      },
+      "linguistic_review_note": "INPUT/CHANGE operation and selector routing are explicit; the point-line question is natural.",
+      "linguistic_review_status": "PASS"
+    },
+    "v3_pts_contest_docket": {
+      "all_checks_pass": true,
+      "checks": {
+        "add_sub_4_to_4": true,
+        "arithmetic_label_role_4_to_4": true,
+        "candidate_pair_assignment_4_to_4": true,
+        "channel_order_4_to_4": true,
+        "each_factor_4_to_4": true,
+        "eight_pairs": true,
+        "every_factor_pair_has_each_cell_twice": true,
+        "exact_frozen_oa_rows": true,
+        "selector_entry_4_to_4": true,
+        "selector_label_role_4_to_4": true
+      },
+      "linguistic_review_note": "Starting score/change operation and active-sign lookup are clearly distinguished.",
+      "linguistic_review_status": "PASS"
+    },
+    "v3_pts_league_record": {
+      "all_checks_pass": true,
+      "checks": {
+        "add_sub_4_to_4": true,
+        "arithmetic_label_role_4_to_4": true,
+        "candidate_pair_assignment_4_to_4": true,
+        "channel_order_4_to_4": true,
+        "each_factor_4_to_4": true,
+        "eight_pairs": true,
+        "every_factor_pair_has_each_cell_twice": true,
+        "exact_frozen_oa_rows": true,
+        "selector_entry_4_to_4": true,
+        "selector_label_role_4_to_4": true
+      },
+      "linguistic_review_note": "Prior points and point change are explicit; branch-selected direct retrieval is clear.",
+      "linguistic_review_status": "PASS"
+    },
+    "v3_pts_loyalty_folio": {
+      "all_checks_pass": true,
+      "checks": {
+        "add_sub_4_to_4": true,
+        "arithmetic_label_role_4_to_4": true,
+        "candidate_pair_assignment_4_to_4": true,
+        "channel_order_4_to_4": true,
+        "each_factor_4_to_4": true,
+        "eight_pairs": true,
+        "every_factor_pair_has_each_cell_twice": true,
+        "exact_frozen_oa_rows": true,
+        "selector_entry_4_to_4": true,
+        "selector_label_role_4_to_4": true
+      },
+      "linguistic_review_note": "Origin/movement arithmetic and seal-selected lookup are natural and unambiguous.",
+      "linguistic_review_status": "PASS"
+    },
+    "v3_pts_merit_index": {
+      "all_checks_pass": true,
+      "checks": {
+        "add_sub_4_to_4": true,
+        "arithmetic_label_role_4_to_4": true,
+        "candidate_pair_assignment_4_to_4": true,
+        "channel_order_4_to_4": true,
+        "each_factor_4_to_4": true,
+        "eight_pairs": true,
+        "every_factor_pair_has_each_cell_twice": true,
+        "exact_frozen_oa_rows": true,
+        "selector_entry_4_to_4": true,
+        "selector_label_role_4_to_4": true
+      },
+      "linguistic_review_note": "Baseline/revision arithmetic and emblem-resolved lookup form clear matched paths.",
+      "linguistic_review_status": "PASS"
+    },
+    "v3_pts_quiz_scorecard": {
+      "all_checks_pass": true,
+      "checks": {
+        "add_sub_4_to_4": true,
+        "arithmetic_label_role_4_to_4": true,
+        "candidate_pair_assignment_4_to_4": true,
+        "channel_order_4_to_4": true,
+        "each_factor_4_to_4": true,
+        "eight_pairs": true,
+        "every_factor_pair_has_each_cell_twice": true,
+        "exact_frozen_oa_rows": true,
+        "selector_entry_4_to_4": true,
+        "selector_label_role_4_to_4": true
+      },
+      "linguistic_review_note": "Opening score and change are explicit; selector options resolve cleanly to ledger values.",
+      "linguistic_review_status": "PASS"
+    },
+    "v3_pts_reward_sheet": {
+      "all_checks_pass": true,
+      "checks": {
+        "add_sub_4_to_4": true,
+        "arithmetic_label_role_4_to_4": true,
+        "candidate_pair_assignment_4_to_4": true,
+        "channel_order_4_to_4": true,
+        "each_factor_4_to_4": true,
+        "eight_pairs": true,
+        "every_factor_pair_has_each_cell_twice": true,
+        "exact_frozen_oa_rows": true,
+        "selector_entry_4_to_4": true,
+        "selector_label_role_4_to_4": true
+      },
+      "linguistic_review_note": "Beginning value, adjustment, and selector stamp have unambiguous balance semantics.",
+      "linguistic_review_status": "PASS"
+    },
+    "v3_tmp_basin_console": {
+      "all_checks_pass": true,
+      "checks": {
+        "add_sub_4_to_4": true,
+        "arithmetic_label_role_4_to_4": true,
+        "candidate_pair_assignment_4_to_4": true,
+        "channel_order_4_to_4": true,
+        "each_factor_4_to_4": true,
+        "eight_pairs": true,
+        "every_factor_pair_has_each_cell_twice": true,
+        "exact_frozen_oa_rows": true,
+        "selector_entry_4_to_4": true,
+        "selector_label_role_4_to_4": true
+      },
+      "linguistic_review_note": "Earlier temperature/change update and flag-based selection are clear in both directions.",
+      "linguistic_review_status": "PASS"
+    },
+    "v3_tmp_cooler_station": {
+      "all_checks_pass": true,
+      "checks": {
+        "add_sub_4_to_4": true,
+        "arithmetic_label_role_4_to_4": true,
+        "candidate_pair_assignment_4_to_4": true,
+        "channel_order_4_to_4": true,
+        "each_factor_4_to_4": true,
+        "eight_pairs": true,
+        "every_factor_pair_has_each_cell_twice": true,
+        "exact_frozen_oa_rows": true,
+        "selector_entry_4_to_4": true,
+        "selector_label_role_4_to_4": true
+      },
+      "linguistic_review_note": "Original reading/variation and physical cooler target make WARM/COOL direction clear.",
+      "linguistic_review_status": "PASS"
+    },
+    "v3_tmp_greenhouse_sensor": {
+      "all_checks_pass": true,
+      "checks": {
+        "add_sub_4_to_4": true,
+        "arithmetic_label_role_4_to_4": true,
+        "candidate_pair_assignment_4_to_4": true,
+        "channel_order_4_to_4": true,
+        "each_factor_4_to_4": true,
+        "eight_pairs": true,
+        "every_factor_pair_has_each_cell_twice": true,
+        "exact_frozen_oa_rows": true,
+        "selector_entry_4_to_4": true,
+        "selector_label_role_4_to_4": true
+      },
+      "linguistic_review_note": "Baseline/adjustment temperature command and selected-glyph lookup are natural and clear.",
+      "linguistic_review_status": "PASS"
+    },
+    "v3_tmp_kiln_tracker": {
+      "all_checks_pass": true,
+      "checks": {
+        "add_sub_4_to_4": true,
+        "arithmetic_label_role_4_to_4": true,
+        "candidate_pair_assignment_4_to_4": true,
+        "channel_order_4_to_4": true,
+        "each_factor_4_to_4": true,
+        "eight_pairs": true,
+        "every_factor_pair_has_each_cell_twice": true,
+        "exact_frozen_oa_rows": true,
+        "selector_entry_4_to_4": true,
+        "selector_label_role_4_to_4": true
+      },
+      "linguistic_review_note": "Starting temperature, shift, and WARM/COOL directive are clear; active-mark lookup is unambiguous.",
+      "linguistic_review_status": "PASS"
+    },
+    "v3_tmp_module_thermometer": {
+      "all_checks_pass": true,
+      "checks": {
+        "add_sub_4_to_4": true,
+        "arithmetic_label_role_4_to_4": true,
+        "candidate_pair_assignment_4_to_4": true,
+        "channel_order_4_to_4": true,
+        "each_factor_4_to_4": true,
+        "eight_pairs": true,
+        "every_factor_pair_has_each_cell_twice": true,
+        "exact_frozen_oa_rows": true,
+        "selector_entry_4_to_4": true,
+        "selector_label_role_4_to_4": true
+      },
+      "linguistic_review_note": "Reference/degree-shift operation and selector-badge retrieval are explicit and grammatical.",
+      "linguistic_review_status": "PASS"
+    },
+    "v3_tmp_reactor_panel": {
+      "all_checks_pass": true,
+      "checks": {
+        "add_sub_4_to_4": true,
+        "arithmetic_label_role_4_to_4": true,
+        "candidate_pair_assignment_4_to_4": true,
+        "channel_order_4_to_4": true,
+        "each_factor_4_to_4": true,
+        "eight_pairs": true,
+        "every_factor_pair_has_each_cell_twice": true,
+        "exact_frozen_oa_rows": true,
+        "selector_entry_4_to_4": true,
+        "selector_label_role_4_to_4": true
+      },
+      "linguistic_review_note": "Source/change temperature rule and selector rune both resolve through explicit keys.",
+      "linguistic_review_status": "PASS"
+    },
+    "v3_tmp_terrarium_monitor": {
+      "all_checks_pass": true,
+      "checks": {
+        "add_sub_4_to_4": true,
+        "arithmetic_label_role_4_to_4": true,
+        "candidate_pair_assignment_4_to_4": true,
+        "channel_order_4_to_4": true,
+        "each_factor_4_to_4": true,
+        "eight_pairs": true,
+        "every_factor_pair_has_each_cell_twice": true,
+        "exact_frozen_oa_rows": true,
+        "selector_entry_4_to_4": true,
+        "selector_label_role_4_to_4": true
+      },
+      "linguistic_review_note": "Initial reading plus WARM/COOL degree change and selector entry retrieval are explicit.",
+      "linguistic_review_status": "PASS"
+    },
+    "v3_tmp_vault_gauge": {
+      "all_checks_pass": true,
+      "checks": {
+        "add_sub_4_to_4": true,
+        "arithmetic_label_role_4_to_4": true,
+        "candidate_pair_assignment_4_to_4": true,
+        "channel_order_4_to_4": true,
+        "each_factor_4_to_4": true,
+        "eight_pairs": true,
+        "every_factor_pair_has_each_cell_twice": true,
+        "exact_frozen_oa_rows": true,
+        "selector_entry_4_to_4": true,
+        "selector_label_role_4_to_4": true
+      },
+      "linguistic_review_note": "Initial/change keys and active-crest retrieval are explicit with an unambiguous temperature question.",
+      "linguistic_review_status": "PASS"
+    }
+  }
+}

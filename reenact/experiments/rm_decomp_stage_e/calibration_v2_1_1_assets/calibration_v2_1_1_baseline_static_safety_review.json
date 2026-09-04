@@ -1,0 +1,44 @@
+{
+  "ai_only_audited": true,
+  "checks": {
+    "ai_only_provenance_locked": true,
+    "authorization_validated_before_model_load": true,
+    "explicit_authorization_and_hash_locks_required": true,
+    "fixed_result_root_and_refuses_overwrite": true,
+    "integer_count_acceptance_gates_present": true,
+    "no_direct_torch_or_transformers_import": true,
+    "no_forbidden_hook_weight_or_tensor_save_calls": true,
+    "no_liref_candidate_or_intervention_reference": true,
+    "nonexecution_modes_present": true,
+    "one_token_generation_only_with_hidden_outputs_disabled": true,
+    "parent_implementation_hash_locked_and_matches": true,
+    "parent_static_review_hash_locked_and_matches": true,
+    "source_parses": true,
+    "v2_1_1_count_and_cluster_contract_present": true
+  },
+  "execution_allowed": false,
+  "failures": [],
+  "forbidden_calls": [],
+  "generate_calls": [
+    {
+      "do_sample_false": true,
+      "function": "generate_one_token_answers",
+      "max_new_tokens_one": true,
+      "num_beams_one": true,
+      "output_attentions_false": true,
+      "output_hidden_states_false": true
+    }
+  ],
+  "gpu_used_during_review": false,
+  "human_audit": "not_performed",
+  "human_audit_gate": "waived_by_user",
+  "human_audited_evidence": false,
+  "implementation_sha256": "fbe0e731e1fe0a8ee72db9d1359b813666354e7911339e75191bf6f18978894c",
+  "model_forward_performed_during_review": false,
+  "model_or_tokenizer_loaded_during_review": false,
+  "parent_implementation_sha256": "78681b8e2b778e4cb7f224baff82a6eb9a4f67eaa7dcf139d13097e9131b9884",
+  "parent_static_review_sha256": "fa9fd731d70712b11439e22359abbc76ce42ad4b2118c20d9e632f9f3b38358d",
+  "runtime_imports": [],
+  "schema_version": "1.0",
+  "status": "STATIC_SAFETY_REVIEW_PASS_EXECUTION_NOT_APPROVED"
+}

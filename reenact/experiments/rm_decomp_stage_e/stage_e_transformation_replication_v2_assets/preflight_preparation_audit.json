@@ -1,0 +1,17 @@
+{
+  "blind_fields": [
+    "preflight_id",
+    "question",
+    "options"
+  ],
+  "blind_items_sha256": "f3a2d381bf4eb15609acbbf5a0a2c8d57ee3412df87b04a67ee5a2bc17e805ac",
+  "private_key_sha256": "67be54cf43f760a10dba6cbbe5cac05b6cb9473c4c1cafb9ce93a2c91a893d84",
+  "rows": 192,
+  "score_bins": {
+    "high_subpointnine": 48,
+    "low_nonzero": 48,
+    "pointnine_or_one": 48,
+    "zero": 48
+  },
+  "status": "PASS"
+}

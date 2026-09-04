@@ -1,0 +1,34 @@
+{
+  "adversarial_template_pass_counts": {
+    "calibration": 16,
+    "replication": 16
+  },
+  "audit_sha256": {
+    "calibration_adversarial": "51edae3f42f8ee6aef1558ec98f8f58c5bdcf280928b8878f2523c484cb31f03",
+    "calibration_primary": "800f652a876f8971857d7b9dac93d758688291044d588a5e185d132a5cac5b6d",
+    "replication_adversarial": "c626b11856dd1a7e09870c61f48315f09d74122542ba4088c208fc5ac4d85c13",
+    "replication_primary": "e83c5b76c561287002c94dd5b83e4efb8ecfbc2e5d37a77b00d2927dbbec0a50"
+  },
+  "calibration_execution_allowed": false,
+  "dataset_hashes": {
+    "calibration": "e4b660057b8103533c3303c8defc8a3b03268fac036ff3b8232c9e20662f6ded",
+    "replication": "4a783c0509419103746ac81c318c5617bdeaeb1b02bd1c5addefc331b248c7a4"
+  },
+  "gpu_used": false,
+  "human_audit": "not_performed",
+  "human_audited_evidence": false,
+  "intervention_allowed": false,
+  "model_forward_performed": false,
+  "model_loaded": false,
+  "pair_counts": {
+    "calibration": 128,
+    "replication": 128
+  },
+  "primary_ai_pass_counts": {
+    "calibration": 128,
+    "replication": 128
+  },
+  "replication_execution_allowed": false,
+  "schema_version": "4.0",
+  "status": "automatic_primary_ai_and_adversarial_ai_audits_all_pass"
+}

@@ -1,0 +1,259 @@
+{
+  "ai_preaudit_csv_sha256": "e562910e37d88d60ca2e37acfe83fc4cfa51a49efe327dcef707cd35aacaff27",
+  "ai_preaudit_fail_count": 0,
+  "ai_preaudit_needs_revision_count": 0,
+  "ai_preaudit_pass_count": 144,
+  "automatic_audit_sha256": "6e7bf7bde3965ae56f9d41cf0c82fec1b2da0414d190f32c19df45995d38ac8e",
+  "baseline_calibration_execution_allowed": false,
+  "claim_scope_note": "The contrast is transformation-dependent answer derivation versus direct-fact retrieval, not a validated Reasoning-versus-Memorization contrast.",
+  "dataset_manifest_sha256": "f79a80aa7b55a546724a3f639ebed22858addc39b21aaa73c65b495a9ce3898e",
+  "dataset_sha256": "c58390cdcb0f7282e36c918b193db69a0733851cfd07c291ab59a6fe12df1c87",
+  "gpu_used": false,
+  "independent_human_audit_complete": false,
+  "model_forward_performed": false,
+  "model_or_tokenizer_loaded": false,
+  "official_dataset_modified": false,
+  "pair_count": 144,
+  "pair_failures": [],
+  "reviewer_id": "codex_ai_preaudit_nonhuman_v2",
+  "schema_version": "2.0",
+  "status": "ai_preaudit_pass_independent_human_audit_still_required",
+  "template_failures": [],
+  "template_family_count": 18,
+  "template_reports": {
+    "v2_dec_balloons_popped": {
+      "ai_language_review_note": "Natural decrease statement and remaining-count question.",
+      "all_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "sentence_order_balanced": true
+      }
+    },
+    "v2_dec_books_donated": {
+      "ai_language_review_note": "Natural decrease statement and current-count question.",
+      "all_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "sentence_order_balanced": true
+      }
+    },
+    "v2_dec_cards_discarded": {
+      "ai_language_review_note": "Natural decrease statement and current-count question.",
+      "all_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "sentence_order_balanced": true
+      }
+    },
+    "v2_dec_coins_spent": {
+      "ai_language_review_note": "Natural decrease statement and current-count question.",
+      "all_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "sentence_order_balanced": true
+      }
+    },
+    "v2_dec_marbles_gave_away": {
+      "ai_language_review_note": "Natural decrease statement and current-count question.",
+      "all_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "sentence_order_balanced": true
+      }
+    },
+    "v2_dec_stickers_lost": {
+      "ai_language_review_note": "Natural decrease statement and current-count question.",
+      "all_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "sentence_order_balanced": true
+      }
+    },
+    "v2_inc_apples_bought": {
+      "ai_language_review_note": "Natural increase statement and current-count question.",
+      "all_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "sentence_order_balanced": true
+      }
+    },
+    "v2_inc_books_acquired": {
+      "ai_language_review_note": "Natural increase statement and current-count question.",
+      "all_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "sentence_order_balanced": true
+      }
+    },
+    "v2_inc_flowers_planted": {
+      "ai_language_review_note": "Natural increase statement and current-count question.",
+      "all_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "sentence_order_balanced": true
+      }
+    },
+    "v2_inc_points_earned": {
+      "ai_language_review_note": "Natural increase statement and current-count question.",
+      "all_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "sentence_order_balanced": true
+      }
+    },
+    "v2_inc_stamps_added": {
+      "ai_language_review_note": "Natural increase statement and current-count question.",
+      "all_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "sentence_order_balanced": true
+      }
+    },
+    "v2_inc_tiles_received": {
+      "ai_language_review_note": "Natural increase statement and current-count question.",
+      "all_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "sentence_order_balanced": true
+      }
+    },
+    "v2_temp_beaker_increased": {
+      "ai_language_review_note": "Natural temperature-change statement and current-temperature question.",
+      "all_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "sentence_order_balanced": true
+      }
+    },
+    "v2_temp_chamber_heated": {
+      "ai_language_review_note": "Natural temperature-change statement and current-temperature question.",
+      "all_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "sentence_order_balanced": true
+      }
+    },
+    "v2_temp_oven_climbed": {
+      "ai_language_review_note": "Understandable temperature-change wording; no direction ambiguity.",
+      "all_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "sentence_order_balanced": true
+      }
+    },
+    "v2_temp_room_rose": {
+      "ai_language_review_note": "Natural temperature-change statement and current-temperature question.",
+      "all_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "sentence_order_balanced": true
+      }
+    },
+    "v2_temp_sensor_rising": {
+      "ai_language_review_note": "Natural reading-change statement and current-reading question.",
+      "all_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "sentence_order_balanced": true
+      }
+    },
+    "v2_temp_tank_warmed": {
+      "ai_language_review_note": "Natural temperature-change statement and current-temperature question.",
+      "all_checks_pass": true,
+      "checks": {
+        "answer_magnitude_balanced": true,
+        "answer_orientation_balanced": true,
+        "eight_pairs": true,
+        "full_2x2x2_factorial": true,
+        "label_role_balanced": true,
+        "one_numeric_block": true,
+        "sentence_order_balanced": true
+      }
+    }
+  }
+}

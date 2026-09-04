@@ -1,0 +1,111 @@
+{
+  "baseline_calibration_execution_allowed": false,
+  "builder_sha256": "8346677bfa22694ccc2b8c28a112dc4f0189bcd0bcaf8216e00b229b28b1a8cb",
+  "catalog_amendment_sha256": "56cd132085180db25322d2a1563a53fb835e01a541a5848324fa34bfb47fed19",
+  "catalog_sha256": "995d2086164a1ccf51b458b11ad70c2b328742c16b51c4ab6f34ad3bba010de2",
+  "design_sha256": "033969f85f9f982ff686c22f4bdd3977baae1dcc76a4f91b537e758a8fd98982",
+  "gpu_used": false,
+  "human_audit": "not_performed",
+  "intervention_allowed": false,
+  "liref_loaded": false,
+  "model_forward_performed": false,
+  "model_loaded": false,
+  "oa_validation": {
+    "factor_counts": [
+      {
+        "0": 4,
+        "1": 4
+      },
+      {
+        "0": 4,
+        "1": 4
+      },
+      {
+        "0": 4,
+        "1": 4
+      },
+      {
+        "0": 4,
+        "1": 4
+      },
+      {
+        "0": 4,
+        "1": 4
+      }
+    ],
+    "pair_counts": {
+      "0_1": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "0_2": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "0_3": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "0_4": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "1_2": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "1_3": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "1_4": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "2_3": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "2_4": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "3_4": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      }
+    },
+    "pass": true
+  },
+  "output_sha256": {
+    "calibration_audit": "ea2bc26a9a090167f63fdba65c4bb1c90d630f692c2cda3f9a6950f2a4e3fee4",
+    "calibration_dataset": "18005ac5c5733ab389f1b9f8d4850a671f4bdfa0f0c4755ddd62a43e4348922a",
+    "cross_pool_audit": "32efddb44897921ac06a21a9760cb7a2f64cf1f6d7af0de23631e1a6efca8a3f",
+    "replication_audit": "24f1538a7938c5aaddd677e17139cc26c07d5a0d896a8fac79203a0059674677",
+    "replication_dataset": "b5bd9b083ebe7319bef02ebd30c064e9b9fe2efe85539b668ea8d1946f719dd3"
+  },
+  "random_seed": 20260902,
+  "replication_execution_allowed": false,
+  "schema_version": "5.0",
+  "status": "datasets_created_automatic_audits_pass_ai_audits_pending"
+}

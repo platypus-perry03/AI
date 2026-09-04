@@ -1,9 +1,63 @@
-venv/
+# Python
 __pycache__/
-*.pyc
-*.pyo
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment / secrets
 .env
+*.env
+
+# Python packaging
 *.egg-info/
 dist/
 build/
+
+# IDE / OS
+.vscode/
 .DS_Store
+Thumbs.db
+
+# Reproduction outputs
+reenact/**/logs/
+reenact/**/outputs/
+reenact/**/checkpoints/
+reenact/**/tmp/
+/reenact/liref_outputs/
+/reenact/liref_models/
+
+# Local model weights (download separately)
+/reenact/models/
+reenact/**/*.safetensors
+reenact/**/*.gguf
+reenact/**/*.ckpt
+reenact/**/*.pth
+reenact/**/*.pt
+
+# Datasets
+dataset/
+__MACOSX/
+/reenact/liref/dataset.zip
+
+# Model
+liref_models/
+
+# LaTeX and presentation build artifacts
+reenact/**/*.aux
+reenact/**/*.fls
+reenact/**/*.fdb_latexmk
+reenact/**/*.synctex.gz
+reenact/**/*.toc
+reenact/**/*.out
+reenact/**/*.nav
+reenact/**/*.snm
+reenact/**/*.vrb
+reenact/**/*.log
+reenact/**/~$*.pptx
+
+# Reference/intermediate PDFs; keep only the assembled report when present
+/reenact/pdf/*.pdf
+!/reenact/pdf/result.pdf

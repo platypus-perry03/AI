@@ -1,0 +1,18 @@
+{
+  "all_checks_pass": true,
+  "checks": {
+    "cross_pool_item_overlap_zero": true,
+    "cross_pool_label_overlap_zero": true,
+    "cross_pool_name_overlap_zero": true,
+    "cross_pool_numeric_block_overlap_zero": true,
+    "cross_pool_prompt_overlap_zero": true,
+    "prior_exact_prompt_overlap_zero": true,
+    "prior_normalized_5gram_jaccard_below_0_80": true
+  },
+  "gpu_used": false,
+  "maximum_prior_normalized_5gram_jaccard": 0.05384615384615385,
+  "model_loaded": false,
+  "prior_prompt_count": 1952,
+  "schema_version": "5.0",
+  "status": "PASS"
+}

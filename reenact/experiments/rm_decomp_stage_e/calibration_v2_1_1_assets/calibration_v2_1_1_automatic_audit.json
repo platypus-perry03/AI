@@ -1,0 +1,613 @@
+{
+  "ai_preaudit_complete": false,
+  "all_automatic_checks_pass": true,
+  "authorized_revised_template_families": [
+    "v21_dec_badge_index",
+    "v21_temp_capsule_account",
+    "v21_temp_reservoir_register"
+  ],
+  "dataset_version": "2.1.1",
+  "design_changed": false,
+  "design_sha256": "d0d6d19432eb48234a9729cc5f297c09963eb485bf5ec02178d504a93dc8307f",
+  "execution_allowed": false,
+  "global_checks": {
+    "all_cross_version_near_duplicate_checks_pass": true,
+    "all_pair_checks_pass": true,
+    "all_template_checks_pass": true,
+    "all_v2_1_names_new_relative_to_v2": true,
+    "all_v2_1_record_keys_unique": true,
+    "pair_count_192": true,
+    "prompt_count_384": true,
+    "template_family_count_24": true,
+    "unique_pair_ids": true,
+    "unique_template_ids": true
+  },
+  "gpu_used": false,
+  "independent_human_audit_complete": false,
+  "locked_v2_dataset_sha256": "c58390cdcb0f7282e36c918b193db69a0733851cfd07c291ab59a6fe12df1c87",
+  "model_forward_performed": false,
+  "model_weights_loaded": false,
+  "near_duplicate_audit": {
+    "all_cross_version_checks_pass": true,
+    "all_v2_1_template_skeletons_unique": true,
+    "comparison_scope": "v2_template_families_vs_v2_1_template_families",
+    "jaccard_fail_threshold_inclusive": 0.8,
+    "normalization": [
+      "unicode_nfkc",
+      "lowercase",
+      "replace_person_names_with_<NAME>",
+      "replace_color_labels_with_<COLOR>",
+      "replace_record_keys_with_<KEY>",
+      "replace_numeric_mentions_with_<NUM>",
+      "normalize_punctuation",
+      "collapse_repeated_whitespace",
+      "tokenize_words"
+    ],
+    "template_reports": {
+      "v21_dec_badge_index": {
+        "lexical_family": "decrease",
+        "normalized_skeleton_sha256": "e15c4d88a4b08274c6b78be659d179ae2617e9bfc4844938087d337d42e88d41",
+        "normalized_token_count": 47,
+        "pass": true,
+        "strongest_v2_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "v2_template_family_id": "v2_dec_balloons_popped"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v21_dec_bead_archive": {
+        "lexical_family": "decrease",
+        "normalized_skeleton_sha256": "876a5267cc245c727a8c0c8bce964eba2d7d2981b980286205138bcedf2e788a",
+        "normalized_token_count": 39,
+        "pass": true,
+        "strongest_v2_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "v2_template_family_id": "v2_dec_balloons_popped"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v21_dec_bottle_catalog": {
+        "lexical_family": "decrease",
+        "normalized_skeleton_sha256": "f129faca046eb732bb6574255e200e4e12695fc5b8986e24fa60d3f23e2eea00",
+        "normalized_token_count": 48,
+        "pass": true,
+        "strongest_v2_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "v2_template_family_id": "v2_dec_balloons_popped"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v21_dec_cube_folder": {
+        "lexical_family": "decrease",
+        "normalized_skeleton_sha256": "4e2fadf4960b3203b2b6e31c0f4618630b56f80ff5aac43c9c55d65ddc8fbe92",
+        "normalized_token_count": 49,
+        "pass": true,
+        "strongest_v2_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "v2_template_family_id": "v2_dec_balloons_popped"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v21_dec_pencil_file": {
+        "lexical_family": "decrease",
+        "normalized_skeleton_sha256": "5fdb5d2065d53189faf6d8b5a81a8a8cd04a816aa460d09c7b20f8fbd4ad9575",
+        "normalized_token_count": 47,
+        "pass": true,
+        "strongest_v2_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "v2_template_family_id": "v2_dec_balloons_popped"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v21_dec_shell_register": {
+        "lexical_family": "decrease",
+        "normalized_skeleton_sha256": "45ca4049e61e4f539cd6d78e55b17aa3aac3e8241cdf799da60cdca12167df5b",
+        "normalized_token_count": 41,
+        "pass": true,
+        "strongest_v2_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "v2_template_family_id": "v2_dec_balloons_popped"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v21_dec_ticket_account": {
+        "lexical_family": "decrease",
+        "normalized_skeleton_sha256": "01909e46fc989f48af0cdf820c737931cbaa289cf7a12ad3469bbde895637a62",
+        "normalized_token_count": 41,
+        "pass": true,
+        "strongest_v2_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "v2_template_family_id": "v2_dec_balloons_popped"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v21_dec_token_ledger": {
+        "lexical_family": "decrease",
+        "normalized_skeleton_sha256": "21f231810ced39cc8bebec17ee83a3f732f0f2dfb5ff633693bfdbe987d9c475",
+        "normalized_token_count": 40,
+        "pass": true,
+        "strongest_v2_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "v2_template_family_id": "v2_dec_balloons_popped"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v21_inc_candle_catalog": {
+        "lexical_family": "increase",
+        "normalized_skeleton_sha256": "65a03d912361b8f72afe940b372a5b7ef81e4d389f4faa87f606bb0d69b835b7",
+        "normalized_token_count": 49,
+        "pass": true,
+        "strongest_v2_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "v2_template_family_id": "v2_dec_balloons_popped"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v21_inc_clip_archive": {
+        "lexical_family": "increase",
+        "normalized_skeleton_sha256": "0840a3b5a007529b8f4526ad8d06df94226596c2e371b47cbff56ff493b55827",
+        "normalized_token_count": 40,
+        "pass": true,
+        "strongest_v2_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "v2_template_family_id": "v2_dec_balloons_popped"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v21_inc_coupon_index": {
+        "lexical_family": "increase",
+        "normalized_skeleton_sha256": "07ba3894a13a52e20cfc49840e5202faf92685346e1550e870714aefa35c1612",
+        "normalized_token_count": 50,
+        "pass": true,
+        "strongest_v2_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "v2_template_family_id": "v2_dec_balloons_popped"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v21_inc_marker_account": {
+        "lexical_family": "increase",
+        "normalized_skeleton_sha256": "118c07fa3841cda0cbea391289f34801894b937eb77174603cf0ce76217211a1",
+        "normalized_token_count": 42,
+        "pass": true,
+        "strongest_v2_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "v2_template_family_id": "v2_dec_balloons_popped"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v21_inc_notebook_file": {
+        "lexical_family": "increase",
+        "normalized_skeleton_sha256": "fee2696b2b9640002ee47812fdb9df138fa49577c780a4c428187d9e70d0bfbd",
+        "normalized_token_count": 47,
+        "pass": true,
+        "strongest_v2_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "v2_template_family_id": "v2_dec_balloons_popped"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v21_inc_packet_folder": {
+        "lexical_family": "increase",
+        "normalized_skeleton_sha256": "d428dac921a545b20af522f34cc2d987cc9b498f9acc6bd79caf87154ec0fed6",
+        "normalized_token_count": 51,
+        "pass": true,
+        "strongest_v2_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "v2_template_family_id": "v2_dec_balloons_popped"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v21_inc_pebble_register": {
+        "lexical_family": "increase",
+        "normalized_skeleton_sha256": "0d9cbb05f7488b9d4d2787ee1f715259357cf078f4fb804c18f63062058d25a8",
+        "normalized_token_count": 42,
+        "pass": true,
+        "strongest_v2_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "v2_template_family_id": "v2_dec_balloons_popped"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v21_inc_ribbon_ledger": {
+        "lexical_family": "increase",
+        "normalized_skeleton_sha256": "0691932c17f1f2f7b24099cd25642a971c43cf171b565b89657b9b9c9b50f03f",
+        "normalized_token_count": 41,
+        "pass": true,
+        "strongest_v2_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "v2_template_family_id": "v2_dec_balloons_popped"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v21_temp_cabinet_ledger": {
+        "lexical_family": "temperature",
+        "normalized_skeleton_sha256": "c8e32ad5a094cf570f755a98177f8ac1b13f69e921092aa0e3088c451650680c",
+        "normalized_token_count": 46,
+        "pass": true,
+        "strongest_v2_match": {
+          "exact_hash": false,
+          "jaccard": 0.058823529411764705,
+          "v2_template_family_id": "v2_temp_sensor_rising"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v21_temp_capsule_account": {
+        "lexical_family": "temperature",
+        "normalized_skeleton_sha256": "233cb49577d5a2aa4ed508ff701513837ec849636b066cb654166742888258d4",
+        "normalized_token_count": 54,
+        "pass": true,
+        "strongest_v2_match": {
+          "exact_hash": false,
+          "jaccard": 0.05,
+          "v2_template_family_id": "v2_temp_beaker_increased"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v21_temp_compartment_index": {
+        "lexical_family": "temperature",
+        "normalized_skeleton_sha256": "f3774a1ddd112d65dddb94bd16a1ca3ca7f8fccb708374e1685868dabc91f00e",
+        "normalized_token_count": 55,
+        "pass": true,
+        "strongest_v2_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "v2_template_family_id": "v2_dec_balloons_popped"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v21_temp_flask_archive": {
+        "lexical_family": "temperature",
+        "normalized_skeleton_sha256": "4e1f4b81776601a4d2449a06719743923cb19965fd9dc837c9aa24e4f5eeca20",
+        "normalized_token_count": 45,
+        "pass": true,
+        "strongest_v2_match": {
+          "exact_hash": false,
+          "jaccard": 0.0,
+          "v2_template_family_id": "v2_dec_balloons_popped"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v21_temp_incubator_file": {
+        "lexical_family": "temperature",
+        "normalized_skeleton_sha256": "e5977c24fbd26c785894564856fd3ac5bcf909c1d229637c7082f136af69dcce",
+        "normalized_token_count": 50,
+        "pass": true,
+        "strongest_v2_match": {
+          "exact_hash": false,
+          "jaccard": 0.017857142857142856,
+          "v2_template_family_id": "v2_temp_room_rose"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v21_temp_probe_folder": {
+        "lexical_family": "temperature",
+        "normalized_skeleton_sha256": "24616ed2f05a08d9b59e036d0be2c46569b33cb326e465a8e5f53bd4443a7cd6",
+        "normalized_token_count": 50,
+        "pass": true,
+        "strongest_v2_match": {
+          "exact_hash": false,
+          "jaccard": 0.03571428571428571,
+          "v2_template_family_id": "v2_temp_sensor_rising"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v21_temp_reservoir_register": {
+        "lexical_family": "temperature",
+        "normalized_skeleton_sha256": "2b41a45728d85987c6c906c6c02f0b1930145293e7785965709a3b8bdeee5e37",
+        "normalized_token_count": 54,
+        "pass": true,
+        "strongest_v2_match": {
+          "exact_hash": false,
+          "jaccard": 0.08928571428571429,
+          "v2_template_family_id": "v2_temp_room_rose"
+        },
+        "threshold_inclusive": 0.8
+      },
+      "v21_temp_vessel_catalog": {
+        "lexical_family": "temperature",
+        "normalized_skeleton_sha256": "81bb71c03cae76a869f8f343bfe72d2c994bbc7b992797b30c2db14ad287c482",
+        "normalized_token_count": 54,
+        "pass": true,
+        "strongest_v2_match": {
+          "exact_hash": false,
+          "jaccard": 0.034482758620689655,
+          "v2_template_family_id": "v2_temp_room_rose"
+        },
+        "threshold_inclusive": 0.8
+      }
+    },
+    "word_ngram_n": 5
+  },
+  "pair_check_pass_counts": {
+    "alternative_answers_are_one_continuation_token": 192,
+    "answers_differ": 192,
+    "both_channels_have_label_to_record_binding": 192,
+    "canonical_answer_regex_contract": 192,
+    "canonical_answers_are_one_continuation_token": 192,
+    "context_not_exact_v2_reuse": 192,
+    "each_record_key_appears_twice": 192,
+    "exact_prompt_token_count_match": 192,
+    "irrelevant_answer_once_in_context": 192,
+    "irrelevant_answer_once_in_selected_direct_record": 192,
+    "numeric_and_foil_collision_absence": 192,
+    "paired_record_key_token_count_match": 192,
+    "question_differs_only_at_target_label": 192,
+    "record_keys_alphabetic": 192,
+    "relevant_answer_absent_as_independent_numeric_mention": 192,
+    "source_record_tokens_nonempty": 192,
+    "target_label_token_count_match": 192
+  },
+  "pair_count": 192,
+  "parent_dataset_sha256": "cfc5a628d75e05c17d4c4ff3907f477d6f6179892453f1e2c3927c8aeed10640",
+  "parent_dataset_version": "2.1",
+  "prompt_count": 384,
+  "revision_record_sha256": "a899df454b12f1d84719a2a8d1974c023672c5c3598a4e64b070a5353e7fa087",
+  "schema_version": "2.1",
+  "stage_e_pilot_allowed": false,
+  "status": "v2_1_1_automatic_shortcut_near_duplicate_counterbalance_structural_tokenizer_audit_pass",
+  "template_audits": {
+    "v21_dec_badge_index": {
+      "answer_magnitude_direction_balance_4_to_4": true,
+      "answer_orientation_balance_4_to_4": true,
+      "cross_version_near_duplicate_pass": true,
+      "eight_unique_factorial_cells": true,
+      "key_role_balance_4_to_4": true,
+      "label_role_balance_4_to_4": true,
+      "pair_count_eight": true,
+      "record_block_order_balance_4_to_4": true
+    },
+    "v21_dec_bead_archive": {
+      "answer_magnitude_direction_balance_4_to_4": true,
+      "answer_orientation_balance_4_to_4": true,
+      "cross_version_near_duplicate_pass": true,
+      "eight_unique_factorial_cells": true,
+      "key_role_balance_4_to_4": true,
+      "label_role_balance_4_to_4": true,
+      "pair_count_eight": true,
+      "record_block_order_balance_4_to_4": true
+    },
+    "v21_dec_bottle_catalog": {
+      "answer_magnitude_direction_balance_4_to_4": true,
+      "answer_orientation_balance_4_to_4": true,
+      "cross_version_near_duplicate_pass": true,
+      "eight_unique_factorial_cells": true,
+      "key_role_balance_4_to_4": true,
+      "label_role_balance_4_to_4": true,
+      "pair_count_eight": true,
+      "record_block_order_balance_4_to_4": true
+    },
+    "v21_dec_cube_folder": {
+      "answer_magnitude_direction_balance_4_to_4": true,
+      "answer_orientation_balance_4_to_4": true,
+      "cross_version_near_duplicate_pass": true,
+      "eight_unique_factorial_cells": true,
+      "key_role_balance_4_to_4": true,
+      "label_role_balance_4_to_4": true,
+      "pair_count_eight": true,
+      "record_block_order_balance_4_to_4": true
+    },
+    "v21_dec_pencil_file": {
+      "answer_magnitude_direction_balance_4_to_4": true,
+      "answer_orientation_balance_4_to_4": true,
+      "cross_version_near_duplicate_pass": true,
+      "eight_unique_factorial_cells": true,
+      "key_role_balance_4_to_4": true,
+      "label_role_balance_4_to_4": true,
+      "pair_count_eight": true,
+      "record_block_order_balance_4_to_4": true
+    },
+    "v21_dec_shell_register": {
+      "answer_magnitude_direction_balance_4_to_4": true,
+      "answer_orientation_balance_4_to_4": true,
+      "cross_version_near_duplicate_pass": true,
+      "eight_unique_factorial_cells": true,
+      "key_role_balance_4_to_4": true,
+      "label_role_balance_4_to_4": true,
+      "pair_count_eight": true,
+      "record_block_order_balance_4_to_4": true
+    },
+    "v21_dec_ticket_account": {
+      "answer_magnitude_direction_balance_4_to_4": true,
+      "answer_orientation_balance_4_to_4": true,
+      "cross_version_near_duplicate_pass": true,
+      "eight_unique_factorial_cells": true,
+      "key_role_balance_4_to_4": true,
+      "label_role_balance_4_to_4": true,
+      "pair_count_eight": true,
+      "record_block_order_balance_4_to_4": true
+    },
+    "v21_dec_token_ledger": {
+      "answer_magnitude_direction_balance_4_to_4": true,
+      "answer_orientation_balance_4_to_4": true,
+      "cross_version_near_duplicate_pass": true,
+      "eight_unique_factorial_cells": true,
+      "key_role_balance_4_to_4": true,
+      "label_role_balance_4_to_4": true,
+      "pair_count_eight": true,
+      "record_block_order_balance_4_to_4": true
+    },
+    "v21_inc_candle_catalog": {
+      "answer_magnitude_direction_balance_4_to_4": true,
+      "answer_orientation_balance_4_to_4": true,
+      "cross_version_near_duplicate_pass": true,
+      "eight_unique_factorial_cells": true,
+      "key_role_balance_4_to_4": true,
+      "label_role_balance_4_to_4": true,
+      "pair_count_eight": true,
+      "record_block_order_balance_4_to_4": true
+    },
+    "v21_inc_clip_archive": {
+      "answer_magnitude_direction_balance_4_to_4": true,
+      "answer_orientation_balance_4_to_4": true,
+      "cross_version_near_duplicate_pass": true,
+      "eight_unique_factorial_cells": true,
+      "key_role_balance_4_to_4": true,
+      "label_role_balance_4_to_4": true,
+      "pair_count_eight": true,
+      "record_block_order_balance_4_to_4": true
+    },
+    "v21_inc_coupon_index": {
+      "answer_magnitude_direction_balance_4_to_4": true,
+      "answer_orientation_balance_4_to_4": true,
+      "cross_version_near_duplicate_pass": true,
+      "eight_unique_factorial_cells": true,
+      "key_role_balance_4_to_4": true,
+      "label_role_balance_4_to_4": true,
+      "pair_count_eight": true,
+      "record_block_order_balance_4_to_4": true
+    },
+    "v21_inc_marker_account": {
+      "answer_magnitude_direction_balance_4_to_4": true,
+      "answer_orientation_balance_4_to_4": true,
+      "cross_version_near_duplicate_pass": true,
+      "eight_unique_factorial_cells": true,
+      "key_role_balance_4_to_4": true,
+      "label_role_balance_4_to_4": true,
+      "pair_count_eight": true,
+      "record_block_order_balance_4_to_4": true
+    },
+    "v21_inc_notebook_file": {
+      "answer_magnitude_direction_balance_4_to_4": true,
+      "answer_orientation_balance_4_to_4": true,
+      "cross_version_near_duplicate_pass": true,
+      "eight_unique_factorial_cells": true,
+      "key_role_balance_4_to_4": true,
+      "label_role_balance_4_to_4": true,
+      "pair_count_eight": true,
+      "record_block_order_balance_4_to_4": true
+    },
+    "v21_inc_packet_folder": {
+      "answer_magnitude_direction_balance_4_to_4": true,
+      "answer_orientation_balance_4_to_4": true,
+      "cross_version_near_duplicate_pass": true,
+      "eight_unique_factorial_cells": true,
+      "key_role_balance_4_to_4": true,
+      "label_role_balance_4_to_4": true,
+      "pair_count_eight": true,
+      "record_block_order_balance_4_to_4": true
+    },
+    "v21_inc_pebble_register": {
+      "answer_magnitude_direction_balance_4_to_4": true,
+      "answer_orientation_balance_4_to_4": true,
+      "cross_version_near_duplicate_pass": true,
+      "eight_unique_factorial_cells": true,
+      "key_role_balance_4_to_4": true,
+      "label_role_balance_4_to_4": true,
+      "pair_count_eight": true,
+      "record_block_order_balance_4_to_4": true
+    },
+    "v21_inc_ribbon_ledger": {
+      "answer_magnitude_direction_balance_4_to_4": true,
+      "answer_orientation_balance_4_to_4": true,
+      "cross_version_near_duplicate_pass": true,
+      "eight_unique_factorial_cells": true,
+      "key_role_balance_4_to_4": true,
+      "label_role_balance_4_to_4": true,
+      "pair_count_eight": true,
+      "record_block_order_balance_4_to_4": true
+    },
+    "v21_temp_cabinet_ledger": {
+      "answer_magnitude_direction_balance_4_to_4": true,
+      "answer_orientation_balance_4_to_4": true,
+      "cross_version_near_duplicate_pass": true,
+      "eight_unique_factorial_cells": true,
+      "key_role_balance_4_to_4": true,
+      "label_role_balance_4_to_4": true,
+      "pair_count_eight": true,
+      "record_block_order_balance_4_to_4": true
+    },
+    "v21_temp_capsule_account": {
+      "answer_magnitude_direction_balance_4_to_4": true,
+      "answer_orientation_balance_4_to_4": true,
+      "cross_version_near_duplicate_pass": true,
+      "eight_unique_factorial_cells": true,
+      "key_role_balance_4_to_4": true,
+      "label_role_balance_4_to_4": true,
+      "pair_count_eight": true,
+      "record_block_order_balance_4_to_4": true
+    },
+    "v21_temp_compartment_index": {
+      "answer_magnitude_direction_balance_4_to_4": true,
+      "answer_orientation_balance_4_to_4": true,
+      "cross_version_near_duplicate_pass": true,
+      "eight_unique_factorial_cells": true,
+      "key_role_balance_4_to_4": true,
+      "label_role_balance_4_to_4": true,
+      "pair_count_eight": true,
+      "record_block_order_balance_4_to_4": true
+    },
+    "v21_temp_flask_archive": {
+      "answer_magnitude_direction_balance_4_to_4": true,
+      "answer_orientation_balance_4_to_4": true,
+      "cross_version_near_duplicate_pass": true,
+      "eight_unique_factorial_cells": true,
+      "key_role_balance_4_to_4": true,
+      "label_role_balance_4_to_4": true,
+      "pair_count_eight": true,
+      "record_block_order_balance_4_to_4": true
+    },
+    "v21_temp_incubator_file": {
+      "answer_magnitude_direction_balance_4_to_4": true,
+      "answer_orientation_balance_4_to_4": true,
+      "cross_version_near_duplicate_pass": true,
+      "eight_unique_factorial_cells": true,
+      "key_role_balance_4_to_4": true,
+      "label_role_balance_4_to_4": true,
+      "pair_count_eight": true,
+      "record_block_order_balance_4_to_4": true
+    },
+    "v21_temp_probe_folder": {
+      "answer_magnitude_direction_balance_4_to_4": true,
+      "answer_orientation_balance_4_to_4": true,
+      "cross_version_near_duplicate_pass": true,
+      "eight_unique_factorial_cells": true,
+      "key_role_balance_4_to_4": true,
+      "label_role_balance_4_to_4": true,
+      "pair_count_eight": true,
+      "record_block_order_balance_4_to_4": true
+    },
+    "v21_temp_reservoir_register": {
+      "answer_magnitude_direction_balance_4_to_4": true,
+      "answer_orientation_balance_4_to_4": true,
+      "cross_version_near_duplicate_pass": true,
+      "eight_unique_factorial_cells": true,
+      "key_role_balance_4_to_4": true,
+      "label_role_balance_4_to_4": true,
+      "pair_count_eight": true,
+      "record_block_order_balance_4_to_4": true
+    },
+    "v21_temp_vessel_catalog": {
+      "answer_magnitude_direction_balance_4_to_4": true,
+      "answer_orientation_balance_4_to_4": true,
+      "cross_version_near_duplicate_pass": true,
+      "eight_unique_factorial_cells": true,
+      "key_role_balance_4_to_4": true,
+      "label_role_balance_4_to_4": true,
+      "pair_count_eight": true,
+      "record_block_order_balance_4_to_4": true
+    }
+  },
+  "template_family_count": 24,
+  "tokenizer_hashes": {
+    "special_tokens_map.json": "462d91939dbc37178aa5a3eae7068d1990ccc92e09f288cc71f42cdf139d69cc",
+    "tokenizer.json": "e134af98b985517b4f068e3755ae90d4e9cd2d45d328325dc503f1c6b2d06cc7",
+    "tokenizer_config.json": "690727b4fed286383df1c7ca5e805124cb70c6eb4529f807c7b2e60ff741da7e"
+  }
+}

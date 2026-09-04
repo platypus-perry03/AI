@@ -1,0 +1,96 @@
+{"annotation_id": "NF1221", "category": "other", "parent_transformation": "Y", "question_id": "5125", "row_index": 1221, "src": "ori_mmlu-professional_accounting"}
+{"annotation_id": "NF2730", "category": "business", "parent_transformation": "N", "question_id": "825", "row_index": 2730, "src": "ori_mmlu-marketing"}
+{"annotation_id": "NF1349", "category": "business", "parent_transformation": "Y", "question_id": "774", "row_index": 1349, "src": "stemez-Business"}
+{"annotation_id": "NF0208", "category": "biology", "parent_transformation": "Y", "question_id": "3468", "row_index": 208, "src": "stemez-Genetics"}
+{"annotation_id": "NF1241", "category": "economics", "parent_transformation": "Y", "question_id": "7190", "row_index": 1241, "src": "stemez-Economics"}
+{"annotation_id": "NF1920", "category": "computer science", "parent_transformation": "N", "question_id": "10623", "row_index": 1920, "src": "ori_mmlu-college_computer_science"}
+{"annotation_id": "NF2418", "category": "law", "parent_transformation": "N", "question_id": "1039", "row_index": 2418, "src": "ori_mmlu-professional_law"}
+{"annotation_id": "NF0000", "category": "physics", "parent_transformation": "N", "question_id": "9635", "row_index": 0, "src": "ori_mmlu-conceptual_physics"}
+{"annotation_id": "NF1176", "category": "chemistry", "parent_transformation": "N", "question_id": "4636", "row_index": 1176, "src": "stemez-Chemistry"}
+{"annotation_id": "NF2392", "category": "biology", "parent_transformation": "N", "question_id": "3447", "row_index": 2392, "src": "ori_mmlu-college_biology"}
+{"annotation_id": "NF1891", "category": "biology", "parent_transformation": "Y", "question_id": "3070", "row_index": 1891, "src": "stemez-Genetics"}
+{"annotation_id": "NF1608", "category": "engineering", "parent_transformation": "Y", "question_id": "11877", "row_index": 1608, "src": "stemez-TransportPhenomena"}
+{"annotation_id": "NF2198", "category": "computer science", "parent_transformation": "N", "question_id": "10469", "row_index": 2198, "src": "stemez-ComputerScience"}
+{"annotation_id": "NF0723", "category": "health", "parent_transformation": "Y", "question_id": "6332", "row_index": 723, "src": "ori_mmlu-clinical_knowledge"}
+{"annotation_id": "NF1874", "category": "biology", "parent_transformation": "N", "question_id": "3259", "row_index": 1874, "src": "stemez-Biology"}
+{"annotation_id": "NF0905", "category": "psychology", "parent_transformation": "N", "question_id": "2718", "row_index": 905, "src": "ori_mmlu-high_school_psychology"}
+{"annotation_id": "NF2499", "category": "economics", "parent_transformation": "N", "question_id": "7120", "row_index": 2499, "src": "ori_mmlu-econometrics"}
+{"annotation_id": "NF2019", "category": "physics", "parent_transformation": "Y", "question_id": "9233", "row_index": 2019, "src": "scibench-fund"}
+{"annotation_id": "NF1057", "category": "math", "parent_transformation": "N", "question_id": "8475", "row_index": 1057, "src": "ori_mmlu-college_mathematics"}
+{"annotation_id": "NF0599", "category": "engineering", "parent_transformation": "N", "question_id": "11368", "row_index": 599, "src": "stemez-Thermodynamics"}
+{"annotation_id": "NF0881", "category": "chemistry", "parent_transformation": "Y", "question_id": "3943", "row_index": 881, "src": "stemez-Chemistry"}
+{"annotation_id": "NF2875", "category": "business", "parent_transformation": "Y", "question_id": "235", "row_index": 2875, "src": "stemez-Business"}
+{"annotation_id": "NF2764", "category": "health", "parent_transformation": "N", "question_id": "6578", "row_index": 2764, "src": "ori_mmlu-nutrition"}
+{"annotation_id": "NF1892", "category": "business", "parent_transformation": "Y", "question_id": "138", "row_index": 1892, "src": "theoremQA-Finance"}
+{"annotation_id": "NF2083", "category": "business", "parent_transformation": "N", "question_id": "269", "row_index": 2083, "src": "ori_mmlu-management"}
+{"annotation_id": "NF2749", "category": "computer science", "parent_transformation": "Y", "question_id": "10767", "row_index": 2749, "src": "theoremQA-EECS"}
+{"annotation_id": "NF1750", "category": "economics", "parent_transformation": "Y", "question_id": "6933", "row_index": 1750, "src": "stemez-Economics"}
+{"annotation_id": "NF0326", "category": "law", "parent_transformation": "N", "question_id": "1824", "row_index": 326, "src": "ori_mmlu-professional_law"}
+{"annotation_id": "NF2036", "category": "health", "parent_transformation": "N", "question_id": "6052", "row_index": 2036, "src": "ori_mmlu-nutrition"}
+{"annotation_id": "NF2420", "category": "math", "parent_transformation": "Y", "question_id": "8959", "row_index": 2420, "src": "scibench-diff"}
+{"annotation_id": "NF1197", "category": "other", "parent_transformation": "N", "question_id": "5720", "row_index": 1197, "src": "ori_mmlu-professional_accounting"}
+{"annotation_id": "NF0020", "category": "other", "parent_transformation": "N", "question_id": "5681", "row_index": 20, "src": "ori_mmlu-global_facts"}
+{"annotation_id": "NF1121", "category": "history", "parent_transformation": "N", "question_id": "4984", "row_index": 1121, "src": "ori_mmlu-high_school_us_history"}
+{"annotation_id": "NF2674", "category": "business", "parent_transformation": "Y", "question_id": "653", "row_index": 2674, "src": "stemez-Business"}
+{"annotation_id": "NF0292", "category": "philosophy", "parent_transformation": "N", "question_id": "10888", "row_index": 292, "src": "ori_mmlu-logical_fallacies"}
+{"annotation_id": "NF1761", "category": "psychology", "parent_transformation": "N", "question_id": "2306", "row_index": 1761, "src": "stemez-Psychology"}
+{"annotation_id": "NF1876", "category": "math", "parent_transformation": "Y", "question_id": "7716", "row_index": 1876, "src": "ori_mmlu-elementary_mathematics"}
+{"annotation_id": "NF0875", "category": "philosophy", "parent_transformation": "N", "question_id": "11065", "row_index": 875, "src": "ori_mmlu-philosophy"}
+{"annotation_id": "NF0659", "category": "engineering", "parent_transformation": "N", "question_id": "11574", "row_index": 659, "src": "ori_mmlu-electrical_engineering"}
+{"annotation_id": "NF2620", "category": "physics", "parent_transformation": "Y", "question_id": "10148", "row_index": 2620, "src": "stemez-Physics"}
+{"annotation_id": "NF1277", "category": "computer science", "parent_transformation": "Y", "question_id": "10629", "row_index": 1277, "src": "ori_mmlu-machine_learning"}
+{"annotation_id": "NF0636", "category": "psychology", "parent_transformation": "N", "question_id": "2050", "row_index": 636, "src": "stemez-Psychology"}
+{"annotation_id": "NF2576", "category": "chemistry", "parent_transformation": "Y", "question_id": "4543", "row_index": 2576, "src": "stemez-Chemistry"}
+{"annotation_id": "NF2638", "category": "history", "parent_transformation": "N", "question_id": "4932", "row_index": 2638, "src": "ori_mmlu-prehistory"}
+{"annotation_id": "NF1115", "category": "physics", "parent_transformation": "Y", "question_id": "10226", "row_index": 1115, "src": "scibench-thermo"}
+{"annotation_id": "NF2773", "category": "chemistry", "parent_transformation": "Y", "question_id": "3549", "row_index": 2773, "src": "scibench-quan"}
+{"annotation_id": "NF2706", "category": "chemistry", "parent_transformation": "N", "question_id": "4084", "row_index": 2706, "src": "ori_mmlu-college_chemistry"}
+{"annotation_id": "NF1801", "category": "biology", "parent_transformation": "Y", "question_id": "3299", "row_index": 1801, "src": "stemez-Genetics"}
+{"annotation_id": "NF0228", "category": "computer science", "parent_transformation": "N", "question_id": "10565", "row_index": 228, "src": "ori_mmlu-computer_security"}
+{"annotation_id": "NF1011", "category": "biology", "parent_transformation": "N", "question_id": "2942", "row_index": 1011, "src": "stemez-Biology"}
+{"annotation_id": "NF2856", "category": "math", "parent_transformation": "Y", "question_id": "8095", "row_index": 2856, "src": "scibench-diff"}
+{"annotation_id": "NF1790", "category": "computer science", "parent_transformation": "Y", "question_id": "10687", "row_index": 1790, "src": "ori_mmlu-college_computer_science"}
+{"annotation_id": "NF0844", "category": "chemistry", "parent_transformation": "N", "question_id": "4097", "row_index": 844, "src": "scibench-chemmc"}
+{"annotation_id": "NF1324", "category": "history", "parent_transformation": "N", "question_id": "4695", "row_index": 1324, "src": "ori_mmlu-high_school_european_history"}
+{"annotation_id": "NF0130", "category": "economics", "parent_transformation": "N", "question_id": "7649", "row_index": 130, "src": "ori_mmlu-high_school_microeconomics"}
+{"annotation_id": "NF1931", "category": "engineering", "parent_transformation": "Y", "question_id": "11573", "row_index": 1931, "src": "stemez-ElectronicCommunications"}
+{"annotation_id": "NF2293", "category": "law", "parent_transformation": "N", "question_id": "1963", "row_index": 2293, "src": "ori_mmlu-professional_law"}
+{"annotation_id": "NF2932", "category": "math", "parent_transformation": "N", "question_id": "8157", "row_index": 2932, "src": "ori_mmlu-college_mathematics"}
+{"annotation_id": "NF1088", "category": "computer science", "parent_transformation": "N", "question_id": "10603", "row_index": 1088, "src": "ori_mmlu-machine_learning"}
+{"annotation_id": "NF0035", "category": "chemistry", "parent_transformation": "Y", "question_id": "3697", "row_index": 35, "src": "stemez-Chemistry"}
+{"annotation_id": "NF0399", "category": "physics", "parent_transformation": "Y", "question_id": "9655", "row_index": 399, "src": "stemez-Physics"}
+{"annotation_id": "NF0361", "category": "engineering", "parent_transformation": "N", "question_id": "11812", "row_index": 361, "src": "ori_mmlu-electrical_engineering"}
+{"annotation_id": "NF0247", "category": "biology", "parent_transformation": "Y", "question_id": "3464", "row_index": 247, "src": "stemez-Genetics"}
+{"annotation_id": "NF1544", "category": "computer science", "parent_transformation": "Y", "question_id": "10771", "row_index": 1544, "src": "theoremQA-EECS"}
+{"annotation_id": "NF2191", "category": "health", "parent_transformation": "Y", "question_id": "6343", "row_index": 2191, "src": "ori_mmlu-medical_genetics"}
+{"annotation_id": "NF0027", "category": "other", "parent_transformation": "Y", "question_id": "5845", "row_index": 27, "src": "ori_mmlu-professional_accounting"}
+{"annotation_id": "NF1875", "category": "physics", "parent_transformation": "N", "question_id": "10299", "row_index": 1875, "src": "ori_mmlu-astronomy"}
+{"annotation_id": "NF2581", "category": "economics", "parent_transformation": "N", "question_id": "6973", "row_index": 2581, "src": "ori_mmlu-high_school_macroeconomics"}
+{"annotation_id": "NF0216", "category": "physics", "parent_transformation": "N", "question_id": "9318", "row_index": 216, "src": "ori_mmlu-conceptual_physics"}
+{"annotation_id": "NF0036", "category": "other", "parent_transformation": "Y", "question_id": "5263", "row_index": 36, "src": "ori_mmlu-professional_accounting"}
+{"annotation_id": "NF0729", "category": "engineering", "parent_transformation": "Y", "question_id": "11764", "row_index": 729, "src": "stemez-ElectricalMachines"}
+{"annotation_id": "NF0408", "category": "math", "parent_transformation": "Y", "question_id": "7977", "row_index": 408, "src": "theoremQA-Math"}
+{"annotation_id": "NF0351", "category": "math", "parent_transformation": "N", "question_id": "8660", "row_index": 351, "src": "ori_mmlu-abstract_algebra"}
+{"annotation_id": "NF0996", "category": "philosophy", "parent_transformation": "N", "question_id": "11001", "row_index": 996, "src": "ori_mmlu-moral_disputes"}
+{"annotation_id": "NF1013", "category": "chemistry", "parent_transformation": "N", "question_id": "4111", "row_index": 1013, "src": "stemez-Chemistry"}
+{"annotation_id": "NF0887", "category": "economics", "parent_transformation": "Y", "question_id": "7401", "row_index": 887, "src": "stemez-Economics"}
+{"annotation_id": "NF1930", "category": "business", "parent_transformation": "Y", "question_id": "172", "row_index": 1930, "src": "stemez-Business"}
+{"annotation_id": "NF0898", "category": "business", "parent_transformation": "N", "question_id": "437", "row_index": 898, "src": "ori_mmlu-marketing"}
+{"annotation_id": "NF2912", "category": "physics", "parent_transformation": "N", "question_id": "9927", "row_index": 2912, "src": "ori_mmlu-high_school_physics"}
+{"annotation_id": "NF2908", "category": "computer science", "parent_transformation": "Y", "question_id": "10672", "row_index": 2908, "src": "theoremQA-EECS"}
+{"annotation_id": "NF0263", "category": "biology", "parent_transformation": "Y", "question_id": "2828", "row_index": 263, "src": "stemez-Genetics"}
+{"annotation_id": "NF1059", "category": "engineering", "parent_transformation": "Y", "question_id": "11810", "row_index": 1059, "src": "stemez-TransportPhenomena"}
+{"annotation_id": "NF0401", "category": "engineering", "parent_transformation": "N", "question_id": "11504", "row_index": 401, "src": "ori_mmlu-electrical_engineering"}
+{"annotation_id": "NF2594", "category": "psychology", "parent_transformation": "Y", "question_id": "2119", "row_index": 2594, "src": "stemez-Psychology"}
+{"annotation_id": "NF1471", "category": "other", "parent_transformation": "Y", "question_id": "5260", "row_index": 1471, "src": "ori_mmlu-professional_accounting"}
+{"annotation_id": "NF2397", "category": "health", "parent_transformation": "N", "question_id": "6109", "row_index": 2397, "src": "ori_mmlu-professional_medicine"}
+{"annotation_id": "NF0093", "category": "health", "parent_transformation": "N", "question_id": "6066", "row_index": 93, "src": "ori_mmlu-virology"}
+{"annotation_id": "NF0166", "category": "economics", "parent_transformation": "Y", "question_id": "7394", "row_index": 166, "src": "stemez-Economics"}
+{"annotation_id": "NF2797", "category": "other", "parent_transformation": "Y", "question_id": "5181", "row_index": 2797, "src": "ori_mmlu-professional_accounting"}
+{"annotation_id": "NF2616", "category": "biology", "parent_transformation": "N", "question_id": "3034", "row_index": 2616, "src": "stemez-Biology"}
+{"annotation_id": "NF2205", "category": "chemistry", "parent_transformation": "Y", "question_id": "3620", "row_index": 2205, "src": "stemez-Chemistry"}
+{"annotation_id": "NF0217", "category": "psychology", "parent_transformation": "Y", "question_id": "2109", "row_index": 217, "src": "stemez-Psychology"}
+{"annotation_id": "NF0738", "category": "other", "parent_transformation": "N", "question_id": "5412", "row_index": 738, "src": "ori_mmlu-professional_accounting"}
+{"annotation_id": "NF0577", "category": "engineering", "parent_transformation": "Y", "question_id": "11765", "row_index": 577, "src": "stemez-ElectricalMachines"}
+{"annotation_id": "NF2665", "category": "economics", "parent_transformation": "Y", "question_id": "7218", "row_index": 2665, "src": "ori_mmlu-high_school_macroeconomics"}
+{"annotation_id": "NF0572", "category": "physics", "parent_transformation": "Y", "question_id": "9403", "row_index": 572, "src": "stemez-Physics"}

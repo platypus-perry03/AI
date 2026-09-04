@@ -1,0 +1,17 @@
+{
+  "blind_fields": [
+    "annotation_id",
+    "question",
+    "options"
+  ],
+  "blind_items_sha256": "6072b1c5dc61e80a17b1813d69d1a3b2f67d5d4f915fb1f51323776ce73230d6",
+  "external_api_used": false,
+  "preflight_blind_sha256": "491912844a0dfa064fa4b1b755bd4e836af82c45f9ec7e2b8b9512d0807419e3",
+  "preflight_parent_counts": {
+    "N": 48,
+    "Y": 48
+  },
+  "preflight_rows": 96,
+  "rows": 3000,
+  "status": "PASS"
+}

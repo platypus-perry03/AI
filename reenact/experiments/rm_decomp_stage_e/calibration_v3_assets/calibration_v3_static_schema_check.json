@@ -1,0 +1,123 @@
+{
+  "all_checks_pass": true,
+  "baseline_calibration_execution_allowed": false,
+  "builder_sha256": "b3ba73e505a1c081a1180dada8193411b7ca4309d01a6283ee07513a3f125b94",
+  "design_sha256": "c60a579729376d391582dbc03af9cfd3ba0a1e1743a9e9a884967aacc177adfc",
+  "gpu_used": false,
+  "model_forward_performed": false,
+  "model_weights_loaded": false,
+  "oa_validation": {
+    "column_counts": {
+      "A": {
+        "0": 4,
+        "1": 4
+      },
+      "B": {
+        "0": 4,
+        "1": 4
+      },
+      "C": {
+        "0": 4,
+        "1": 4
+      },
+      "D": {
+        "0": 4,
+        "1": 4
+      },
+      "E": {
+        "0": 4,
+        "1": 4
+      }
+    },
+    "pair_counts": {
+      "AB": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "AC": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "AD": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "AE": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "BC": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "BD": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "BE": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "CD": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "CE": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "DE": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      }
+    },
+    "pass": true
+  },
+  "schema_version": "1.0",
+  "semantic_checks": {
+    "contrast_thresholds": true,
+    "dataset_build_allowed": true,
+    "dataset_counts": true,
+    "design_identity": true,
+    "execution_closed": true,
+    "exposure_claim_limited": true,
+    "feature_name": true,
+    "foil_contract": true,
+    "forbidden_analysis_closed": true,
+    "forced_choice_thresholds": true,
+    "frozen_status": true,
+    "generation_thresholds": true,
+    "human_gate": true,
+    "no_post_result_selection": true,
+    "numeric_contract": true,
+    "oa_contract": true,
+    "primary_metric": true,
+    "prompt_contract": true,
+    "template_coverage": true,
+    "within_condition_scoring": true
+  },
+  "stage_e_pilot_allowed": false,
+  "status": "v3_static_schema_compatibility_pass",
+  "tokenizer_local_files_only": true,
+  "tokenizer_trust_remote_code": false
+}

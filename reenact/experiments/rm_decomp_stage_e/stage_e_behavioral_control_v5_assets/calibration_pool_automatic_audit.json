@@ -1,0 +1,343 @@
+{
+  "all_checks_pass": true,
+  "checks": {
+    "all_template_checks_pass": true,
+    "full_prompts_unique": true,
+    "pair_count": true,
+    "pair_ids_unique": true,
+    "prompt_count": true,
+    "template_count": true
+  },
+  "gpu_used": false,
+  "human_audit": "not_performed",
+  "human_audited_evidence": false,
+  "model_loaded": false,
+  "pair_count": 64,
+  "pool": "calibration",
+  "prompt_count": 128,
+  "schema_version": "5.0",
+  "status": "PASS",
+  "template_count": 8,
+  "templates": {
+    "v5_calibration_points_balance_v5_cal_style_01": {
+      "arithmetic_choice_counts": {
+        "A": 4,
+        "B": 4
+      },
+      "checks": {
+        "all_pair_audits_pass": true,
+        "arithmetic_choice_balance": true,
+        "eight_frames": true,
+        "factor_balance": true,
+        "oa_rows_exact": true,
+        "selector_choice_balance": true
+      },
+      "factor_counts": {
+        "arithmetic_operation": {
+          "ADD": 4,
+          "SUBTRACT": 4
+        },
+        "block_order": {
+          "arithmetic_first": 4,
+          "selector_first": 4
+        },
+        "candidate_assignment": {
+          "high_to_A": 4,
+          "high_to_B": 4
+        },
+        "label_role_orientation": {
+          "0": 4,
+          "1": 4
+        },
+        "selector_active_value": {
+          "high": 4,
+          "low": 4
+        }
+      },
+      "selector_choice_counts": {
+        "A": 4,
+        "B": 4
+      }
+    },
+    "v5_calibration_points_balance_v5_cal_style_02": {
+      "arithmetic_choice_counts": {
+        "A": 4,
+        "B": 4
+      },
+      "checks": {
+        "all_pair_audits_pass": true,
+        "arithmetic_choice_balance": true,
+        "eight_frames": true,
+        "factor_balance": true,
+        "oa_rows_exact": true,
+        "selector_choice_balance": true
+      },
+      "factor_counts": {
+        "arithmetic_operation": {
+          "ADD": 4,
+          "SUBTRACT": 4
+        },
+        "block_order": {
+          "arithmetic_first": 4,
+          "selector_first": 4
+        },
+        "candidate_assignment": {
+          "high_to_A": 4,
+          "high_to_B": 4
+        },
+        "label_role_orientation": {
+          "0": 4,
+          "1": 4
+        },
+        "selector_active_value": {
+          "high": 4,
+          "low": 4
+        }
+      },
+      "selector_choice_counts": {
+        "A": 4,
+        "B": 4
+      }
+    },
+    "v5_calibration_points_balance_v5_cal_style_03": {
+      "arithmetic_choice_counts": {
+        "A": 4,
+        "B": 4
+      },
+      "checks": {
+        "all_pair_audits_pass": true,
+        "arithmetic_choice_balance": true,
+        "eight_frames": true,
+        "factor_balance": true,
+        "oa_rows_exact": true,
+        "selector_choice_balance": true
+      },
+      "factor_counts": {
+        "arithmetic_operation": {
+          "ADD": 4,
+          "SUBTRACT": 4
+        },
+        "block_order": {
+          "arithmetic_first": 4,
+          "selector_first": 4
+        },
+        "candidate_assignment": {
+          "high_to_A": 4,
+          "high_to_B": 4
+        },
+        "label_role_orientation": {
+          "0": 4,
+          "1": 4
+        },
+        "selector_active_value": {
+          "high": 4,
+          "low": 4
+        }
+      },
+      "selector_choice_counts": {
+        "A": 4,
+        "B": 4
+      }
+    },
+    "v5_calibration_points_balance_v5_cal_style_04": {
+      "arithmetic_choice_counts": {
+        "A": 4,
+        "B": 4
+      },
+      "checks": {
+        "all_pair_audits_pass": true,
+        "arithmetic_choice_balance": true,
+        "eight_frames": true,
+        "factor_balance": true,
+        "oa_rows_exact": true,
+        "selector_choice_balance": true
+      },
+      "factor_counts": {
+        "arithmetic_operation": {
+          "ADD": 4,
+          "SUBTRACT": 4
+        },
+        "block_order": {
+          "arithmetic_first": 4,
+          "selector_first": 4
+        },
+        "candidate_assignment": {
+          "high_to_A": 4,
+          "high_to_B": 4
+        },
+        "label_role_orientation": {
+          "0": 4,
+          "1": 4
+        },
+        "selector_active_value": {
+          "high": 4,
+          "low": 4
+        }
+      },
+      "selector_choice_counts": {
+        "A": 4,
+        "B": 4
+      }
+    },
+    "v5_calibration_temperature_v5_cal_style_01": {
+      "arithmetic_choice_counts": {
+        "A": 4,
+        "B": 4
+      },
+      "checks": {
+        "all_pair_audits_pass": true,
+        "arithmetic_choice_balance": true,
+        "eight_frames": true,
+        "factor_balance": true,
+        "oa_rows_exact": true,
+        "selector_choice_balance": true
+      },
+      "factor_counts": {
+        "arithmetic_operation": {
+          "ADD": 4,
+          "SUBTRACT": 4
+        },
+        "block_order": {
+          "arithmetic_first": 4,
+          "selector_first": 4
+        },
+        "candidate_assignment": {
+          "high_to_A": 4,
+          "high_to_B": 4
+        },
+        "label_role_orientation": {
+          "0": 4,
+          "1": 4
+        },
+        "selector_active_value": {
+          "high": 4,
+          "low": 4
+        }
+      },
+      "selector_choice_counts": {
+        "A": 4,
+        "B": 4
+      }
+    },
+    "v5_calibration_temperature_v5_cal_style_02": {
+      "arithmetic_choice_counts": {
+        "A": 4,
+        "B": 4
+      },
+      "checks": {
+        "all_pair_audits_pass": true,
+        "arithmetic_choice_balance": true,
+        "eight_frames": true,
+        "factor_balance": true,
+        "oa_rows_exact": true,
+        "selector_choice_balance": true
+      },
+      "factor_counts": {
+        "arithmetic_operation": {
+          "ADD": 4,
+          "SUBTRACT": 4
+        },
+        "block_order": {
+          "arithmetic_first": 4,
+          "selector_first": 4
+        },
+        "candidate_assignment": {
+          "high_to_A": 4,
+          "high_to_B": 4
+        },
+        "label_role_orientation": {
+          "0": 4,
+          "1": 4
+        },
+        "selector_active_value": {
+          "high": 4,
+          "low": 4
+        }
+      },
+      "selector_choice_counts": {
+        "A": 4,
+        "B": 4
+      }
+    },
+    "v5_calibration_temperature_v5_cal_style_03": {
+      "arithmetic_choice_counts": {
+        "A": 4,
+        "B": 4
+      },
+      "checks": {
+        "all_pair_audits_pass": true,
+        "arithmetic_choice_balance": true,
+        "eight_frames": true,
+        "factor_balance": true,
+        "oa_rows_exact": true,
+        "selector_choice_balance": true
+      },
+      "factor_counts": {
+        "arithmetic_operation": {
+          "ADD": 4,
+          "SUBTRACT": 4
+        },
+        "block_order": {
+          "arithmetic_first": 4,
+          "selector_first": 4
+        },
+        "candidate_assignment": {
+          "high_to_A": 4,
+          "high_to_B": 4
+        },
+        "label_role_orientation": {
+          "0": 4,
+          "1": 4
+        },
+        "selector_active_value": {
+          "high": 4,
+          "low": 4
+        }
+      },
+      "selector_choice_counts": {
+        "A": 4,
+        "B": 4
+      }
+    },
+    "v5_calibration_temperature_v5_cal_style_04": {
+      "arithmetic_choice_counts": {
+        "A": 4,
+        "B": 4
+      },
+      "checks": {
+        "all_pair_audits_pass": true,
+        "arithmetic_choice_balance": true,
+        "eight_frames": true,
+        "factor_balance": true,
+        "oa_rows_exact": true,
+        "selector_choice_balance": true
+      },
+      "factor_counts": {
+        "arithmetic_operation": {
+          "ADD": 4,
+          "SUBTRACT": 4
+        },
+        "block_order": {
+          "arithmetic_first": 4,
+          "selector_first": 4
+        },
+        "candidate_assignment": {
+          "high_to_A": 4,
+          "high_to_B": 4
+        },
+        "label_role_orientation": {
+          "0": 4,
+          "1": 4
+        },
+        "selector_active_value": {
+          "high": 4,
+          "low": 4
+        }
+      },
+      "selector_choice_counts": {
+        "A": 4,
+        "B": 4
+      }
+    }
+  }
+}

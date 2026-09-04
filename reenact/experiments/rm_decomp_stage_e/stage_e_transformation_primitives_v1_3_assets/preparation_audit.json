@@ -1,0 +1,24 @@
+{
+  "blind_fields": [
+    "annotation_id",
+    "question",
+    "options"
+  ],
+  "blind_parent_y_sha256": "14c6cffd128e4aa20328dfaa1a0b1103f57011d92369303d566616a74c9dd3cc",
+  "external_api_used": false,
+  "parent_n_rows": 1739,
+  "parent_unc_rows": 366,
+  "parent_y_rows": 895,
+  "preflight_blind_sha256": "8e16c864fa86e79463c8b83b431b6751edd89e2dc98c00a8b4cfc8d9a34783c7",
+  "preflight_category_counts": {
+    "business": 19,
+    "chemistry": 19,
+    "engineering": 19,
+    "math": 19,
+    "physics": 20
+  },
+  "preflight_disjoint_from_v1_v1_1_v1_2": true,
+  "preflight_rows": 96,
+  "response_mode": "teacher_forced_y_vs_n",
+  "status": "PASS"
+}

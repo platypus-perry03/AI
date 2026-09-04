@@ -1,0 +1,13 @@
+{
+  "blind_items_sha256": "3173e0ce5a262d708c65970b86b17f1ee72632148c50331bcc6ee1fc2b15b7e0",
+  "disjoint_from_attempt01": true,
+  "private_key_sha256": "d28ce97c63ed61c7dec263ed5baba02a3be07f373baa581ae80cbdbc1db8fd6c",
+  "rows": 160,
+  "score_bins": {
+    "high_subpointnine": 40,
+    "low_nonzero": 40,
+    "pointnine_or_one": 40,
+    "zero": 40
+  },
+  "status": "PASS"
+}

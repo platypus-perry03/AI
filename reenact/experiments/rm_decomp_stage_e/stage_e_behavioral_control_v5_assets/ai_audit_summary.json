@@ -1,0 +1,40 @@
+{
+  "audit_sha256": {
+    "calibration_adversarial": "3ab9b070e8c96af1b38ae8dbfc22c7051c29b5711fdaa7408664b4434d4e9fb8",
+    "calibration_primary": "5c68f3c14adab276a0a226359adb96484533bd730b1989c5d5a91191ffe99e24",
+    "replication_adversarial": "1bb3540f8eca988b23560063d62e9174885765fc1bf99b01bc7c92f01dde5075",
+    "replication_primary": "a380b27481cffcf7512ee31f25cb5f6b7caca49eb800a5c18d257fb5170d7e35"
+  },
+  "calibration_execution_allowed": false,
+  "counts": {
+    "calibration": {
+      "adversarial_pass": 8,
+      "pairs": 64,
+      "primary_pass": 64,
+      "templates": 8
+    },
+    "replication": {
+      "adversarial_pass": 16,
+      "pairs": 128,
+      "primary_pass": 128,
+      "templates": 16
+    }
+  },
+  "gpu_used": false,
+  "human_audit": "not_performed",
+  "human_audited_evidence": false,
+  "intervention_allowed": false,
+  "liref_loaded": false,
+  "locked_input_hashes": {
+    "calibration_automatic": "ea2bc26a9a090167f63fdba65c4bb1c90d630f692c2cda3f9a6950f2a4e3fee4",
+    "calibration_dataset": "18005ac5c5733ab389f1b9f8d4850a671f4bdfa0f0c4755ddd62a43e4348922a",
+    "cross_pool": "32efddb44897921ac06a21a9760cb7a2f64cf1f6d7af0de23631e1a6efca8a3f",
+    "replication_automatic": "24f1538a7938c5aaddd677e17139cc26c07d5a0d896a8fac79203a0059674677",
+    "replication_dataset": "b5bd9b083ebe7319bef02ebd30c064e9b9fe2efe85539b668ea8d1946f719dd3"
+  },
+  "model_forward_performed": false,
+  "model_loaded": false,
+  "replication_execution_allowed": false,
+  "schema_version": "5.0",
+  "status": "automatic_primary_ai_and_adversarial_ai_audits_all_pass"
+}

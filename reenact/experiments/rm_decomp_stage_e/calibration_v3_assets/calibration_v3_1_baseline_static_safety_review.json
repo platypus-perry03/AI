@@ -1,0 +1,107 @@
+{
+  "all_checks_pass": true,
+  "authorization_state": {
+    "baseline_calibration_execution_allowed": false,
+    "separate_hash_locked_authorization_required": true,
+    "stage_e_pilot_allowed": false
+  },
+  "checks": {
+    "authorization_precedes_model_hash_and_runtime_load": true,
+    "balanced_synthetic_case_passes": true,
+    "cluster_statistics_exact": true,
+    "dataset_contract_192_pairs_384_prompts": true,
+    "exactly_two_local_from_pretrained_calls": true,
+    "family_contract_exact": true,
+    "forced_choice_tie_is_incorrect": true,
+    "frozen_integer_thresholds_exact": true,
+    "generation_contract_frozen": true,
+    "generation_explicitly_disables_state_outputs": true,
+    "human_audited_claim_remains_false": true,
+    "locked_input_preflight_pass": true,
+    "model_file_hash_lock_includes_all_shards_and_index": true,
+    "model_forward_explicitly_disables_state_outputs": true,
+    "no_hidden_state_or_attention_attribute_read": true,
+    "no_hook_registration_calls": true,
+    "no_liref_or_intervention_runtime_import": true,
+    "no_top_level_torch_or_transformers_import": true,
+    "normalization_accepts_nfkc_digits": true,
+    "normalization_rejects_units": true,
+    "pilot_remains_closed_in_run_manifest": true,
+    "preflight_keeps_execution_closed": true,
+    "primary_scoring_uses_frozen_condition_alternatives": true,
+    "required_output_schema_present": true,
+    "runner_parses": true,
+    "runtime_imports_are_lazy": true,
+    "selector_ceiling_synthetic_case_fails": true,
+    "template_contrast_uses_arithmetic_minus_selector": true
+  },
+  "details": {
+    "forbidden_hook_calls": [],
+    "lazy_runtime_imports": [
+      "torch",
+      "transformers",
+      "transformers"
+    ],
+    "output_schema_fields": {
+      "family_summary": true,
+      "pair_results": true,
+      "provenance": true
+    },
+    "suspicious_runtime_imports": [],
+    "synthetic_balanced_passed_families": [
+      "object_count",
+      "points_balance",
+      "temperature"
+    ],
+    "synthetic_selector_ceiling_failed_families": [
+      "object_count",
+      "points_balance",
+      "temperature"
+    ],
+    "top_level_imports": [
+      "__future__",
+      "argparse",
+      "collections",
+      "datetime",
+      "hashlib",
+      "json",
+      "math",
+      "os",
+      "pathlib",
+      "platform",
+      "random",
+      "re",
+      "statistics",
+      "sys",
+      "typing",
+      "unicodedata"
+    ]
+  },
+  "execution": {
+    "candidate_components_accessed": false,
+    "gpu_used": false,
+    "hidden_states_captured": false,
+    "hooks_or_interventions_used": false,
+    "liref_loaded": false,
+    "model_forward_performed": false,
+    "model_loaded": false,
+    "model_runtime_imported": false,
+    "tokenizer_loaded": false
+  },
+  "locked_input_hashes": {
+    "adversarial_ai_audit": "94dcf1ea437ab2a16e30b2475778372e7c78e0e325c7f288d5a6a547e209f712",
+    "amendment": "15ce7892f12e00360b07ce533188249229dc24409119bd96e4c2c25c1bf8f9de",
+    "automatic_audit": "e904fcec13b97bf9d09afc707aedd2b37c100c911b560f2b88f0ed270e654e26",
+    "dataset": "d2187c0623ba9752776cf0251dee3dabf9d80ac04e339cf3eb4bd1d1b42761a1",
+    "dataset_manifest": "a157ec7bd463c739ee046f9e3f85a08d2e3ebb7dc6a794a63757653c93fad822",
+    "design": "c60a579729376d391582dbc03af9cfd3ba0a1e1743a9e9a884967aacc177adfc",
+    "primary_ai_audit": "d5e1743e27aa7e78e6879a5d6902cabd7998774844e67d1eb29de9133a70827a"
+  },
+  "result_label_if_later_authorized": "protocol-authorized AI-only-audited Baseline Calibration v3.1",
+  "review_type": "static_model_free_safety_and_schema_review",
+  "reviewed_at": "2026-08-31T00:15:49.186843+00:00",
+  "runner_path": "/home/jinhyun/prj_ws/jiho/AI/reenact/experiments/rm_decomp_stage_e/run_calibration_v3_1_baseline.py",
+  "runner_sha256": "0a91b55dec112efba829e9e8039ca8e0082c08e73ebbe2d96ebe49a669abd6bb",
+  "schema_version": "3.1",
+  "status": "PASS"
+}

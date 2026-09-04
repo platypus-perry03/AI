@@ -1,0 +1,43 @@
+{
+  "concentrations": {
+    "annotator_a": {
+      "step_max_fraction": 0.5729166666666666,
+      "type_max_fraction": 0.4166666666666667
+    },
+    "annotator_b": {
+      "step_max_fraction": 0.425531914893617,
+      "type_max_fraction": 0.8333333333333334
+    }
+  },
+  "external_api_used": false,
+  "full_annotation_allowed": false,
+  "gates": {
+    "nondegenerate": true,
+    "parent_ba_a": false,
+    "parent_ba_b": false,
+    "parse_a": true,
+    "parse_b": false,
+    "step_agreement": false,
+    "step_kappa": true,
+    "subtype_agreement": false,
+    "subtype_coverage": true,
+    "subtype_kappa": false,
+    "t_agreement": true,
+    "t_kappa": false
+  },
+  "metrics": {
+    "parent_balanced_accuracy_a": 0.5,
+    "parent_balanced_accuracy_b": 0.5208333333333334,
+    "parent_y_subtype_joint_coverage": 1.0,
+    "parse_rate_a": 1.0,
+    "parse_rate_b": 0.9895833333333334,
+    "step_raw_agreement": 0.4574468085106383,
+    "step_weighted_kappa": 0.47970479704797075,
+    "subtype_kappa": 0.14058355437665784,
+    "subtype_raw_agreement": 0.4375,
+    "t_kappa": 0.0,
+    "t_raw_agreement": 0.9583333333333334
+  },
+  "rows": 96,
+  "status": "FAIL"
+}

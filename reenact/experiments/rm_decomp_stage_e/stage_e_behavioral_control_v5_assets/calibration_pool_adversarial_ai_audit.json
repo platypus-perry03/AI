@@ -1,0 +1,137 @@
+{
+  "audit_type": "adversarial_ai_only_shortcut_and_bias_audit",
+  "fail_count": 0,
+  "gpu_used": false,
+  "human_audit": "not_performed",
+  "human_audited_evidence": false,
+  "model_forward_performed": false,
+  "model_loaded": false,
+  "pair_coverage": 64,
+  "pass_count": 8,
+  "pool": "calibration",
+  "schema_version": "5.0",
+  "status": "PASS",
+  "template_count": 8,
+  "templates": [
+    {
+      "checks": {
+        "active_high_low_balance": true,
+        "all_primary_pair_checks_pass": true,
+        "arithmetic_A_B_balance": true,
+        "candidate_assignment_balance": true,
+        "eight_frames": true,
+        "no_answer_copy_as_terminal_rule": true,
+        "no_fixed_condition_answer_coupling": true,
+        "operation_balance": true,
+        "selector_A_B_balance": true
+      },
+      "status": "PASS",
+      "template_family_id": "v5_calibration_points_balance_v5_cal_style_01"
+    },
+    {
+      "checks": {
+        "active_high_low_balance": true,
+        "all_primary_pair_checks_pass": true,
+        "arithmetic_A_B_balance": true,
+        "candidate_assignment_balance": true,
+        "eight_frames": true,
+        "no_answer_copy_as_terminal_rule": true,
+        "no_fixed_condition_answer_coupling": true,
+        "operation_balance": true,
+        "selector_A_B_balance": true
+      },
+      "status": "PASS",
+      "template_family_id": "v5_calibration_points_balance_v5_cal_style_02"
+    },
+    {
+      "checks": {
+        "active_high_low_balance": true,
+        "all_primary_pair_checks_pass": true,
+        "arithmetic_A_B_balance": true,
+        "candidate_assignment_balance": true,
+        "eight_frames": true,
+        "no_answer_copy_as_terminal_rule": true,
+        "no_fixed_condition_answer_coupling": true,
+        "operation_balance": true,
+        "selector_A_B_balance": true
+      },
+      "status": "PASS",
+      "template_family_id": "v5_calibration_points_balance_v5_cal_style_03"
+    },
+    {
+      "checks": {
+        "active_high_low_balance": true,
+        "all_primary_pair_checks_pass": true,
+        "arithmetic_A_B_balance": true,
+        "candidate_assignment_balance": true,
+        "eight_frames": true,
+        "no_answer_copy_as_terminal_rule": true,
+        "no_fixed_condition_answer_coupling": true,
+        "operation_balance": true,
+        "selector_A_B_balance": true
+      },
+      "status": "PASS",
+      "template_family_id": "v5_calibration_points_balance_v5_cal_style_04"
+    },
+    {
+      "checks": {
+        "active_high_low_balance": true,
+        "all_primary_pair_checks_pass": true,
+        "arithmetic_A_B_balance": true,
+        "candidate_assignment_balance": true,
+        "eight_frames": true,
+        "no_answer_copy_as_terminal_rule": true,
+        "no_fixed_condition_answer_coupling": true,
+        "operation_balance": true,
+        "selector_A_B_balance": true
+      },
+      "status": "PASS",
+      "template_family_id": "v5_calibration_temperature_v5_cal_style_01"
+    },
+    {
+      "checks": {
+        "active_high_low_balance": true,
+        "all_primary_pair_checks_pass": true,
+        "arithmetic_A_B_balance": true,
+        "candidate_assignment_balance": true,
+        "eight_frames": true,
+        "no_answer_copy_as_terminal_rule": true,
+        "no_fixed_condition_answer_coupling": true,
+        "operation_balance": true,
+        "selector_A_B_balance": true
+      },
+      "status": "PASS",
+      "template_family_id": "v5_calibration_temperature_v5_cal_style_02"
+    },
+    {
+      "checks": {
+        "active_high_low_balance": true,
+        "all_primary_pair_checks_pass": true,
+        "arithmetic_A_B_balance": true,
+        "candidate_assignment_balance": true,
+        "eight_frames": true,
+        "no_answer_copy_as_terminal_rule": true,
+        "no_fixed_condition_answer_coupling": true,
+        "operation_balance": true,
+        "selector_A_B_balance": true
+      },
+      "status": "PASS",
+      "template_family_id": "v5_calibration_temperature_v5_cal_style_03"
+    },
+    {
+      "checks": {
+        "active_high_low_balance": true,
+        "all_primary_pair_checks_pass": true,
+        "arithmetic_A_B_balance": true,
+        "candidate_assignment_balance": true,
+        "eight_frames": true,
+        "no_answer_copy_as_terminal_rule": true,
+        "no_fixed_condition_answer_coupling": true,
+        "operation_balance": true,
+        "selector_A_B_balance": true
+      },
+      "status": "PASS",
+      "template_family_id": "v5_calibration_temperature_v5_cal_style_04"
+    }
+  ]
+}

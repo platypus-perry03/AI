@@ -1,0 +1,14 @@
+{
+  "all_checks_pass": true,
+  "checks": {
+    "full_prompts_disjoint": true,
+    "labels_disjoint": true,
+    "names_disjoint": true,
+    "no_exact_prior_v3_prompt_reuse": true,
+    "numeric_blocks_disjoint": true,
+    "pair_ids_disjoint": true,
+    "prior_v3_max_normalized_5gram_jaccard_below_0_80": true,
+    "template_ids_disjoint": true
+  },
+  "max_prior_v3_normalized_5gram_jaccard": 0.06060606060606061
+}

@@ -1,0 +1,52 @@
+{
+  "full_candidate_annotation_allowed": false,
+  "gates": {
+    "ensemble_balanced_accuracy": true,
+    "ensemble_original_spearman": false,
+    "interannotator_binary_kappa": false,
+    "interannotator_score_spearman": false,
+    "original_score_spearman_a": false,
+    "original_score_spearman_b": true,
+    "score_parse_rate_a": true,
+    "score_parse_rate_b": true,
+    "transformation_joint_valid_coverage": false,
+    "transformation_kappa": true,
+    "transformation_parse_rate_a": true,
+    "transformation_parse_rate_b": false,
+    "transformation_raw_agreement": true
+  },
+  "metrics": {
+    "ensemble_balanced_accuracy": 0.7299841772151898,
+    "ensemble_original_spearman": 0.6565206871708328,
+    "interannotator_binary_kappa": 0.08400787573835047,
+    "interannotator_score_spearman": 0.49510778592111554,
+    "original_score_spearman_a": 0.487854658087933,
+    "original_score_spearman_b": 0.6404134343140486,
+    "score_parse_rate_a": 1.0,
+    "score_parse_rate_b": 0.99375,
+    "transformation_joint_valid_coverage": 0.93125,
+    "transformation_kappa": 0.7060564213848886,
+    "transformation_parse_rate_a": 1.0,
+    "transformation_parse_rate_b": 0.93125,
+    "transformation_raw_agreement": 0.8657718120805369
+  },
+  "rows": 160,
+  "schema_id": "stage_e_transformation_replication_v2_1_preflight",
+  "status": "FAIL",
+  "study_model_execution_allowed": false,
+  "thresholds": {
+    "ensemble_balanced_accuracy": 0.7,
+    "ensemble_original_spearman": 0.7,
+    "interannotator_binary_kappa": 0.6,
+    "interannotator_score_spearman": 0.7,
+    "original_score_spearman_a": 0.6,
+    "original_score_spearman_b": 0.6,
+    "score_parse_rate_a": 0.99,
+    "score_parse_rate_b": 0.99,
+    "transformation_joint_valid_coverage": 0.98,
+    "transformation_kappa": 0.6,
+    "transformation_parse_rate_a": 0.99,
+    "transformation_parse_rate_b": 0.99,
+    "transformation_raw_agreement": 0.8
+  }
+}

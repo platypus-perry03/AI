@@ -1,0 +1,17 @@
+{
+  "all_pairs_pass": true,
+  "checks": {
+    "answer_literal_in_context": 144,
+    "answer_not_copied_from_transformation_operands": 144,
+    "exact_prompt_token_length_match": 144,
+    "foils_distinct_from_answer": 144,
+    "minimum_two_prespecified_foils": 144,
+    "single_token_question_targets": 144,
+    "source_relation_tokens_nonempty": 144
+  },
+  "design_sha256": "ba9939e30b1e68c7b061e407f981c37bc2b1878055ef9074ede86f2afe5aacb0",
+  "human_linguistic_audit_complete": false,
+  "pair_count": 144,
+  "status": "automated_tokenizer_audit_pass_human_audit_pending",
+  "tokenizer_sha256": "e134af98b985517b4f068e3755ae90d4e9cd2d45d328325dc503f1c6b2d06cc7"
+}

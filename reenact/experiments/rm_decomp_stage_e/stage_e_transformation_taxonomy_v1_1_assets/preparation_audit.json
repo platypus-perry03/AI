@@ -1,0 +1,26 @@
+{
+  "blind_fields": [
+    "annotation_id",
+    "question",
+    "options"
+  ],
+  "blind_parent_y_sha256": "14c6cffd128e4aa20328dfaa1a0b1103f57011d92369303d566616a74c9dd3cc",
+  "external_api_used": false,
+  "parent_n_rows": 1739,
+  "parent_unc_rows": 366,
+  "parent_y_rows": 895,
+  "preflight_blind_sha256": "ad642ed16b670918186dae351534af8fa964d2f2d01ebb7d703aa1fa1701a2a7",
+  "preflight_category_counts": {
+    "business": 15,
+    "chemistry": 14,
+    "computer science": 6,
+    "economics": 11,
+    "engineering": 15,
+    "math": 14,
+    "other": 6,
+    "physics": 15
+  },
+  "preflight_disjoint_from_v1_parent_y": true,
+  "preflight_rows": 96,
+  "status": "PASS"
+}

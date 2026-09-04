@@ -1,0 +1,189 @@
+{
+  "ai_audit_fail_count": 0,
+  "ai_audit_needs_revision_count": 0,
+  "ai_audit_pass_count": 192,
+  "ai_only_audit_csv_sha256": "5fdf08675169aec87b42fca33b3b42e564b2e4df43cb68f6c4662563a5f62244",
+  "ai_only_audit_gate_pass": true,
+  "ai_only_audited": true,
+  "ai_review_id": "codex_ai_only_audit_v2_1_1_amendment_v1",
+  "all_template_frames_present": true,
+  "all_ten_pair_criteria_pass": true,
+  "baseline_calibration_execution_allowed": false,
+  "baseline_calibration_implementation_review_allowed": true,
+  "baseline_calibration_requires_separate_explicit_authorization": true,
+  "confirmatory_claim_allowed": false,
+  "dataset_sha256": "322d80f3c2c0723f6a4e8b0a968b30baac23e28cf68b6c60c5a7a95a5bca7420",
+  "dataset_version": "2.1.1",
+  "gpu_used": false,
+  "human_audit": "not_performed",
+  "human_audit_gate": "waived_by_user",
+  "human_audited_evidence": false,
+  "human_reviewer_csvs_modified": false,
+  "independent_or_blind_review_claim_allowed": false,
+  "locked_artifact_hashes": {
+    "CALIBRATION_V2_1_1_AI_ADVERSARIAL_REVIEW_KO.md": "a6a4ab82812a2603174b6bebc739d9488be1a97bd2da8c87f5ca74b36fd0fbdd",
+    "CALIBRATION_V2_1_1_AI_ONLY_AUDIT_GUIDE_KO.md": "f02851b2a3694d0d09692bbd7d1cf3aa0867fe94353a7350d73193f80869c5bc",
+    "calibration_v2_1_1_ai_only_audit_policy_frozen.json": "6f8570284c73a9111878975b3898e29e5e237b762cdd6bc7a3db8ccf67313519",
+    "calibration_v2_1_1_assets/ai_preaudit/calibration_v2_1_1_ai_linguistic_preaudit.csv": "0c6de07362252dc3bce44379c81c8ca74558c455e34bd5e95fe9fd56f059ef88",
+    "calibration_v2_1_1_assets/ai_preaudit/calibration_v2_1_1_ai_linguistic_preaudit_summary.json": "3cf6d5645134f66692395d17297eb445194565e66504ed3d14ef382fded4d339",
+    "calibration_v2_1_1_assets/calibration_v2_1_1_automatic_audit.json": "93cd89e6901772c87435eb9f208bd4fc310e032b660c7678c34acf044f348e3b",
+    "calibration_v2_1_1_assets/calibration_v2_1_1_dataset_draft.json": "322d80f3c2c0723f6a4e8b0a968b30baac23e28cf68b6c60c5a7a95a5bca7420",
+    "calibration_v2_1_design_frozen.json": "d0d6d19432eb48234a9729cc5f297c09963eb485bf5ec02178d504a93dc8307f"
+  },
+  "model_forward_performed": false,
+  "model_or_tokenizer_loaded": false,
+  "pair_count": 192,
+  "policy_id": "stage_e_calibration_v2_1_1_ai_only_audit_amendment_v1",
+  "policy_sha256": "6f8570284c73a9111878975b3898e29e5e237b762cdd6bc7a3db8ccf67313519",
+  "schema_version": "1.0",
+  "stage_e_pilot_allowed": false,
+  "status": "ai_only_audit_pass_baseline_execution_still_requires_separate_authorization",
+  "template_failures": [],
+  "template_family_count": 24,
+  "template_summary": {
+    "v21_dec_badge_index": {
+      "counterbalance_pass": true,
+      "frame_count": 8,
+      "semantic_note": "The revised wording explicitly states that N badges were given away, so subtraction is unambiguous.",
+      "semantic_status": "PASS"
+    },
+    "v21_dec_bead_archive": {
+      "counterbalance_pass": true,
+      "frame_count": 8,
+      "semantic_note": "Clear keyed binding, explicit removal, and natural current-count question.",
+      "semantic_status": "PASS"
+    },
+    "v21_dec_bottle_catalog": {
+      "counterbalance_pass": true,
+      "frame_count": 8,
+      "semantic_note": "Recycled bottles clearly reduce prior stock.",
+      "semantic_status": "PASS"
+    },
+    "v21_dec_cube_folder": {
+      "counterbalance_pass": true,
+      "frame_count": 8,
+      "semantic_note": "Taken cubes clearly reduce the initial total.",
+      "semantic_status": "PASS"
+    },
+    "v21_dec_pencil_file": {
+      "counterbalance_pass": true,
+      "frame_count": 8,
+      "semantic_note": "Handed-out pencils unambiguously reduce the recorded starting amount.",
+      "semantic_status": "PASS"
+    },
+    "v21_dec_shell_register": {
+      "counterbalance_pass": true,
+      "frame_count": 8,
+      "semantic_note": "Missing shells unambiguously encode a decrease.",
+      "semantic_status": "PASS"
+    },
+    "v21_dec_ticket_account": {
+      "counterbalance_pass": true,
+      "frame_count": 8,
+      "semantic_note": "Redeemed tickets clearly reduce the prior account balance.",
+      "semantic_status": "PASS"
+    },
+    "v21_dec_token_ledger": {
+      "counterbalance_pass": true,
+      "frame_count": 8,
+      "semantic_note": "Clear keyed binding and explicit token-use decrease.",
+      "semantic_status": "PASS"
+    },
+    "v21_inc_candle_catalog": {
+      "counterbalance_pass": true,
+      "frame_count": 8,
+      "semantic_note": "Additional stocked candles clearly increase prior stock.",
+      "semantic_status": "PASS"
+    },
+    "v21_inc_clip_archive": {
+      "counterbalance_pass": true,
+      "frame_count": 8,
+      "semantic_note": "Received clips clearly increase the recorded starting amount.",
+      "semantic_status": "PASS"
+    },
+    "v21_inc_coupon_index": {
+      "counterbalance_pass": true,
+      "frame_count": 8,
+      "semantic_note": "An issue of additional coupons is slightly formal but explicitly indicates an increase.",
+      "semantic_status": "PASS"
+    },
+    "v21_inc_marker_account": {
+      "counterbalance_pass": true,
+      "frame_count": 8,
+      "semantic_note": "Delivered markers clearly increase the prior balance.",
+      "semantic_status": "PASS"
+    },
+    "v21_inc_notebook_file": {
+      "counterbalance_pass": true,
+      "frame_count": 8,
+      "semantic_note": "Purchased notebooks clearly increase the starting total.",
+      "semantic_status": "PASS"
+    },
+    "v21_inc_packet_folder": {
+      "counterbalance_pass": true,
+      "frame_count": 8,
+      "semantic_note": "Additional packets placed there clearly increase the initial total.",
+      "semantic_status": "PASS"
+    },
+    "v21_inc_pebble_register": {
+      "counterbalance_pass": true,
+      "frame_count": 8,
+      "semantic_note": "Collected pebbles clearly increase the earlier quantity.",
+      "semantic_status": "PASS"
+    },
+    "v21_inc_ribbon_ledger": {
+      "counterbalance_pass": true,
+      "frame_count": 8,
+      "semantic_note": "Added ribbons unambiguously encode an increase.",
+      "semantic_status": "PASS"
+    },
+    "v21_temp_cabinet_ledger": {
+      "counterbalance_pass": true,
+      "frame_count": 8,
+      "semantic_note": "The reading explicitly increased by N degrees.",
+      "semantic_status": "PASS"
+    },
+    "v21_temp_capsule_account": {
+      "counterbalance_pass": true,
+      "frame_count": 8,
+      "semantic_note": "The revised wording makes the recorded temperature the explicit subject of the increase.",
+      "semantic_status": "PASS"
+    },
+    "v21_temp_compartment_index": {
+      "counterbalance_pass": true,
+      "frame_count": 8,
+      "semantic_note": "Earlier reading plus an explicit increase is clear and symmetric with direct retrieval.",
+      "semantic_status": "PASS"
+    },
+    "v21_temp_flask_archive": {
+      "counterbalance_pass": true,
+      "frame_count": 8,
+      "semantic_note": "A rise of N degrees clearly applies to the recorded starting temperature.",
+      "semantic_status": "PASS"
+    },
+    "v21_temp_incubator_file": {
+      "counterbalance_pass": true,
+      "frame_count": 8,
+      "semantic_note": "The file wording is record-like and warming direction is unambiguous.",
+      "semantic_status": "PASS"
+    },
+    "v21_temp_probe_folder": {
+      "counterbalance_pass": true,
+      "frame_count": 8,
+      "semantic_note": "Initial measurement and noted gain have an unambiguous addition interpretation.",
+      "semantic_status": "PASS"
+    },
+    "v21_temp_reservoir_register": {
+      "counterbalance_pass": true,
+      "frame_count": 8,
+      "semantic_note": "The revised wording makes the recorded temperature the explicit subject of the rise.",
+      "semantic_status": "PASS"
+    },
+    "v21_temp_vessel_catalog": {
+      "counterbalance_pass": true,
+      "frame_count": 8,
+      "semantic_note": "Prior measurement and explicit rise are clear and natural.",
+      "semantic_status": "PASS"
+    }
+  }
+}

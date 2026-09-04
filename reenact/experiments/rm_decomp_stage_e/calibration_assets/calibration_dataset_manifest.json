@@ -1,0 +1,22 @@
+{
+  "automated_tokenizer_audit_pass": true,
+  "baseline_calibration_execution_allowed": false,
+  "builder_sha256": "3cfdb5e8e2183b20706ed66838f58e302d45116a284b6b5cf7d5ff26f7c735aa",
+  "confirmatory_reuse_allowed": false,
+  "counterbalance_frame_count_per_template": 4,
+  "dataset_sha256": "ba4c0fe2b17633c082ca666c4af7133b90a7e221efb6824bac74c99eddf2505b",
+  "design_sha256": "ba9939e30b1e68c7b061e407f981c37bc2b1878055ef9074ede86f2afe5aacb0",
+  "full_dataset_tokenizer_audit_complete": true,
+  "human_linguistic_audit_complete": false,
+  "item_instantiation_count_per_frame": 2,
+  "lexical_family_count": 3,
+  "linguistic_audit_guide_sha256": "78e086c65228798badc72cfd935379e3b1b8d0b138b937f667a3788fa63bd7d7",
+  "linguistic_audit_sheet_sha256": "95f7830cfa906f5fef63b357869b72296acb7d08a109762ed573364231b619d4",
+  "pair_count": 144,
+  "pilot_reuse_allowed": false,
+  "prompt_count": 288,
+  "schema_version": "1.0",
+  "status": "draft_pending_human_linguistic_audit",
+  "template_family_count": 18,
+  "tokenizer_audit_sha256": "1acc16642fd133b2a45bd84c9ae79b21b69b93346111e9b3b051de53ad383f7a"
+}

@@ -1,0 +1,145 @@
+{
+  "baseline_calibration_execution_allowed": false,
+  "builder_sha256": "f68550cc6e1a9188f8c5d77da8b31cef5c309eafbfb0021b2847cc2a8828ed3b",
+  "catalog_amendment_sha256": "0cd26c72db2c3510e4013c4427e25ab3622796b3f6e9f202100c5e7e4e5b68cb",
+  "catalog_sha256": "d49fab4ceb9be75ec6d9ec2549b433abcbb108fb57862d12659232a3b7fe186b",
+  "design_sha256": "0382a059f2ac3578446e772939a10dc6911d11b7a90bb4cb0f7bd78ed5ebe106",
+  "gpu_used": false,
+  "human_audit": "not_performed",
+  "intervention_allowed": false,
+  "liref_loaded": false,
+  "model_forward_performed": false,
+  "model_loaded": false,
+  "oa_validation": {
+    "factor_counts": [
+      {
+        "0": 4,
+        "1": 4
+      },
+      {
+        "0": 4,
+        "1": 4
+      },
+      {
+        "0": 4,
+        "1": 4
+      },
+      {
+        "0": 4,
+        "1": 4
+      },
+      {
+        "0": 4,
+        "1": 4
+      },
+      {
+        "0": 4,
+        "1": 4
+      }
+    ],
+    "pair_counts": {
+      "0_1": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "0_2": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "0_3": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "0_4": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "0_5": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "1_2": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "1_3": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "1_4": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "1_5": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "2_3": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "2_4": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "2_5": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "3_4": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "3_5": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      },
+      "4_5": {
+        "00": 2,
+        "01": 2,
+        "10": 2,
+        "11": 2
+      }
+    },
+    "pass": true
+  },
+  "output_sha256": {
+    "calibration_audit": "aaa777b9e794db807f8a01dc1a9865b4fdcf58bc0ac5a135fddc49752eb6aaa0",
+    "calibration_dataset": "e4b660057b8103533c3303c8defc8a3b03268fac036ff3b8232c9e20662f6ded",
+    "cross_pool_audit": "780ec743613a2239031998a187db1c723f1f38958e3fbb3c71f1c588e1b51bd9",
+    "replication_audit": "5b81c52961e70c31af5fdadb226e523e5ffef03d570275301d827598e93b5e17",
+    "replication_dataset": "4a783c0509419103746ac81c318c5617bdeaeb1b02bd1c5addefc331b248c7a4"
+  },
+  "random_seed": 20260901,
+  "replication_execution_allowed": false,
+  "schema_version": "4.0",
+  "status": "datasets_created_automatic_audits_pass_ai_audits_pending"
+}

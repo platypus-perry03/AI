@@ -1,0 +1,37 @@
+{
+  "all_frozen_gates_pass": false,
+  "failure_reasons": [
+    "Annotator A used SCORE: syntax rather than frozen SCORE= syntax, yielding 0/192 parsed scores.",
+    "Annotator B produced 126/192 parsed scores; many outputs did not reach a final score within the frozen generation limit.",
+    "The two annotators had no jointly parseable score rows, so score correlation and binary agreement could not be evaluated.",
+    "Annotator B transformation format coverage was below the frozen parse/coverage gates."
+  ],
+  "full_candidate_annotation_allowed": false,
+  "gates": {
+    "score_joint_valid_for_correlation": false,
+    "score_parse_rate_a": false,
+    "score_parse_rate_b": false,
+    "transformation_joint_valid_coverage": false,
+    "transformation_kappa": false,
+    "transformation_parse_rate_a": true,
+    "transformation_parse_rate_b": false,
+    "transformation_raw_agreement": false
+  },
+  "internal_outcomes_loaded": false,
+  "metrics": {
+    "score_joint_valid_coverage": 0.0,
+    "score_parse_rate_a": 0.0,
+    "score_parse_rate_b": 0.65625,
+    "transformation_joint_binary_coverage": 0.609375,
+    "transformation_kappa_on_joint_binary": 0.08478425435276363,
+    "transformation_parse_rate_a": 1.0,
+    "transformation_parse_rate_b": 0.609375,
+    "transformation_raw_agreement_on_joint_binary": 0.7350427350427351
+  },
+  "next_action": "Preserve v2 attempt and create a new annotation-instrument version before any full candidate annotation.",
+  "rows": 192,
+  "schema_id": "stage_e_transformation_replication_v2_annotation_preflight_attempt01",
+  "status": "FAIL_INSTRUMENT_OUTPUT_CONTRACT",
+  "study_model_executed": false,
+  "study_model_execution_allowed": false
+}

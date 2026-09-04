@@ -1,0 +1,63 @@
+{
+  "behavior_calls": [
+    {
+      "call": "model",
+      "function": "score_sequences"
+    },
+    {
+      "call": "generate",
+      "function": "generate_answers"
+    }
+  ],
+  "checks": {
+    "authorization_validated_before_model_load": true,
+    "behavior_calls_confined_to_scoring_and_generation": true,
+    "execute_requires_explicit_authorization": true,
+    "fixed_result_root_and_no_cli_output_path": true,
+    "from_pretrained_calls_are_local_and_remote_code_disabled": true,
+    "hidden_state_and_attention_outputs_explicitly_disabled": true,
+    "human_audit_waiver_explicitly_locked": true,
+    "implementation_and_review_hashes_required_by_authorization": true,
+    "no_candidate_or_intervention_runtime": true,
+    "no_forbidden_hook_weight_or_tensor_save_calls": true,
+    "no_liref_direction_reference": true,
+    "preflight_and_self_test_are_separate_nonexecution_modes": true,
+    "refuses_output_overwrite": true,
+    "runtime_imports_are_lazy_and_confined_to_load_runtime": true,
+    "source_parses": true
+  },
+  "execution_allowed": false,
+  "failures": [],
+  "forbidden_calls": [],
+  "from_pretrained_calls": [
+    {
+      "function": "load_runtime",
+      "local_files_only_true": true,
+      "trust_remote_code_false": true
+    },
+    {
+      "function": "load_runtime",
+      "local_files_only_true": true,
+      "trust_remote_code_false": true
+    }
+  ],
+  "gpu_used_during_review": false,
+  "human_audit": "not_performed",
+  "human_audit_gate": "waived_by_user",
+  "implementation_sha256": "78681b8e2b778e4cb7f224baff82a6eb9a4f67eaa7dcf139d13097e9131b9884",
+  "model_forward_performed_during_review": false,
+  "model_or_tokenizer_loaded_during_review": false,
+  "output_flag_failures": [],
+  "runtime_imports": [
+    {
+      "function": "load_runtime",
+      "module": "torch"
+    },
+    {
+      "function": "load_runtime",
+      "module": "transformers"
+    }
+  ],
+  "schema_version": "1.0",
+  "status": "STATIC_SAFETY_REVIEW_PASS_EXECUTION_NOT_APPROVED"
+}

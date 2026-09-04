@@ -1,0 +1,24 @@
+{
+  "blind_fields": [
+    "candidate_id",
+    "question",
+    "options"
+  ],
+  "blind_forbidden_fields_absent": true,
+  "blind_pool_sha256": "c0295f1abe071b076d6d7aa2c4cd9a66b73e3eac0cc5688bf5c22fc212d28844",
+  "candidate_rows": 8656,
+  "excluded_by_id_count": 3011,
+  "excluded_by_normalized_text_count": 3170,
+  "excluded_candidate_pool_duplicate_text_count": 206,
+  "full_dataset_arrow_sha256": "705b68f9c765ef102520e1b82f391e57ad3bab9034d1f47a705907a20828c3a8",
+  "full_mmlu_test_rows": 12032,
+  "private_pool_sha256": "eb995504322256e7ee386ca4e592b09e65b8c84c8dbc5f529b763db42f3f72c1",
+  "schema_id": "stage_e_transformation_replication_v2_pool_audit",
+  "status": "PASS",
+  "unique_normalized_questions": 8656,
+  "unique_question_ids": 8656,
+  "used_3000_rows": 3000,
+  "used_3000_sha256": "20b10eb08ef5aa62144f59501bc3191a1e58a44e387a24868cf43d3570092e96",
+  "used_600_rows": 600,
+  "used_600_sha256": "82754adc69adc778117bf89ff2a2f513471daf40a768e63b7094c25d9dae2806"
+}

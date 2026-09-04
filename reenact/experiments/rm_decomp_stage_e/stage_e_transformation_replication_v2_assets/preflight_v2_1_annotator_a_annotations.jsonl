@@ -1,0 +1,160 @@
+{"annotator": "annotator_a", "preflight_id": "TRP21-000", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-001", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "Y", "transformation_raw": "MODE=DER;T=Y;C=N;S=N;K=N;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-002", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-003", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-004", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-005", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-006", "score": 0.4, "score_raw": "SCORE: 0.4", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-007", "score": 0.4, "score_raw": "SCORE: 0.4", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-008", "score": 0.75, "score_raw": "SCORE=0.75", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-009", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-010", "score": 0.8, "score_raw": "SCORE=0.8", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-011", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-012", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-013", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=Y;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-014", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-015", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-016", "score": 0.4, "score_raw": "SCORE: 0.4", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-017", "score": 0.75, "score_raw": "SCORE=0.75", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-018", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-019", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-020", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-021", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "Y", "transformation_raw": "MODE=DER;T=Y;C=Y;S=N;K=N;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-022", "score": 0.8, "score_raw": "SCORE=0.8", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-023", "score": 0.8, "score_raw": "SCORE=0.8", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=Y;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-024", "score": 0.4, "score_raw": "SCORE=0.4", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-025", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-026", "score": 0.8, "score_raw": "SCORE: 0.8", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-027", "score": 0.7, "score_raw": "SCORE: 0.7", "transformation": "Y", "transformation_raw": "MODE=DER;T=Y;C=Y;S=N;K=N;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-028", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=Y;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-029", "score": 0.8, "score_raw": "SCORE=0.8", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-030", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-031", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=Y;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-032", "score": 0.8, "score_raw": "SCORE=0.8", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=N;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-033", "score": 0.8, "score_raw": "SCORE: 0.8", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=N;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-034", "score": 0.8, "score_raw": "SCORE=0.8", "transformation": "Y", "transformation_raw": "MODE=DER;T=Y;C=N;S=N;K=N;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-035", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-036", "score": 0.8, "score_raw": "SCORE=0.8", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-037", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-038", "score": 0.8, "score_raw": "SCORE=0.8", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-039", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-040", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-041", "score": 0.6, "score_raw": "SCORE: 0.60", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-042", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=Y;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-043", "score": 0.4, "score_raw": "SCORE=0.40", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=N;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-044", "score": 0.6, "score_raw": "SCORE: 0.60", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=Y;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-045", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-046", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-047", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-048", "score": 0.8, "score_raw": "SCORE: 0.8", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-049", "score": 0.7, "score_raw": "SCORE=0.7", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=Y;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-050", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=Y;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-051", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=N;S=N;K=N;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-052", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "Y", "transformation_raw": "MODE=DER;T=Y;C=N;S=N;K=N;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-053", "score": 0.6, "score_raw": "SCORE: 0.60", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-054", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-055", "score": 0.8, "score_raw": "SCORE=0.8", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-056", "score": 0.8, "score_raw": "SCORE: 0.8", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-057", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-058", "score": 0.8, "score_raw": "SCORE=0.80", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=N;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-059", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-060", "score": 0.6, "score_raw": "SCORE: 0.60", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-061", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-062", "score": 0.65, "score_raw": "SCORE=0.65", "transformation": "Y", "transformation_raw": "MODE=DER;T=Y;C=N;S=N;K=N;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-063", "score": 0.75, "score_raw": "SCORE=0.75", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-064", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-065", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "Y", "transformation_raw": "MODE=DER;T=Y;C=N;S=N;K=N;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-066", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "Y", "transformation_raw": "MODE=DER;T=Y;C=Y;S=Y;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-067", "score": 0.6, "score_raw": "SCORE: 0.60", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-068", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-069", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-070", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "Y", "transformation_raw": "MODE=DER;T=Y;C=Y;S=N;K=N;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-071", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "Y", "transformation_raw": "MODE=DER;T=Y;C=N;S=N;K=N;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-072", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-073", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=Y;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-074", "score": 0.8, "score_raw": "SCORE=0.8", "transformation": "Y", "transformation_raw": "MODE=DER;T=Y;C=N;S=N;K=N;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-075", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-076", "score": 0.8, "score_raw": "SCORE=0.8", "transformation": "Y", "transformation_raw": "MODE=DER;T=Y;C=N;S=N;K=N;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-077", "score": 0.8, "score_raw": "SCORE=0.8", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-078", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "N", "transformation_raw": "MODE=DER;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-079", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-080", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-081", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-082", "score": 0.4, "score_raw": "SCORE=0.4", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=N;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-083", "score": 0.8, "score_raw": "SCORE: 0.8", "transformation": "Y", "transformation_raw": "MODE=DER;T=Y;C=N;S=N;K=N;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-084", "score": 0.8, "score_raw": "SCORE: 0.8", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-085", "score": 0.8, "score_raw": "SCORE: 0.8", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-086", "score": 0.4, "score_raw": "SCORE: 0.4", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-087", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=Y;S=Y;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-088", "score": 0.6, "score_raw": "SCORE: 0.60", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-089", "score": 0.8, "score_raw": "SCORE=0.8", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-090", "score": 0.6, "score_raw": "SCORE: 0.60", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-091", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "Y", "transformation_raw": "MODE=DER;T=Y;C=N;S=N;K=N;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-092", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=Y;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-093", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-094", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=Y;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-095", "score": 0.8, "score_raw": "SCORE: 0.8", "transformation": "Y", "transformation_raw": "MODE=DER;T=Y;C=N;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-096", "score": 0.8, "score_raw": "SCORE: 0.8", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=N;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-097", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-098", "score": 0.6, "score_raw": "SCORE: 0.60", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-099", "score": 0.8, "score_raw": "SCORE=0.8", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=N;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-100", "score": 0.75, "score_raw": "SCORE=0.75", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-101", "score": 0.8, "score_raw": "SCORE=0.8", "transformation": "Y", "transformation_raw": "MODE=DER;T=Y;C=N;S=N;K=N;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-102", "score": 0.8, "score_raw": "SCORE: 0.8", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=Y;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-103", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=Y;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-104", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "N", "transformation_raw": "MODE=DER;T=N;C=Y;S=N;K=N;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-105", "score": 0.7, "score_raw": "SCORE=0.7", "transformation": "Y", "transformation_raw": "MODE=DER;T=Y;C=N;S=N;K=N;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-106", "score": 0.8, "score_raw": "SCORE: 0.8", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-107", "score": 0.6, "score_raw": "SCORE: 0.60", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-108", "score": 0.8, "score_raw": "SCORE: 0.8", "transformation": "Y", "transformation_raw": "MODE=DER;T=Y;C=N;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-109", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-110", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=Y;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-111", "score": 0.8, "score_raw": "SCORE=0.8", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=N;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-112", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-113", "score": 0.8, "score_raw": "SCORE: 0.8", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-114", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-115", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-116", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-117", "score": 0.2, "score_raw": "SCORE=0.2", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-118", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-119", "score": 0.8, "score_raw": "SCORE=0.8", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-120", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "Y", "transformation_raw": "MODE=DER;T=Y;C=N;S=N;K=N;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-121", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-122", "score": 0.8, "score_raw": "SCORE: 0.8", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-123", "score": 0.7, "score_raw": "SCORE: 0.7", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=Y;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-124", "score": 0.8, "score_raw": "SCORE: 0.8", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=N;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-125", "score": 0.6, "score_raw": "SCORE: 0.60", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-126", "score": 0.8, "score_raw": "SCORE: 0.8", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=Y;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-127", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=Y;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-128", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=N;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-129", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-130", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=Y;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-131", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-132", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=Y;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-133", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-134", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "N", "transformation_raw": "MODE=DER;T=N;C=Y;S=N;K=N;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-135", "score": 0.8, "score_raw": "SCORE: 0.8", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=Y;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-136", "score": 0.7, "score_raw": "SCORE=0.7", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-137", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=N;S=Y;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-138", "score": 0.8, "score_raw": "SCORE: 0.8", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=N;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-139", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-140", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-141", "score": 0.8, "score_raw": "SCORE=0.8", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=N;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-142", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-143", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "N", "transformation_raw": "MODE=DER;T=N;C=Y;S=N;K=N;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-144", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-145", "score": 0.75, "score_raw": "SCORE=0.75", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=N;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-146", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "Y", "transformation_raw": "MODE=DER;T=Y;C=N;S=N;K=N;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-147", "score": 0.8, "score_raw": "SCORE=0.8", "transformation": "Y", "transformation_raw": "MODE=DER;T=Y;C=N;S=N;K=N;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-148", "score": 0.75, "score_raw": "SCORE=0.75", "transformation": "Y", "transformation_raw": "MODE=DER;T=Y;C=Y;S=N;K=N;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-149", "score": 0.8, "score_raw": "SCORE=0.8", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-150", "score": 0.8, "score_raw": "SCORE: 0.8", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=N;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-151", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=Y;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-152", "score": 0.65, "score_raw": "SCORE=0.65", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-153", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-154", "score": 0.8, "score_raw": "SCORE=0.8", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-155", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-156", "score": 0.6, "score_raw": "SCORE=0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-157", "score": 0.8, "score_raw": "SCORE=0.8", "transformation": "Y", "transformation_raw": "MODE=MIX;T=Y;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-158", "score": 0.6, "score_raw": "SCORE: 0.6", "transformation": "N", "transformation_raw": "MODE=MIX;T=N;C=Y;S=N;K=Y;A=IND"}
+{"annotator": "annotator_a", "preflight_id": "TRP21-159", "score": 0.6, "score_raw": "SCORE=0.60", "transformation": "N", "transformation_raw": "MODE=RET;T=N;C=N;S=N;K=Y;A=DIR"}

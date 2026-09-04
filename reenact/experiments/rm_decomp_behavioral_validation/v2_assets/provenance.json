@@ -1,0 +1,35 @@
+{
+  "design_sha256": "ce8043033083b62efb1e9cd7d206b3675cfeee00eec6826329b3ef76991834b3",
+  "records_sha256": "ef7b6767be65cd5971fd92e29c276554938818f0eceb99368ee422b160504952",
+  "counts": {
+    "ceval_h": 257,
+    "gsm8k": 1219,
+    "gsm_symbolic": 100,
+    "mgsm_en": 250
+  },
+  "selected": {
+    "ceval_h": {
+      "primary": 70,
+      "confirmation": 30
+    },
+    "gsm8k": {
+      "primary": 70,
+      "confirmation": 30
+    },
+    "gsm_symbolic": {
+      "primary": 70,
+      "confirmation": 30
+    },
+    "mgsm_en": {
+      "primary": 70,
+      "confirmation": 30
+    }
+  },
+  "gsm8k_symbolic_overlap_removed": 100,
+  "candidate_counts": {
+    "Meta-Llama-3-8B": 13,
+    "Mistral-7B-v0.3": 15,
+    "OLMo-2-1124-7B": 17,
+    "gemma-2-9b": 2
+  }
+}

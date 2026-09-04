@@ -1,0 +1,174 @@
+{
+  "all_pair_checks_pass": true,
+  "all_template_checks_pass": true,
+  "design_sha256": "a8f3dad7fced945377194074f9aa12d673faff3b55c3ec45bd82e397b5a5302b",
+  "gpu_used": false,
+  "human_audit_complete": false,
+  "model_forward_performed": false,
+  "pair_check_pass_counts": {
+    "answer_token_count_match": 144,
+    "answers_differ": 144,
+    "exact_prompt_token_length_match": 144,
+    "foil_collision_absence": 144,
+    "irrelevant_answer_once_in_context": 144,
+    "irrelevant_answer_once_in_direct_fact": 144,
+    "question_structure_differs_only_at_target": 144,
+    "relevant_answer_absent_as_numeric_mention": 144,
+    "relevant_answer_differs_from_start_and_delta": 144,
+    "single_token_question_targets": 144,
+    "source_relation_tokens_nonempty": 144,
+    "target_label_token_count_match": 144
+  },
+  "pair_count": 144,
+  "prompt_count": 288,
+  "schema_version": "2.0",
+  "status": "automatic_shortcut_counterbalance_structural_tokenizer_audit_pass",
+  "template_audits": {
+    "v2_dec_balloons_popped": {
+      "answer_magnitude_direction_balance": true,
+      "answer_relevance_balance": true,
+      "full_factorial_frame_count": true,
+      "label_role_balance": true,
+      "pair_count_matches_frozen_frame_count": true,
+      "sentence_order_balance": true
+    },
+    "v2_dec_books_donated": {
+      "answer_magnitude_direction_balance": true,
+      "answer_relevance_balance": true,
+      "full_factorial_frame_count": true,
+      "label_role_balance": true,
+      "pair_count_matches_frozen_frame_count": true,
+      "sentence_order_balance": true
+    },
+    "v2_dec_cards_discarded": {
+      "answer_magnitude_direction_balance": true,
+      "answer_relevance_balance": true,
+      "full_factorial_frame_count": true,
+      "label_role_balance": true,
+      "pair_count_matches_frozen_frame_count": true,
+      "sentence_order_balance": true
+    },
+    "v2_dec_coins_spent": {
+      "answer_magnitude_direction_balance": true,
+      "answer_relevance_balance": true,
+      "full_factorial_frame_count": true,
+      "label_role_balance": true,
+      "pair_count_matches_frozen_frame_count": true,
+      "sentence_order_balance": true
+    },
+    "v2_dec_marbles_gave_away": {
+      "answer_magnitude_direction_balance": true,
+      "answer_relevance_balance": true,
+      "full_factorial_frame_count": true,
+      "label_role_balance": true,
+      "pair_count_matches_frozen_frame_count": true,
+      "sentence_order_balance": true
+    },
+    "v2_dec_stickers_lost": {
+      "answer_magnitude_direction_balance": true,
+      "answer_relevance_balance": true,
+      "full_factorial_frame_count": true,
+      "label_role_balance": true,
+      "pair_count_matches_frozen_frame_count": true,
+      "sentence_order_balance": true
+    },
+    "v2_inc_apples_bought": {
+      "answer_magnitude_direction_balance": true,
+      "answer_relevance_balance": true,
+      "full_factorial_frame_count": true,
+      "label_role_balance": true,
+      "pair_count_matches_frozen_frame_count": true,
+      "sentence_order_balance": true
+    },
+    "v2_inc_books_acquired": {
+      "answer_magnitude_direction_balance": true,
+      "answer_relevance_balance": true,
+      "full_factorial_frame_count": true,
+      "label_role_balance": true,
+      "pair_count_matches_frozen_frame_count": true,
+      "sentence_order_balance": true
+    },
+    "v2_inc_flowers_planted": {
+      "answer_magnitude_direction_balance": true,
+      "answer_relevance_balance": true,
+      "full_factorial_frame_count": true,
+      "label_role_balance": true,
+      "pair_count_matches_frozen_frame_count": true,
+      "sentence_order_balance": true
+    },
+    "v2_inc_points_earned": {
+      "answer_magnitude_direction_balance": true,
+      "answer_relevance_balance": true,
+      "full_factorial_frame_count": true,
+      "label_role_balance": true,
+      "pair_count_matches_frozen_frame_count": true,
+      "sentence_order_balance": true
+    },
+    "v2_inc_stamps_added": {
+      "answer_magnitude_direction_balance": true,
+      "answer_relevance_balance": true,
+      "full_factorial_frame_count": true,
+      "label_role_balance": true,
+      "pair_count_matches_frozen_frame_count": true,
+      "sentence_order_balance": true
+    },
+    "v2_inc_tiles_received": {
+      "answer_magnitude_direction_balance": true,
+      "answer_relevance_balance": true,
+      "full_factorial_frame_count": true,
+      "label_role_balance": true,
+      "pair_count_matches_frozen_frame_count": true,
+      "sentence_order_balance": true
+    },
+    "v2_temp_beaker_increased": {
+      "answer_magnitude_direction_balance": true,
+      "answer_relevance_balance": true,
+      "full_factorial_frame_count": true,
+      "label_role_balance": true,
+      "pair_count_matches_frozen_frame_count": true,
+      "sentence_order_balance": true
+    },
+    "v2_temp_chamber_heated": {
+      "answer_magnitude_direction_balance": true,
+      "answer_relevance_balance": true,
+      "full_factorial_frame_count": true,
+      "label_role_balance": true,
+      "pair_count_matches_frozen_frame_count": true,
+      "sentence_order_balance": true
+    },
+    "v2_temp_oven_climbed": {
+      "answer_magnitude_direction_balance": true,
+      "answer_relevance_balance": true,
+      "full_factorial_frame_count": true,
+      "label_role_balance": true,
+      "pair_count_matches_frozen_frame_count": true,
+      "sentence_order_balance": true
+    },
+    "v2_temp_room_rose": {
+      "answer_magnitude_direction_balance": true,
+      "answer_relevance_balance": true,
+      "full_factorial_frame_count": true,
+      "label_role_balance": true,
+      "pair_count_matches_frozen_frame_count": true,
+      "sentence_order_balance": true
+    },
+    "v2_temp_sensor_rising": {
+      "answer_magnitude_direction_balance": true,
+      "answer_relevance_balance": true,
+      "full_factorial_frame_count": true,
+      "label_role_balance": true,
+      "pair_count_matches_frozen_frame_count": true,
+      "sentence_order_balance": true
+    },
+    "v2_temp_tank_warmed": {
+      "answer_magnitude_direction_balance": true,
+      "answer_relevance_balance": true,
+      "full_factorial_frame_count": true,
+      "label_role_balance": true,
+      "pair_count_matches_frozen_frame_count": true,
+      "sentence_order_balance": true
+    }
+  },
+  "template_family_count": 18,
+  "tokenizer_sha256": "e134af98b985517b4f068e3755ae90d4e9cd2d45d328325dc503f1c6b2d06cc7"
+}
